@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import type { MembersPageData } from '../lib/members';
+interface Props { data: MembersPageData }
+const { data } = Astro.props;
+const payload = JSON.stringify({ section: data.section, kdf: data.kdf, iv: data.iv, data: data.data });
+---
+<Base title={data.title} noindex>
+  <h1 class="page-title">{data.title}</h1>
+  <div id="members-root">
+    <form class="unlock" id="unlock-form" autocomplete="off">
+      <p>Cette page est réservée aux participant·e·s. Entrez le mot de passe reçu lors de la formation.</p>
+      <label for="pw">Mot de passe</label>
+      <div class="row">
+        <input id="pw" type="password" required autocomplete="current-password" />
+        <button type="submit">Déverrouiller</button>
+      </div>
+      <label class="remember"><input type="checkbox" id="remember" checked /> Se souvenir de moi sur cet appareil</label>
+      <p class="error" id="unlock-error" role="alert"></p>
+      <noscript><p>JavaScript doit être activé pour accéder à cette page.</p></noscript>
+    </form>
+  </div>
+  <script type="application/json" id="members-payload" set:html={payload} />
+  <script>
+    import { initMembers } from '../scripts/members';
+    initMembers();
+  </script>
+</Base>

@@ -1,0 +1,94 @@
+---
+import '../styles/global.css';
+import { nav, social } from '../data/nav';
+import videos from '../data/videos.json';
+
+interface Props { title: string; description?: string; wide?: boolean; noindex?: boolean }
+const { title, description, wide = false, noindex = false } = Astro.props;
+const siteName = 'Michèle Masson-Trottier';
+const fullTitle = title === 'Accueil' ? `${siteName} – Orthophoniste` : `${title} – ${siteName}`;
+const desc = description ?? 'Allier thérapie et recherche pour enrichir le langage et la connexion humaine. Orthophoniste, MPO, O(c), Ph. D.';
+const path = Astro.url.pathname;
+const isCurrent = (href: string) => path === href;
+---
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={desc} />
+  {noindex && <meta name="robots" content="noindex, nofollow" />}
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="canonical" href={new URL(path, Astro.site)} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={desc} />
+  <meta property="og:image" content={new URL('/media/2024/09/logo_mmt_meilleurres_999x5720_blanc.png', Astro.site)} />
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu</a>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="/">
+        <img src="/media/2024/09/sanstexte_377x300.png" alt="" width="52" height="41" />
+        <span>{siteName}</span>
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="menu">Menu</button>
+      <nav class="main" id="menu" aria-label="Menu principal">
+        <ul>
+          {nav.map((item) => (
+            <li>
+              <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a>
+              {item.children && (
+                <ul>
+                  {item.children.map((c) => (
+                    <li><a href={c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{c.label}</a></li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenu" class={wide ? 'wide' : undefined}>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="inner">
+      <div>
+        <a class="brand" href="/"><img src="/media/2024/09/sanstexte_377x300.png" alt="" width="90" height="72" /></a>
+        <p>{siteName}<br /><small>Orthophoniste, MPO, O(c), Ph. D.</small></p>
+      </div>
+      <div>
+        <h2>À propos</h2>
+        <ul>
+          <li><a href="/a-propos/">À propos de moi</a></li>
+          <li><a href="/contactez-moi/">Contactez-moi</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Réseaux</h2>
+        <ul>{social.map((s) => <li><a href={s.href} rel="noopener" target="_blank">{s.label}</a></li>)}</ul>
+      </div>
+    </div>
+  </footer>
+
+  <script is:inline define:vars={{ videos }}>
+    window.__VIDEOS = videos;
+  </script>
+  <script>
+    import { enhance } from '../scripts/enhance';
+    enhance(document);
+    const btn = document.querySelector<HTMLButtonElement>('.menu-toggle');
+    const menu = document.getElementById('menu');
+    btn?.addEventListener('click', () => {
+      const open = menu!.classList.toggle('open');
+      btn.setAttribute('aria-expanded', String(open));
+    });
+  </script>
+</body>
+</html>

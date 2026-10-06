@@ -1,0 +1,25 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import MembersPage from '../components/MembersPage.astro';
+import { getMembersPages, type MembersPageData } from '../lib/members';
+
+export async function getStaticPaths() {
+  const pages = (await getCollection('pages')).filter((p) => p.id !== 'index');
+  const members = getMembersPages();
+  return [
+    ...pages.map((entry) => ({ params: { slug: entry.id }, props: { entry } })),
+    ...members.map((m) => ({ params: { slug: m.slug }, props: { members: m } })),
+  ];
+}
+
+const { entry, members } = Astro.props as { entry?: any; members?: MembersPageData };
+const Content = entry ? (await render(entry)).Content : null;
+---
+{entry && Content && (
+  <Base title={entry.data.title} description={entry.data.description}>
+    <h1 class="page-title">{entry.data.title}</h1>
+    <div class="prose"><Content /></div>
+  </Base>
+)}
+{members && <MembersPage data={members} />}

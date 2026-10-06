@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+# Plaintext members-only content and passwords: NEVER commit these
+members-src/
+# Migration working files (WordPress export, raw media)
+_migration/
