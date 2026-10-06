@@ -139,3 +139,11 @@ a.loading { opacity: .6; pointer-events: none; }
 .home > h1:first-child ~ p:has(img):first-of-type img, .home img { margin-left: auto; margin-right: auto; }
 .home > .buttons:first-of-type { justify-content: center; }
 .prose { overflow-wrap: break-word; }
+
+/* contact form */
+.contact-form { display: grid; gap: .4rem; background: #fff; border: 1px solid var(--base-2); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; }
+.contact-form label { font-family: var(--font-head); color: var(--contrast); margin-top: .5rem; }
+.contact-form input, .contact-form textarea { font: inherit; padding: .7rem .9rem; border: 1px solid #cfc6cc; border-radius: var(--radius); width: 100%; background: var(--base); }
+.contact-form input:focus, .contact-form textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.contact-form button { justify-self: start; margin-top: 1rem; }
+.contact-form .hp { position: absolute; left: -9999px; }

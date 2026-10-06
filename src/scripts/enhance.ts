@@ -26,6 +26,10 @@ export function enhance(root: ParentNode) {
     if (id) { a.href = `https://youtu.be/${id}`; a.target = '_blank'; a.rel = 'noopener'; }
     else { a.removeAttribute('href'); a.title = 'Vidéo bientôt disponible'; }
   });
+  // contact form: come back to this site's thank-you page after sending
+  root.querySelectorAll<HTMLInputElement>('input[data-auto-next]').forEach((i) => {
+    i.value = new URL(import.meta.env.BASE_URL.replace(/\/?$/, '/') + 'merci/', location.origin).href;
+  });
   // external links open in a new tab
   root.querySelectorAll<HTMLAnchorElement>('main a[href^="http"]').forEach((a) => {
     if (!a.href.startsWith(location.origin)) { a.target = '_blank'; a.rel = 'noopener'; }
