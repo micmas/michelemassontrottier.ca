@@ -26,7 +26,7 @@ order: 15
 <div class="column" style="flex-basis:66.66%">
 
 - Guidelines for rehabilitation and recovery after stroke:
-  - Canada: <https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation>
+  - Canada: <https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/7-language-and-communication>
   - United Kingdom: <https://www.strokeguideline.org/chapter/communication-and-language/>
   - Australia: <https://www.aphasiapathway.com.au/>
 - Living with a concussion: <https://concussionsontario.org/>
@@ -60,7 +60,7 @@ order: 15
 
 - Free pictograms:
   - <https://thenounproject.com/>
-  - [https://recitas.ca/parlerpictos/](https://recitas.ca/parlerpictos/telechargements/) (in French)
+  - <https://recitas.ca/parlerpictos/> (in French)
 - Free medical illustrations: <https://smart.servier.com/>
 - Royalty-free photos:
   - <https://unsplash.com/>

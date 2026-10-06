@@ -1,0 +1,31 @@
+---
+// Keeps old WordPress links working: ?page_id=123 links, /wp-content/uploads/... files.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const pageIds: Record<string, string> = {
+  '1': 'a-propos', '17': 'clinique_interventions', '20': 'clinique_evaluations', '54': 'service-clinique',
+  '108': 'contactez-moi', '133': 'parcours-academique-et-scientifique', '136': 'interets_recherche',
+  '138': 'mentorat', '139': 'formations-continues', '140': 'enseignement', '141': 'publications',
+  '146': 'ressources', '196': 'valorisation_connaissances', '211': 'presentations-grand-public',
+  '269': 'contenu-post-formation-continue', '437': 'aphasie-multilingue', '458': 'aphasie-multilingue-capsules-video',
+  '841': 'formation-aqoa-interventions-en-orthophonie-aupres-de-personnes-ayant-un-trouble-acquis-de-la-communication',
+  '846': 'formation-aqoa-pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs',
+  '1096': 'formation-aqoa-repenser-nos-pratiques-deconstruire-le-capacitisme-en-orthophonie',
+};
+---
+<script is:inline define:vars={{ base, pageIds }}>
+  (function () {
+    var q = new URLSearchParams(location.search);
+    var id = q.get('page_id') || q.get('p');
+    if (id && pageIds[id]) { location.replace(base + '/' + pageIds[id] + '/'); return; }
+    var path = location.pathname.slice(base.length);
+    // Old WordPress file links: /wp-content/uploads/2025/05/file.pdf -> /media/2025/05/file.pdf
+    var m = path.match(/^\/wp-content\/uploads\/(.+)$/);
+    if (m) { location.replace(base + '/media/' + m[1]); return; }
+    // A file that is no longer public (course handouts are now on the password-protected pages)
+    if (/^\/media\//.test(path) && document.documentElement.dataset.notFound) {
+      location.replace(base + '/contenu-post-formation-continue/'); return;
+    }
+    // Old slug with a typo
+    if (/^\/clinique_evaluation\/?$/.test(path)) location.replace(base + '/clinique_evaluations/');
+  })();
+</script>

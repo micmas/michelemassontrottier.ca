@@ -25,7 +25,7 @@ order: 15
 <div class="column" style="flex-basis:66.66%">
 
 - Lignes directrices pour la réadaptation et le rétablissement après un AVC:
-  - Canada: <https://www.pratiquesoptimalesavc.ca/recommandations/readaptation>
+  - Canada: <https://www.pratiquesoptimalesavc.ca/recommandations/prestation-de-soins-de-readaptation-post-avc/7-langage-et-communication>
   - Royaumes-Unis: [https://www.strokeguideline.org/chapter/communication-and-language/](https://www.strokeguideline.org/chapter/communication-and-language/?_gl=1*k147ry*_up*MQ..*_ga*MTE2NTU1MTk1OS4xNzMzODc2MTIx*_ga_EE3BZMVLRT*MTczMzg3NjEyMC4xLjEuMTczMzg3NjEyNS4wLjAuMA..)
   - Australia: <https://www.aphasiapathway.com.au/>
 - Vivre avec une commotion cérébrale (*anglais*): <https://concussionsontario.org/>
@@ -59,7 +59,7 @@ order: 15
 
 - Pictogrammes gratuits:
   - <https://thenounproject.com/>
-  - [https://recitas.ca/parlerpictos/](https://recitas.ca/parlerpictos/telechargements/)
+  - <https://recitas.ca/parlerpictos/>
 - Pictogrammes médicaux gratuits: <https://smart.servier.com/>
 - Photos libres de droits:
   - <https://unsplash.com/>

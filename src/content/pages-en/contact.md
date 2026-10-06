@@ -14,7 +14,7 @@ I will get back to you as soon as I can.
 <input type="hidden" name="_next" value="https://michelemassontrottier.ca/en/thanks/" data-auto-next data-next-path="en/thanks/">
 <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
 <label for="cf-name">Name</label>
-<input id="cf-name" type="text" name="name" required autocomplete="name">
+<input id="cf-name" type="text" name="name" autocomplete="name">
 <label for="cf-email">Email</label>
 <input id="cf-email" type="email" name="email" required autocomplete="email">
 <label for="cf-message">Message</label>

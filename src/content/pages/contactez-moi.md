@@ -13,7 +13,7 @@ Je serai ravie de vous répondre dans les meilleurs délais.
 <input type="hidden" name="_next" value="https://michelemassontrottier.ca/merci/" data-auto-next>
 <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
 <label for="cf-name">Nom</label>
-<input id="cf-name" type="text" name="nom" required autocomplete="name">
+<input id="cf-name" type="text" name="nom" autocomplete="name">
 <label for="cf-email">Courriel</label>
 <input id="cf-email" type="email" name="email" required autocomplete="email">
 <label for="cf-message">Message</label>

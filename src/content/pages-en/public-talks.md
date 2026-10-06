@@ -31,7 +31,7 @@ Coming soon.
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_5CYyhUyjj0" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_5CYyhUyjj0?start=54" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>
