@@ -13,6 +13,7 @@ export const nav: NavItem[] = [
   {
     label: 'Parcours académique', href: '/parcours-academique-et-scientifique/',
     children: [
+      { label: 'Projets en cours', href: '/projets/' },
       { label: 'Intérêts de recherche', href: '/interets_recherche/' },
       { label: 'Publications scientifiques', href: '/publications/' },
       { label: "Expériences d'enseignement", href: '/enseignement/' },

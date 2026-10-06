@@ -12,6 +12,23 @@ Mon objectif est de partager mes connaissances, de contribuer à l'avancement de
 <div class="columns">
 <div class="column" style="flex-basis:40%">
 
+## Projets en cours
+
+</div>
+<div class="column">
+
+CALMaR, Neurodesk et mes autres projets de science ouverte à l'Université du Queensland, avec les liens vers le code et le matériel.
+
+[Commencer](/projets/) →
+
+</div>
+</div>
+
+---
+
+<div class="columns">
+<div class="column" style="flex-basis:40%">
+
 ## Intérêts de recherche
 
 </div>

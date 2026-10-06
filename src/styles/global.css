@@ -147,3 +147,9 @@ a.loading { opacity: .6; pointer-events: none; }
 .contact-form input:focus, .contact-form textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 .contact-form button { justify-self: start; margin-top: 1rem; }
 .contact-form .hp { position: absolute; left: -9999px; }
+
+/* projects page */
+.project { background: #fff; border: 1px solid var(--base-2); border-radius: 12px; padding: .5rem 1.5rem 1rem; margin: 1.5rem 0; }
+.project h2 { margin-top: 1rem; }
+.project .buttons { margin: 1rem 0 .5rem; }
+.project .button { font-size: .95rem; padding: .6rem 1.2rem .7rem; }
