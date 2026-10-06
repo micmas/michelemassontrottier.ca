@@ -4,7 +4,7 @@ fr: "contactez-moi"
 order: 16
 ---
 
-Whether you are a health professional, a researcher, a student, a person living with a communication disorder or a family carer, please feel free to get in touch with any question or idea for collaboration. I am happy to talk about my clinical work and my research, or to share resources and ideas.
+Whether you are a health professional, a researcher, a student, a person living with a communication disorder or a family caregiver, please feel free to get in touch with any question or idea for collaboration. I am happy to talk about my clinical work and my research, or to share resources and ideas.
 
 I will get back to you as soon as I can.
 

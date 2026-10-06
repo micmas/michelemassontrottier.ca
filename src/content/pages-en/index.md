@@ -14,14 +14,14 @@ Speech-Language Pathologist, MPO, O(c), PhD
 
 ## Combining therapy and research to enrich language and human connection
 
-Drawing on an evidence-based approach and years of clinical experience, I am committed to improving the communication abilities of adults with acquired language disorders. My work brings together compassion and scientific expertise to offer personalised interventions that support functional rehabilitation and each person's well-being.
+Drawing on an evidence-based approach and years of clinical experience, I am committed to improving the communication abilities of adults with acquired language disorders. My work brings together compassion and scientific expertise to offer personalized interventions that support functional rehabilitation and each person's well-being.
 
 <div class="columns">
 <div class="column">
 
 ### [Clinical speech-language pathology](/en/clinical-practice/)
 
-Explore my services, which follow a personalised approach to optimise functional communication.
+Explore my services, which follow a personalized approach to optimize functional communication.
 
 </div>
 <div class="column">

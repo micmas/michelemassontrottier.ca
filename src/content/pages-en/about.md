@@ -26,6 +26,6 @@ My main research interests are the rehabilitation of communication disorders in 
 
 At The University of Queensland, I contribute to [Neurodesk](https://www.neurodesk.org/), an open-source platform for reproducible neuroimaging (2025 AIIA iAward, Technology Platform of the Year), and I lead the [CALMaR](/en/projects/) project, which aims to make brain imaging useful for speech-language pathology practice after stroke. I also coordinate a biomedical engineering course and contribute to speech pathology education.
 
-I have experience in behavioural and neuroimaging data acquisition (fMRI, tDCS, TMS), clinical trial coordination, supervising students from undergraduate to PhD level, grant writing and teaching. In my day-to-day work I use Python, R and MATLAB, along with containerised software environments.
+I have experience in behavioural and neuroimaging data acquisition (fMRI, tDCS, TMS), clinical trial coordination, supervising students from undergraduate to PhD level, grant writing and teaching. In my day-to-day work I use Python, R and MATLAB, along with containerized software environments.
 
 [See my current projects](/en/projects/) →

@@ -22,7 +22,7 @@ I offer continuing education designed to strengthen the skills of speech-languag
 
 ## Talks for the general public
 
-I regularly speak at conferences and events organised by patient and community associations, on topics related to communication disorders. Some of my talks are recorded on YouTube and offer practical advice and information for people affected by these disorders and their families.
+I regularly speak at conferences and events organized by patient and community associations, on topics related to communication disorders. Some of my talks are recorded on YouTube and offer practical advice and information for people affected by these disorders and their families.
 
 <div class="buttons"><a class="button" href="/en/public-talks/">See the talks</a></div>
 

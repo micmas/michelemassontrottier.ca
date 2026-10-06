@@ -169,7 +169,7 @@ A website with information about the structure of [*different languages*](https:
 <details class="accordion">
 <summary>AI assistant for assessing and managing multilingual aphasia 🤖<br/><a href="https://chatgpt.com/g/g-688958ba06108191897dfa67d68031d8-multilingual-aphasia-slp-assistant"><em>view online</em></a></summary>
 
-This GPT is a specialised assistant designed to support speech-language pathologists working with multilingual people living with aphasia, particularly after a stroke. It draws on a carefully selected knowledge base of more than 80 scientific publications, case studies and clinical guidelines to provide evidence-based answers.
+This GPT is a specialized assistant designed to support speech-language pathologists working with multilingual people living with aphasia, particularly after a stroke. It draws on a carefully selected knowledge base of more than 80 scientific publications, case studies and clinical guidelines to provide evidence-based answers.
 
 </details>
 

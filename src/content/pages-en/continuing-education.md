@@ -28,7 +28,7 @@ My courses are currently offered in French through the Association québécoise 
 
 **November 2026**  
 *Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s*  
-(Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and carer support)
+(Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support)
 
 🔗 [Details and registration](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
@@ -71,15 +71,15 @@ My courses take an interactive, hands-on approach that encourages collaborative 
 
 ### Past courses
 
-Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and carer support – April 2026
+Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support – April 2026
 
 Rethinking our practices: deconstructing ableism in speech-language pathology – January 2026
 
 Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – October 2025
 
-Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – 10 December 2024
+Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – December 10, 2024
 
-Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – 26 January 2024
+Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – January 26, 2024
 
 If you have attended one of my courses, you can access the supplementary material [here](/en/continuing-education-resources/).
 

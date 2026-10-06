@@ -49,7 +49,7 @@ A hands-on workshop for running reproducible multiple sclerosis neuroimaging ana
 
 *Working Accountability Group* · School of Electrical Engineering and Computer Science, UQ
 
-WAGademy gives higher degree by research students three hours of protected, timed work alongside others doing the same, often preceded by a short themed discussion. The format, tools and a library of topics are documented online so that anyone can start their own group.
+WAGademy gives graduate research students three hours of protected, timed work alongside others doing the same, often preceded by a short themed discussion. The format, tools and a library of topics are documented online so that anyone can start their own group.
 
 <div class="buttons"><a class="button" href="https://wagademy-uq.github.io/">WAGademy website</a></div>
 
