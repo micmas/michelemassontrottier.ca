@@ -1,8 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 ---
-<Base title="Page introuvable">
+<Base title="Page introuvable" noindex>
   <h1 class="page-title">Page introuvable</h1>
   <p>Désolée, cette page n’existe pas ou a été déplacée.</p>
-  <div class="buttons"><a class="button" href="/">Retour à l’accueil</a></div>
+  <p lang="en"><em>Sorry, this page does not exist or has moved.</em></p>
+  <div class="buttons"><a class="button" href="/">Retour à l’accueil</a><a class="button" href="/en/" lang="en">English site</a></div>
 </Base>

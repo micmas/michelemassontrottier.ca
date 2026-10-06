@@ -132,7 +132,7 @@ Applications d'intervention sur tablette (iPad et Android). Les applications Com
 </details>
 
 <details class="accordion">
-<summary>AbSANT therapy<br/><a href="https://tactustherapy.com/app/language/" rel="noopener" target="_blank"><em>disponible en ligne</em></a> https://sites.psu.edu/sandlab/absant-materials/</summary>
+<summary>AbSANT therapy<br/><a href="https://sites.psu.edu/sandlab/absant-materials/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
 
 Abstract Semantic Associative Network Training a été étudié chez des individus bilingues et le matériel est disponible sur demande
 

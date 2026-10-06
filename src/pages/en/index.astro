@@ -1,0 +1,9 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+const entry = (await getEntry('pagesEn', 'index'))!;
+const { Content } = await render(entry);
+---
+<Base title="Home" lang="en">
+  <div class="prose home"><Content /></div>
+</Base>
