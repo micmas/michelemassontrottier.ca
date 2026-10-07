@@ -22,47 +22,21 @@ This knowledge translation tool was developed by **Floriane Birraud**, a speech-
 <details class="accordion">
 <summary>The video has 5 parts:</summary>
 
-1. [Introduction: the multilingual person living with aphasia](#video-capsule-section1)
-2. [What to consider at a first meeting](#video-capsule-section2)
-3. [Adapted assessment](#video-capsule-section3)
-4. [Adapted speech-language intervention](#video-capsule-section4)
-5. [Working with an interpreter or translator](#video-capsule-section5)
+1. [Introduction: the multilingual person living with aphasia](#partie-1)
+2. [What to consider at a first meeting](#partie-2)
+3. [Adapted assessment](#partie-3)
+4. [Adapted speech-language intervention](#partie-4)
+5. [Working with an interpreter or translator](#partie-5)
 
 </details>
 
 <div class="buttons"><a class="button" href="/en/multilingual-aphasia/">Back to the tool page</a></div>
 
-<div class="columns">
-<div class="column">
-
-## Introduction to the tool
-
-Thank you for your interest!
-
+<div class="video-grid">
+<article class="video-card" id="partie-intro"><div class="video-embed" data-video="capsule-intro"></div><div class="video-card-body"><span class="video-num">Intro</span><span class="video-title">Introduction to the tool</span><span class="video-dur">5:01</span></div></article>
+<article class="video-card" id="partie-1"><div class="video-embed" data-video="capsule-section1"></div><div class="video-card-body"><span class="video-num">1</span><span class="video-title">The multilingual person living with aphasia</span><span class="video-dur">5:41</span></div></article>
+<article class="video-card" id="partie-2"><div class="video-embed" data-video="capsule-section2"></div><div class="video-card-body"><span class="video-num">2</span><span class="video-title">What to consider at a first meeting</span><span class="video-dur">10:09</span></div></article>
+<article class="video-card" id="partie-3"><div class="video-embed" data-video="capsule-section3"></div><div class="video-card-body"><span class="video-num">3</span><span class="video-title">Adapted assessment</span><span class="video-dur">4:23</span></div></article>
+<article class="video-card" id="partie-4"><div class="video-embed" data-video="capsule-section4"></div><div class="video-card-body"><span class="video-num">4</span><span class="video-title">Adapted speech-language intervention</span><span class="video-dur">21:38</span></div></article>
+<article class="video-card" id="partie-5"><div class="video-embed" data-video="capsule-section5"></div><div class="video-card-body"><span class="video-num">5</span><span class="video-title">Working with an interpreter or translator</span><span class="video-dur">7:14</span></div></article>
 </div>
-<div class="column">
-
-<div class="video-embed" data-video="capsule-intro"></div>
-
-</div>
-</div>
-
-## 1. Introduction: the multilingual person living with aphasia
-
-<div class="video-embed" data-video="capsule-section1"></div>
-
-## 2. What to consider at a first meeting
-
-<div class="video-embed" data-video="capsule-section2"></div>
-
-## 3. Adapted assessment
-
-<div class="video-embed" data-video="capsule-section3"></div>
-
-## 4. Adapted speech-language intervention
-
-<div class="video-embed" data-video="capsule-section4"></div>
-
-## 5. Working with an interpreter or translator
-
-<div class="video-embed" data-video="capsule-section5"></div>

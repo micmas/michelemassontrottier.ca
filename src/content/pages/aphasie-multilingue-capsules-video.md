@@ -21,47 +21,21 @@ Cet outil de transfert de connaissances a été développé par **Floriane Birra
 <details class="accordion">
 <summary>La capsule vidéo est composé de 5 parties:</summary>
 
-1. [Introduction – la personne multilingue vivant avec une aphasie](#video-capsule-section1)
-2. [Eléments à considérer lors d’une première rencontre](#video-capsule-section2)
-3. [Evaluation adaptée](#video-capsule-section3)
-4. [Intervention orthophonique adaptée](#video-capsule-section4)
-5. [Collaboration avec un interprète ou un traducteur](#video-capsule-section5)
+1. [Introduction – la personne multilingue vivant avec une aphasie](#partie-1)
+2. [Eléments à considérer lors d’une première rencontre](#partie-2)
+3. [Evaluation adaptée](#partie-3)
+4. [Intervention orthophonique adaptée](#partie-4)
+5. [Collaboration avec un interprète ou un traducteur](#partie-5)
 
 </details>
 
 <div class="buttons"><a class="button" href="/aphasie-multilingue/">Retour à la page de l'outil</a></div>
 
-<div class="columns">
-<div class="column">
-
-## Introduction à l'outil
-
-Merci pour votre intérêt!
-
+<div class="video-grid">
+<article class="video-card" id="partie-intro"><div class="video-embed" data-video="capsule-intro"></div><div class="video-card-body"><span class="video-num">Intro</span><span class="video-title">Introduction à l’outil</span><span class="video-dur">5:01</span></div></article>
+<article class="video-card" id="partie-1"><div class="video-embed" data-video="capsule-section1"></div><div class="video-card-body"><span class="video-num">1</span><span class="video-title">La personne multilingue vivant avec une aphasie</span><span class="video-dur">5:41</span></div></article>
+<article class="video-card" id="partie-2"><div class="video-embed" data-video="capsule-section2"></div><div class="video-card-body"><span class="video-num">2</span><span class="video-title">Éléments à considérer lors d’une première rencontre</span><span class="video-dur">10:09</span></div></article>
+<article class="video-card" id="partie-3"><div class="video-embed" data-video="capsule-section3"></div><div class="video-card-body"><span class="video-num">3</span><span class="video-title">Évaluation adaptée</span><span class="video-dur">4:23</span></div></article>
+<article class="video-card" id="partie-4"><div class="video-embed" data-video="capsule-section4"></div><div class="video-card-body"><span class="video-num">4</span><span class="video-title">Intervention orthophonique adaptée</span><span class="video-dur">21:38</span></div></article>
+<article class="video-card" id="partie-5"><div class="video-embed" data-video="capsule-section5"></div><div class="video-card-body"><span class="video-num">5</span><span class="video-title">Collaboration avec un interprète ou un traducteur</span><span class="video-dur">7:14</span></div></article>
 </div>
-<div class="column">
-
-<div class="video-embed" data-video="capsule-intro"></div>
-
-</div>
-</div>
-
-## 1. Introduction la personne multilingue vivant avec une aphasie
-
-<div class="video-embed" data-video="capsule-section1"></div>
-
-## 2. Eléments à considérer lors d’une première rencontre
-
-<div class="video-embed" data-video="capsule-section2"></div>
-
-## 3. Evaluation adaptée
-
-<div class="video-embed" data-video="capsule-section3"></div>
-
-## 4. Intervention orthophonique adaptée
-
-<div class="video-embed" data-video="capsule-section4"></div>
-
-## 5. Collaboration avec un interprète ou un traducteur
-
-<div class="video-embed" data-video="capsule-section5"></div>

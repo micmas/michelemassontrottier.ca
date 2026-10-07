@@ -53,7 +53,20 @@ You can also watch the video at your own pace, with subtitles, [on Canva](https:
 
 ## Information booklet
 
-[La prise en soin orthophonique des personnes multilingues vivant avec une aphasie](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf) (Speech-language pathology care for multilingual people living with aphasia, in French)
+<div class="doc-card">
+<a class="doc-cover" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" target="_blank" rel="noopener"><img src="/media/2025/05/fascicule-cover.webp" alt="Booklet cover" width="910" height="1287" loading="lazy"></a>
+<div class="doc-info">
+<p class="doc-title">La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention</p>
+<p class="doc-sub">Speech-language pathology care for multilingual people living with aphasia: from assessment to intervention</p>
+<p class="doc-meta">PDF · 33 pages · en français</p>
+<div class="buttons"><a class="button" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" target="_blank" rel="noopener">Open the booklet</a><a class="button button-outline" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" download>Download</a></div>
+</div>
+</div>
+
+<details class="doc-viewer">
+<summary>Browse it here</summary>
+<iframe src="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf#view=FitH" title="La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention" loading="lazy"></iframe>
+</details>
 
 </div>
 </div>
