@@ -5,7 +5,7 @@ order: 7
 
 Mon programme de recherche explore les mécanismes sous-jacents aux troubles de la communication acquis, ainsi que l'efficacité des interventions cliniques. Je m'intéresse à la manière dont la neuroplasticité peut être influencée par des thérapies basées sur les évidences, et à l'intégration de nouvelles technologies dans la pratique clinique.
 
-### Mes principaux domaines de recherche incluent :
+## Principaux domaines de recherche
 
 - **Trouble du langage**  
   Études des troubles du langages chez les adultes, notamment dans des conditions telles que l’aphasie post-AVC.

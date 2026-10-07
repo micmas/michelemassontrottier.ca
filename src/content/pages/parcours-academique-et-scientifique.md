@@ -3,7 +3,7 @@ title: "Parcours académique et scientifique"
 order: 6
 ---
 
-## Bienvenue dans la section dédiée à mon travail académique.
+## Bienvenue dans la section dédiée à mon travail académique
 
 Ici, vous trouverez un aperçu de mes intérêts de recherche, mes publications scientifiques, mes expériences d'enseignement, ainsi que mes offres de formation continue et de mentorat.
 

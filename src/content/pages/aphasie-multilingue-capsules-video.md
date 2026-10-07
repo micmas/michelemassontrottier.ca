@@ -6,7 +6,7 @@ order: 0
 <div class="columns">
 <div class="column" style="flex-basis:40%">
 
-# Un outil pratique
+## Un outil pratique
 
 Cet outil de transfert de connaissances a été développé par **Floriane Birraud**, étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision.
 

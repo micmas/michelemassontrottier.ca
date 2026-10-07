@@ -6,7 +6,7 @@ order: 7
 
 My research program explores the mechanisms underlying acquired communication disorders and the effectiveness of clinical interventions. I am interested in how evidence-based therapies can shape neuroplasticity, and in bringing new technologies into clinical practice.
 
-### My main research areas include:
+## Main research areas
 
 - **Language disorders**  
   Studying language disorders in adults, particularly in conditions such as post-stroke aphasia.

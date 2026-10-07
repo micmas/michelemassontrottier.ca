@@ -4,15 +4,24 @@ fr: "ressources"
 order: 15
 ---
 
+<div class="columns intro-row">
+<div class="column">
+
 ![](/media/2024/09/image-to-represent-ressources-available-for-allied-health-professionnals-maybe.png)
 
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
+</div>
+<div class="column">
 
-## Tools for a quick literature review
+A selection of reliable, free resources to support speech-language pathology practice with adults who have acquired communication disorders. This section grows over time.
 
 </div>
-<div class="column" style="flex-basis:66.66%">
+</div>
+
+<div class="resource-grid">
+
+<div class="resource-card">
+
+### Tools for a quick literature review
 
 - speechBITE, for evidence on speech-language pathology interventions: <https://speechbite.com/>
 - ASHA's summaries of recent publications in speech-language pathology: <https://apps.asha.org/EvidenceMaps/>
@@ -20,10 +29,9 @@ order: 15
 - Using artificial intelligence to get an overview of the scientific literature on a question: <https://scispace.com/>
 
 </div>
-</div>
+<div class="resource-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:66.66%">
+### Best practices and relevant guidelines
 
 - Guidelines for rehabilitation and recovery after stroke:
   - Canada: <https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/7-language-and-communication>
@@ -34,29 +42,17 @@ order: 15
 - Canadian Coalition for Seniors' Mental Health (CCSMH) guidelines on **behavioural and psychological symptoms of dementia (BPSD)**: <https://ccsmh.ca/areas-of-focus/dementia/>
 
 </div>
-<div class="column" style="flex-basis:33.33%">
+<div class="resource-card">
 
-## Best practices and relevant guidelines
-
-</div>
-</div>
-
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
-
-## Intervention search engines (free)
-
-</div>
-<div class="column" style="flex-basis:66.66%">
+### Intervention search engines (free)
 
 - Everything about interventions that can be used with people living with aphasia: <https://aphasiatherapyfinder.com/>
 - Finding apps that may be useful for your clients: <https://www.aphasiasoftwarefinder.org/>
 
 </div>
-</div>
+<div class="resource-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:66.66%">
+### Royalty-free pictograms and photos (free)
 
 - Free pictograms:
   - <https://thenounproject.com/>
@@ -68,41 +64,25 @@ order: 15
   - <https://pixabay.com/>
 
 </div>
-<div class="column" style="flex-basis:33.33%">
+<div class="resource-card">
 
-## Royalty-free pictograms and photos (free)
-
-</div>
-</div>
-
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
-
-## Intervention tools (including AAC)
-
-</div>
-<div class="column" style="flex-basis:66.66%">
+### Intervention tools (including AAC)
 
 - Aphasia Access: <https://www.aphasiaaccess.org/>
 - Everyone Communicates: [http://everyonecommunicates.org](http://everyonecommunicates.org/aaclinks.html)
 
 </div>
-</div>
+<div class="resource-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:66.66%">
+### Material to support work with multilingual clients
 
-- [Material developed by **Floriane Birraud**](/en/multilingual-aphasia/), a speech-language pathology student at the Université de Rennes, as part of her master's thesis under my supervision (in French)
-  - [Video](#video-capsule-complete)
+- [Material developed by Floriane Birraud](/en/multilingual-aphasia/), a speech-language pathology student at the Université de Rennes, as part of her master's thesis under my supervision (in French)
+  - [Videos](/en/multilingual-aphasia-videos/)
   - [Information booklet](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
   - [Inventory of available tools](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
 
 </div>
-<div class="column" style="flex-basis:33.33%">
 
-## Material to support work with multilingual clients
-
-</div>
 </div>
 
 If you have attended one of my courses, you can access the supplementary material [here](/en/continuing-education-resources/).

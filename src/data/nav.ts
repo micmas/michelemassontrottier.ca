@@ -15,10 +15,10 @@ export const navFr: NavItem[] = [
     label: 'Parcours académique', href: '/parcours-academique-et-scientifique/',
     children: [
       { label: 'Projets en cours', href: '/projets/' },
-      { label: 'Intérêts de recherche', href: '/interets_recherche/' },
       { label: 'Publications scientifiques', href: '/publications/' },
       { label: "Expériences d'enseignement", href: '/enseignement/' },
       { label: 'Mentorat', href: '/mentorat/' },
+      { label: 'Intérêts de recherche', href: '/interets_recherche/' },
     ],
   },
   {
@@ -32,8 +32,9 @@ export const navFr: NavItem[] = [
   {
     label: 'Ressources', href: '/ressources/',
     children: [
-      { label: 'Aphasie multilingue', href: '/aphasie-multilingue/' },
-      { label: 'Capsules vidéo', href: '/aphasie-multilingue-capsules-video/' },
+      { label: 'Aphasie multilingue', href: '/aphasie-multilingue/', children: [
+        { label: 'Capsules vidéo', href: '/aphasie-multilingue-capsules-video/' },
+      ] },
     ],
   },
   { label: 'Contact', href: '/contactez-moi/' },
@@ -52,10 +53,10 @@ export const navEn: NavItem[] = [
     label: 'Academic career', href: '/en/academic-career/',
     children: [
       { label: 'Current projects', href: '/en/projects/' },
-      { label: 'Research interests', href: '/en/research-interests/' },
       { label: 'Publications', href: '/en/publications/' },
       { label: 'Teaching', href: '/en/teaching/' },
       { label: 'Mentoring', href: '/en/mentoring/' },
+      { label: 'Research interests', href: '/en/research-interests/' },
     ],
   },
   {
@@ -69,8 +70,9 @@ export const navEn: NavItem[] = [
   {
     label: 'Resources', href: '/en/resources/',
     children: [
-      { label: 'Multilingual aphasia', href: '/en/multilingual-aphasia/' },
-      { label: 'Videos', href: '/en/multilingual-aphasia-videos/' },
+      { label: 'Multilingual aphasia', href: '/en/multilingual-aphasia/', children: [
+        { label: 'Videos', href: '/en/multilingual-aphasia-videos/' },
+      ] },
     ],
   },
   { label: 'Contact', href: '/en/contact/' },

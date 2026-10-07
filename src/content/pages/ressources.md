@@ -1,17 +1,26 @@
 ---
-title: "Ressources pour la pratique troubles acquis en orthophonie (pour les orthophonistes)"
+title: "Ressources pour la pratique en troubles acquis en orthophonie (pour les orthophonistes)"
 order: 15
 ---
 
+<div class="columns intro-row">
+<div class="column">
+
 ![](/media/2024/09/image-to-represent-ressources-available-for-allied-health-professionnals-maybe.png)
 
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
+</div>
+<div class="column">
 
-## Outils pour une revue de la littérature rapide
+Une sélection de ressources fiables et gratuites pour soutenir la pratique orthophonique auprès des adultes ayant un trouble acquis de la communication. Cette section est enrichie au fil du temps.
 
 </div>
-<div class="column" style="flex-basis:66.66%">
+</div>
+
+<div class="resource-grid">
+
+<div class="resource-card">
+
+### Outils pour une revue de la littérature rapide
 
 - speechBITE pour les ressources portant sur les interventions en orthophonie: <https://speechbite.com/>
 - Pour consulter les résumés écrits par l'ASHA pour les dernières publications en orthophonie: <https://apps.asha.org/EvidenceMaps/>
@@ -19,10 +28,9 @@ order: 15
 - Utiliser l'intelligence artificielle pour obtenir un aperçu des écrits scientifiques portant sur une question: <https://scispace.com/>
 
 </div>
-</div>
+<div class="resource-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:66.66%">
+### Accéder aux meilleures pratiques et lignes directrices pertinentes
 
 - Lignes directrices pour la réadaptation et le rétablissement après un AVC:
   - Canada: <https://www.pratiquesoptimalesavc.ca/recommandations/prestation-de-soins-de-readaptation-post-avc/7-langage-et-communication>
@@ -30,32 +38,20 @@ order: 15
   - Australia: <https://www.aphasiapathway.com.au/>
 - Vivre avec une commotion cérébrale (*anglais*): <https://concussionsontario.org/>
 - Ressources pour la prise en charge de personnes vivant avec une APP: <https://app-ffl.ulaval.ca/medecins/ressources.html>
-- Lignes directrices de la Coalition Canadienne pour la santé mentale des personnes âgées (CCSMPA) pour les **Symptômes comportementaux et psychologiques de la démence (SCPD)** : <https://ccsmh.ca/domaines-dinteret/demence/>
+- Lignes directrices de la Coalition Canadienne pour la santé mentale des personnes âgées (CCSMPA) pour les symptômes comportementaux et psychologiques de la démence (SCPD) : <https://ccsmh.ca/domaines-dinteret/demence/>
 
 </div>
-<div class="column" style="flex-basis:33.33%">
+<div class="resource-card">
 
-## Accéder aux meilleures pratiques et lignes directrices pertinentes
-
-</div>
-</div>
-
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
-
-## Moteur de recherche pour intervention (gratuit)
-
-</div>
-<div class="column" style="flex-basis:66.66%">
+### Moteur de recherche pour intervention (gratuit)
 
 - Pour trouver toutes les informations sur les interventions qui peuvent être utilisées auprès de personnes vivant avec une aphasie: <https://aphasiatherapyfinder.com/>
 - Pour trouver des applications qui peuvent servir à nos usagers·ères/clients·tes: <https://www.aphasiasoftwarefinder.org/>
 
 </div>
-</div>
+<div class="resource-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:66.66%">
+### Ressources pour des picto/photos libres de droit (gratuit)
 
 - Pictogrammes gratuits:
   - <https://thenounproject.com/>
@@ -67,41 +63,25 @@ order: 15
   - <https://pixabay.com/>
 
 </div>
-<div class="column" style="flex-basis:33.33%">
+<div class="resource-card">
 
-## Ressources pour des picto/photos libres de droit (gratuit)
-
-</div>
-</div>
-
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
-
-## Références pour des outils d'intervention (incluant CAA)
-
-</div>
-<div class="column" style="flex-basis:66.66%">
+### Références pour des outils d'intervention (incluant CAA)
 
 - Aphasia Access: <https://www.aphasiaaccess.org/>
 - Everyone Communicates: [http://everyonecommunicates.org](http://everyonecommunicates.org/aaclinks.html)
 
 </div>
-</div>
+<div class="resource-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:66.66%">
+### Matériel pour soutenir les interventions auprès de personnes multilingues
 
-- [Matériel développé par **Floriane Birraud**,](/aphasie-multilingue/) étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
-  - [Capsule vidéo](#video-capsule-complete)
+- [Matériel développé par Floriane Birraud](/aphasie-multilingue/) étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
+  - [Capsules vidéo](/aphasie-multilingue-capsules-video/)
   - [Fascicule d'information](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
   - [Recensement d'outil disponible](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
 
 </div>
-<div class="column" style="flex-basis:33.33%">
 
-## Matériel pour soutenir les interventions auprès de personnes multilingues
-
-</div>
 </div>
 
 Si vous avez déjà participé à une de mes formations, vous pouvez accéder au contenu complémentaire [ici](/contenu-post-formation-continue/).  

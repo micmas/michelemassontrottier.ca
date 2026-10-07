@@ -29,7 +29,7 @@ Les frais d’évaluation incluent la passation de tâches d’évaluation, l’
 <div class="columns">
 <div class="column">
 
-### **Évaluation de langage complet (oral et écrit) suite à un AVC**
+### Évaluation de langage complet (oral et écrit) suite à un AVC
 
 **500$ - 750$**
 
@@ -41,7 +41,7 @@ Les frais d’évaluation incluent la passation de tâches d’évaluation, l’
 </div>
 <div class="column">
 
-### **Évaluation de la communication fonctionnelle suite à un AVC**
+### Évaluation de la communication fonctionnelle suite à un AVC
 
 **400$ - 600$**
 
@@ -53,7 +53,7 @@ Les frais d’évaluation incluent la passation de tâches d’évaluation, l’
 </div>
 <div class="column">
 
-### **Évaluation de la communication suite à un trouble neurocognitif**
+### Évaluation de la communication suite à un trouble neurocognitif
 
 **175$ – 525$**
 
@@ -65,7 +65,7 @@ Les frais d’évaluation incluent la passation de tâches d’évaluation, l’
 </div>
 <div class="column">
 
-### **Évaluation subjective de la déglutition**
+### Évaluation subjective de la déglutition
 
 **225$**
 

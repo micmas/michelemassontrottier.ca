@@ -8,7 +8,7 @@ Teaching in speech-language pathology has allowed me to share my knowledge with 
 
 Since 2025 I have taught at The University of Queensland (Australia), in biomedical engineering and speech pathology. At the Université de Montréal, I had the opportunity to contribute to the redesign of its speech-language pathology program, bringing in new perspectives based on recent research. My experience also includes creating courses, from designing the syllabus to developing content suited to students' needs.
 
-### Courses and seminars taught
+## Courses and seminars taught
 
 Courses at the Université de Montréal were taught in French; their original titles are shown with an English translation.
 
@@ -41,7 +41,7 @@ Courses at the Université de Montréal were taught in French; their original ti
 <div class="course-body">
 <p class="course-title">Intervention orthophonique adulte et aîné 2 <span class="course-tr">(Speech-language intervention with adults and older adults 2)</span></p>
 <p class="course-meta">ORT 6532 · Université de Montréal</p>
-<p class="course-role">Lecturer responsible; designed the course from scratch</p>
+<p class="course-role">Lecturer responsible</p>
 </div>
 <p class="past-editions"><span class="edition">2021</span><span class="edition">2022</span><span class="edition">2023</span></p>
 </li>
@@ -49,7 +49,7 @@ Courses at the Université de Montréal were taught in French; their original ti
 <div class="course-body">
 <p class="course-title">Intervention orthophonique adulte et aîné 1 <span class="course-tr">(Speech-language intervention with adults and older adults 1)</span></p>
 <p class="course-meta">ORT 6531 · Université de Montréal</p>
-<p class="course-role">Lecturer responsible; designed the course from scratch</p>
+<p class="course-role">Lecturer responsible</p>
 </div>
 <p class="past-editions"><span class="edition">2021</span><span class="edition">2022</span><span class="edition">2023</span></p>
 </li>
@@ -127,7 +127,7 @@ Courses at the Université de Montréal were taught in French; their original ti
 </li>
 </ul>
 
-### Supervision and mentoring
+## Supervision and mentoring
 
 I have supervised students at every level (bachelor's, master's and doctoral) through research projects, clinical placements and mentoring programs. My goal is to help each student develop their clinical and academic skills in a collaborative environment.
 

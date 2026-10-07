@@ -257,21 +257,21 @@ main.wide .prose > .columns { max-width: 1100px; margin-left: auto; margin-right
 .edition { font-family: var(--font-head); font-size: .78rem; letter-spacing: .02em; padding: .2rem .6rem; border-radius: 999px; background: var(--base-2); color: var(--contrast); }
 
 /* ---- Fluid layout: pages widen with the window (landscape on large screens) ---- */
-:root { --content: 1560px; --wide: 1560px; --text: 105ch; }
-main, main.wide { max-width: var(--content); padding-left: clamp(1rem, 3vw, 3rem); padding-right: clamp(1rem, 3vw, 3rem); }
+:root { --content: 1280px; --wide: 1560px; }
+main { max-width: var(--content); } main.wide { max-width: var(--wide); }
+main, main.wide { padding-left: clamp(1rem, 3vw, 3rem); padding-right: clamp(1rem, 3vw, 3rem); }
 .site-header .inner, .site-footer .inner { padding-left: clamp(1rem, 3vw, 3rem); padding-right: clamp(1rem, 3vw, 3rem); }
 /* running text keeps a comfortable line length; grids, columns and cards use the full width */
-.prose > p, .prose > h2, .prose > h3, .prose > h4, .prose > blockquote, .prose > details, .page-title { max-width: var(--text); }
 main.wide .page-title, main.wide .prose > :not(.tool-columns):not(.columns) { margin-left: 0; margin-right: 0; }
 main.wide .prose > .columns { max-width: none; }
-.prose > p > img:only-child { max-width: min(100%, 860px); }
+.prose > p > img:only-child { max-width: min(100%, 760px); margin-left: 0; margin-right: 0; }
 .columns { gap: clamp(1.5rem, 3vw, 3rem); }
 /* video capsules: as many per row as fit */
 .video-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr)); }
 .pdf-embed iframe { aspect-ratio: 16 / 10; }
 
 /* Publications: spaced cards rather than a reference list */
-.pub-list { list-style: none; padding: 0 !important; margin: 1.2rem 0 2.5rem; max-width: 1100px; }
+.pub-list { list-style: none; padding: 0 !important; margin: 1.2rem 0 2.5rem; }
 .pub { display: grid; grid-template-columns: 4.5rem 1fr; gap: 1.2rem; padding: 1.4rem 0; margin: 0 !important; border-top: 1px solid var(--base-2); }
 .pub:last-child { border-bottom: 1px solid var(--base-2); }
 .pub-year { font-family: var(--font-head); font-size: .95rem; color: var(--muted); padding-top: .2rem; }
@@ -287,7 +287,7 @@ main.wide .prose > .columns { max-width: none; }
 @media (max-width: 560px) { .pub { grid-template-columns: 1fr; gap: .3rem; } }
 
 /* Teaching: one entry per course, years as labels */
-.course-list { list-style: none; padding: 0 !important; margin: 1.2rem 0 2.5rem; max-width: 1100px; }
+.course-list { list-style: none; padding: 0 !important; margin: 1.2rem 0 2.5rem; }
 .course { display: flex; justify-content: space-between; align-items: flex-start; gap: 1.5rem; padding: 1.2rem 0; margin: 0 !important; border-top: 1px solid var(--base-2); }
 .course:last-child { border-bottom: 1px solid var(--base-2); }
 .course-body > p { margin: 0; }
@@ -296,6 +296,45 @@ main.wide .prose > .columns { max-width: none; }
 .course-meta { font-family: var(--font-head); font-size: .82rem; letter-spacing: .02em; color: var(--muted); margin-top: .25rem !important; }
 .course-role { font-size: .95rem; margin-top: .3rem !important; }
 .course .past-editions { flex: 0 0 auto; justify-content: flex-end; max-width: 40%; }
-.student-list { max-width: 1100px; }
 .student-list li { margin: .5rem 0; }
 @media (max-width: 640px) { .course { flex-direction: column; gap: .6rem; } .course .past-editions { justify-content: flex-start; max-width: none; } }
+
+/* ---- Consistent typography rules ----
+   h1 = page title; h2 = page sections; h3 = sub-sections and card titles.
+   Bold only for emphasis inside text (e.g. my name in author lists); italics for titles of works,
+   foreign terms and image captions. */
+.prose h2 { font-size: clamp(1.45rem, 2.4vw, 1.85rem); margin: 2.6rem 0 1rem; }
+.prose h3 { font-size: 1.2rem; font-weight: 500; margin: 1.8rem 0 .6rem; }
+.prose > :first-child, .column > h2:first-child, .column > h3:first-child { margin-top: 0; }
+.prose strong { font-weight: 600; }
+/* image captions: an italic-only paragraph right after an image */
+.prose p:has(> img:only-child) + p:has(> em:only-child) { font-size: .85rem; color: var(--muted); margin-top: -.9rem; }
+.prose p:has(> img:only-child) + p > em:only-child { font-style: italic; }
+
+/* Image + text rows: image column keeps a moderate size, text is vertically centred */
+.columns:has(> .column > p:first-child > img:only-child) { align-items: center; }
+.columns > .column:has(> p:first-child > img:only-child) { flex: 0 0 clamp(220px, 30%, 380px) !important; }
+.columns > .column:has(> p:first-child > img:only-child) img { margin: 0; }
+@media (max-width: 760px) { .columns > .column:has(> p:first-child > img:only-child) { flex-basis: auto !important; max-width: 420px; } }
+
+/* Nested menu item (e.g. Videos under Multilingual aphasia) */
+nav.main li.sub > a { padding-left: 1.6rem; font-size: .88rem; }
+nav.main li.sub > a::before { content: "↳ "; color: var(--muted); }
+
+/* Resources page: cards in a responsive grid */
+.resource-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 360px), 1fr)); gap: 1.2rem; margin: 2rem 0; }
+.resource-card { background: var(--surface); border: 1px solid var(--base-2); border-radius: 12px; padding: 1.2rem 1.4rem; }
+.resource-card h3 { margin-top: 0; }
+.resource-card ul { margin: 0; }
+.resource-card li { overflow-wrap: anywhere; }
+
+/* Course material page */
+.material-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 360px), 1fr)); gap: 1.2rem; margin: 2rem 0; }
+.material-card { background: var(--surface); border: 1px solid var(--base-2); border-radius: 12px; padding: 1.2rem 1.4rem; display: flex; flex-direction: column; gap: .4rem; }
+.material-card > p { margin: 0; }
+.material-card .buttons { margin-top: auto; padding-top: .8rem; }
+.material-card a.button::after { content: none !important; }
+
+/* On-demand label in past courses */
+.edition-link { background: var(--accent-2); color: #1d2b25; text-decoration: none; }
+.edition-link:hover { background: var(--accent); color: #fff; }

@@ -7,7 +7,7 @@ Mon parcours en tant qu'enseignante en orthophonie m'a permis de partager mes co
 
 Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie biomédical et en orthophonie. À l'Université de Montréal, j'ai eu l'opportunité de contribuer à la refonte du programme d'orthophonie, en intégrant des perspectives innovantes basées sur les nouvelles données de la recherche. Mon expérience inclut également la création de cours, de la conception du syllabus à la mise en place de contenus adaptés aux besoins des étudiant·e·s.
 
-### Cours et séminaires enseignés
+## Cours et séminaires enseignés
 
 <ul class="course-list">
 <li class="course">
@@ -38,7 +38,7 @@ Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie b
 <div class="course-body">
 <p class="course-title">Intervention orthophonique adulte et aîné 2</p>
 <p class="course-meta">ORT 6532 · Université de Montréal</p>
-<p class="course-role">Chargée de cours responsable; cours conçu de A à Z</p>
+<p class="course-role">Chargée de cours responsable</p>
 </div>
 <p class="past-editions"><span class="edition">2021</span><span class="edition">2022</span><span class="edition">2023</span></p>
 </li>
@@ -46,7 +46,7 @@ Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie b
 <div class="course-body">
 <p class="course-title">Intervention orthophonique adulte et aîné 1</p>
 <p class="course-meta">ORT 6531 · Université de Montréal</p>
-<p class="course-role">Chargée de cours responsable; cours conçu de A à Z</p>
+<p class="course-role">Chargée de cours responsable</p>
 </div>
 <p class="past-editions"><span class="edition">2021</span><span class="edition">2022</span><span class="edition">2023</span></p>
 </li>
@@ -124,7 +124,7 @@ Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie b
 </li>
 </ul>
 
-### Encadrement et mentorat
+## Encadrement et mentorat
 
 J'ai encadré des étudiant·e·s de divers niveaux (baccalauréat, maîtrise, doctorat) à travers des projets de recherche, des stages cliniques et des programmes de mentorat. Mon objectif est d’aider chaque étudiant·e à développer ses compétences cliniques et académiques dans un environnement collaboratif.
 

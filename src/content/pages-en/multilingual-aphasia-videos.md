@@ -7,7 +7,7 @@ order: 0
 <div class="columns">
 <div class="column" style="flex-basis:40%">
 
-# A practical tool
+## A practical tool
 
 This knowledge translation tool was developed by **Floriane Birraud**, a speech-language pathology student at the Université de Rennes, as part of her master's thesis under my supervision. The videos are in French.
 

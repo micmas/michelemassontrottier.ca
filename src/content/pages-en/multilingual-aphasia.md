@@ -12,7 +12,7 @@ This part of my clinical and academic work is grounded in a perspective that val
 <div class="columns">
 <div class="column" style="flex-basis:40%">
 
-### A practical tool
+## A practical tool
 
 </div>
 <div class="column" style="flex-basis:60%">

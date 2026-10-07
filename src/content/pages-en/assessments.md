@@ -32,7 +32,7 @@ All fees are in Canadian dollars.
 <div class="columns">
 <div class="column">
 
-### **Comprehensive language assessment (spoken and written) after stroke**
+### Comprehensive language assessment (spoken and written) after stroke
 
 **$500–$750**
 
@@ -44,7 +44,7 @@ All fees are in Canadian dollars.
 </div>
 <div class="column">
 
-### **Functional communication assessment after stroke**
+### Functional communication assessment after stroke
 
 **$400–$600**
 
@@ -56,7 +56,7 @@ All fees are in Canadian dollars.
 </div>
 <div class="column">
 
-### **Communication assessment for a neurocognitive disorder**
+### Communication assessment for a neurocognitive disorder
 
 **$175–$525**
 
@@ -68,7 +68,7 @@ All fees are in Canadian dollars.
 </div>
 <div class="column">
 
-### **Clinical (non-instrumental) swallowing assessment**
+### Clinical (non-instrumental) swallowing assessment
 
 **$225**
 

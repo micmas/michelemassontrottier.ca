@@ -65,7 +65,12 @@ const home = lang === 'en' ? '/en/' : '/';
               {item.children && (
                 <ul>
                   {item.children.map((c) => (
+                    <>
                     <li><a href={c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{c.label}</a></li>
+                    {c.children?.map((g) => (
+                      <li class="sub"><a href={g.href} aria-current={isCurrent(g.href) ? 'page' : undefined}>{g.label}</a></li>
+                    ))}
+                    </>
                   ))}
                 </ul>
               )}

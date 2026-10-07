@@ -10,7 +10,7 @@ Mon engagement à partager mes recherches et mes expériences s'exprime à trave
 <div class="columns">
 <div class="column">
 
-### Formations continues pour les orthophonistes et professionnel·le·s de la santé
+## Formations continues pour les orthophonistes et professionnel·le·s de la santé
 
 Je propose des formations continues, visant à enrichir les compétences des professionnel·le·s en orthophonie. Ces formations se basent sur les données probantes et les dernières avancées dans le domaine, avec des approches pratiques et interactives.
 
@@ -30,4 +30,4 @@ Je participe régulièrement à des conférences et à des événements organis�
 
 ![](/media/2024/10/promoting-disseminating-and-applying-scientific-knowledge-to-ensure-it-is-1.png)
 
-*Image générée par IA.*
+*Image générée par IA*

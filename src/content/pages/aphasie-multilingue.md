@@ -11,7 +11,7 @@ Ce volet de mon travail clinique et académique s’inscrit dans une perspective
 <div class="columns">
 <div class="column" style="flex-basis:40%">
 
-### Un outil pratique
+## Un outil pratique
 
 </div>
 <div class="column" style="flex-basis:60%">

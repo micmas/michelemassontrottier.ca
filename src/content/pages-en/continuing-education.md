@@ -9,7 +9,7 @@ order: 12
 
 ![](/media/2024/10/continuing-education-for-speech-pathologist-in-adult-practice-1.png)
 
-*AI-generated image.*
+*AI-generated image*
 
 </div>
 <div class="column" style="flex-basis:66.66%">
@@ -21,7 +21,7 @@ My courses are currently offered in French through the Association québécoise 
 </div>
 </div>
 
-### Upcoming courses
+## Upcoming courses
 
 <div class="columns">
 <div class="column">
@@ -55,11 +55,11 @@ My courses are currently offered in French through the Association québécoise 
 
 ---
 
-## **Teaching approach:**
+## Teaching approach
 
 My courses take an interactive, hands-on approach that encourages collaborative learning and sharing experience. I focus on putting knowledge into practice, so that every participant leaves with tools they can use directly in their clinical work.
 
-### **Topics:**
+### Topics
 
 - Effectiveness of speech-language interventions
 - Neurocognitive disorders and communication
@@ -69,14 +69,14 @@ My courses take an interactive, hands-on approach that encourages collaborative 
 
 ---
 
-### Past courses
+## Past courses
 
 Delivered in French in partnership with the Association québécoise des orthophonistes et audiologistes (AQOA).
 
 <ul class="past-courses">
-<li><p class="past-title">Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support</p><p class="past-editions"><span class="edition">April 2026</span></p></li>
-<li><p class="past-title">Rethinking our practices: deconstructing ableism in speech-language pathology</p><p class="past-editions"><span class="edition">January 2026</span></p></li>
-<li><p class="past-title">Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications</p><p class="past-editions"><span class="edition">October 2025</span><span class="edition">December 2024</span><span class="edition">January 2024</span></p></li>
+<li><p class="past-title">Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support</p><p class="past-editions"><span class="edition">April 2026</span><a class="edition edition-link" href="https://www.aqoa.qc.ca/fr/activites-en-rediffusion/authentication/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/88902" target="_blank" rel="noopener">On demand ↗</a></p></li>
+<li><p class="past-title">Rethinking our practices: deconstructing ableism in speech-language pathology</p><p class="past-editions"><span class="edition">January 2026</span><a class="edition edition-link" href="https://www.aqoa.qc.ca/fr/activites-en-rediffusion/detail/repenser-nos-pratiques-deconstruire-le-capacitisme-en-orthophonie/83491" target="_blank" rel="noopener">On demand ↗</a></p></li>
+<li><p class="past-title">Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications</p><p class="past-editions"><span class="edition">October 2025</span><span class="edition">December 2024</span><span class="edition">January 2024</span><a class="edition edition-link" href="https://www.aqoa.qc.ca/fr/activites-en-rediffusion/detail/interventions-en-orthophonie-aupres-des-personnes-ayant-un-trouble-acquis-de-la-communication-des-principes-theoriques-aux-applications-cliniques/78917" target="_blank" rel="noopener">On demand ↗</a></p></li>
 </ul>
 
 <div class="buttons"><a class="button" href="/en/continuing-education-resources/">Post-course material</a><a class="button button-outline" href="/en/resources/">Curated resources</a></div>

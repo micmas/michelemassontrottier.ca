@@ -4,7 +4,7 @@ fr: "parcours-academique-et-scientifique"
 order: 6
 ---
 
-## Welcome to the section about my academic work.
+## Welcome to the section about my academic work
 
 Here you will find an overview of my research interests, scientific publications and teaching experience, as well as the continuing education and mentoring I offer.
 

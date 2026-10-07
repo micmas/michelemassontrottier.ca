@@ -11,7 +11,7 @@ I share my research and experience through talks for the general public and thro
 <div class="columns">
 <div class="column">
 
-### Continuing education for speech-language pathologists and health professionals
+## Continuing education for speech-language pathologists and health professionals
 
 I offer continuing education designed to strengthen the skills of speech-language pathology professionals. These courses are grounded in the evidence and recent advances in the field, and use practical, interactive approaches.
 
@@ -31,4 +31,4 @@ I regularly speak at conferences and events organized by patient and community a
 
 ![](/media/2024/10/promoting-disseminating-and-applying-scientific-knowledge-to-ensure-it-is-1.png)
 
-*AI-generated image.*
+*AI-generated image*

@@ -6,7 +6,7 @@ order: 14
 
 I regularly speak at conferences and events organized by patient associations, on topics related to communication disorders. Some of my talks are recorded on YouTube and offer insights and practical information for people affected by these disorders and their families. The talks are in French.
 
-### Upcoming talks
+## Upcoming talks
 
 Coming soon.
 

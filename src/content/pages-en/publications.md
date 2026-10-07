@@ -9,7 +9,7 @@ order: 8
 
 ![](/media/2024/10/academic-publications-list.png)
 
-*AI-generated image.*
+*AI-generated image*
 
 </div>
 <div class="column" style="flex-basis:66.66%">
@@ -19,7 +19,7 @@ My publications reflect my commitment to understanding acquired communication di
 </div>
 </div>
 
-### Peer-reviewed articles (16)
+## Peer-reviewed articles (16)
 
 <ol class="pub-list">
 <li class="pub">
@@ -166,7 +166,7 @@ My publications reflect my commitment to understanding acquired communication di
 </li>
 </ol>
 
-### Book chapters (2)
+## Book chapters (2)
 
 <ol class="pub-list">
 <li class="pub">

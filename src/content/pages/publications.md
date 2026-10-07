@@ -8,7 +8,7 @@ order: 8
 
 ![](/media/2024/10/academic-publications-list.png)
 
-*Image générée par IA.*
+*Image générée par IA*
 
 </div>
 <div class="column" style="flex-basis:66.66%">
@@ -18,7 +18,7 @@ Mes publications reflètent mon engagement à comprendre et améliorer les troub
 </div>
 </div>
 
-### Articles révisés par les pairs (16)
+## Articles révisés par les pairs (16)
 
 <ol class="pub-list">
 <li class="pub">
@@ -165,7 +165,7 @@ Mes publications reflètent mon engagement à comprendre et améliorer les troub
 </li>
 </ol>
 
-### Chapitres de livre (2)
+## Chapitres de livre (2)
 
 <ol class="pub-list">
 <li class="pub">
