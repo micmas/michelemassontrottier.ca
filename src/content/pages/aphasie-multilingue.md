@@ -16,7 +16,7 @@ Ce volet de mon travail clinique et académique s’inscrit dans une perspective
 </div>
 <div class="column" style="flex-basis:60%">
 
-![](/media/2025/04/knowledge-transfer-tool-for-speech-pathologists-working-with-individuals-with.png)
+![Un ordinateur portable affichant des bulles de dialogue colorées sur un bureau ensoleillé](/media/2025/04/multilingual-aphasia-desk.webp)
 
 </div>
 </div>

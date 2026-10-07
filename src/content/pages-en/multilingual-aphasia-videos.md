@@ -14,7 +14,7 @@ This knowledge translation tool was developed by **Floriane Birraud**, a speech-
 </div>
 <div class="column" style="flex-basis:60%">
 
-![](/media/2025/04/knowledge-transfer-tool-for-speech-pathologists-working-with-individuals-with.png)
+![A laptop with colourful speech bubbles on a sunny desk](/media/2025/04/multilingual-aphasia-desk.webp)
 
 </div>
 </div>
