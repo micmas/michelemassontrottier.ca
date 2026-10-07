@@ -109,20 +109,3 @@ As a mentor, I support speech-language pathology professionals who want to deepe
 
 </div>
 </div>
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Browse the curated resources
-
-<div class="buttons"><a class="button" href="/en/resources/">Explore</a></div>
-
-</div>
-<div class="column">
-
-A hand-picked collection of resources, continually growing, to support people with communication disorders and their families.
-
-![](/media/2024/09/image-to-represent-ressources-available-for-allied-health-professionnals-maybe.png)
-
-</div>
-</div>

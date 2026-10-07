@@ -65,19 +65,12 @@ Mes formations sont axées sur une approche interactive et pratique, encouragean
 
 ### Formations passées
 
-Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s - avril 2026
+Offertes en partenariat avec l’Association québécoise des orthophonistes et audiologistes (AQOA).
 
-Repenser nos pratiques : déconstruire le capacitisme en orthophonie - janvier 2026
+<ul class="past-courses">
+<li><p class="past-title">Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s</p><p class="past-editions"><span class="edition">Avril 2026</span></p></li>
+<li><p class="past-title">Repenser nos pratiques : déconstruire le capacitisme en orthophonie</p><p class="past-editions"><span class="edition">Janvier 2026</span></p></li>
+<li><p class="past-title">Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques</p><p class="past-editions"><span class="edition">Octobre 2025</span><span class="edition">Décembre 2024</span><span class="edition">Janvier 2024</span></p></li>
+</ul>
 
-Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques   
-octobre 2025
-
-Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques   
-10 décembre 2024
-
-Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques   
-26 janvier 2024
-
-Si vous avez déjà participé à une de mes formations, vous pouvez accéder au contenu complémentaire [ici](/contenu-post-formation-continue/).  
-  
-Pour accéder aux ressources générales répertoriées, vous pouvez y accéder en cliquant [ici](/ressources/).
+<div class="buttons"><a class="button" href="/contenu-post-formation-continue/">Contenu post-formation</a><a class="button button-outline" href="/ressources/">Ressources répertoriées</a></div>

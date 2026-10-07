@@ -39,7 +39,12 @@ Coming soon.
 <div class="columns">
 <div class="column">
 
-[La communication affective (Affective communication, in French)](/media/2024/10/dpc_udem.pdf)
+<div class="pdf-embed">
+<p class="doc-title">La communication affective (Affective communication)</p>
+<p class="doc-meta">Presentation in French · PDF · 67 slides</p>
+<iframe src="/media/2024/10/dpc_udem.pdf#view=FitH" title="La communication affective (Affective communication)" loading="lazy"></iframe>
+<div class="buttons"><a class="button" href="/media/2024/10/dpc_udem.pdf" target="_blank" rel="noopener">Open full screen</a><a class="button button-outline" href="/media/2024/10/dpc_udem.pdf" download>Download</a></div>
+</div>
 
 </div>
 </div>

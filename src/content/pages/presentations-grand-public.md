@@ -38,7 +38,12 @@ Je participe régulièrement à des conférences et à des événements organis�
 <div class="columns">
 <div class="column">
 
-[La communication affective](/media/2024/10/dpc_udem.pdf)
+<div class="pdf-embed">
+<p class="doc-title">La communication affective</p>
+<p class="doc-meta">Présentation · PDF · 67 diapositives</p>
+<iframe src="/media/2024/10/dpc_udem.pdf#view=FitH" title="La communication affective" loading="lazy"></iframe>
+<div class="buttons"><a class="button" href="/media/2024/10/dpc_udem.pdf" target="_blank" rel="noopener">Ouvrir en plein écran</a><a class="button button-outline" href="/media/2024/10/dpc_udem.pdf" download>Télécharger</a></div>
+</div>
 
 </div>
 </div>

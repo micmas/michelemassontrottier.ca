@@ -71,16 +71,12 @@ My courses take an interactive, hands-on approach that encourages collaborative 
 
 ### Past courses
 
-Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support – April 2026
+Delivered in French in partnership with the Association québécoise des orthophonistes et audiologistes (AQOA).
 
-Rethinking our practices: deconstructing ableism in speech-language pathology – January 2026
+<ul class="past-courses">
+<li><p class="past-title">Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support</p><p class="past-editions"><span class="edition">April 2026</span></p></li>
+<li><p class="past-title">Rethinking our practices: deconstructing ableism in speech-language pathology</p><p class="past-editions"><span class="edition">January 2026</span></p></li>
+<li><p class="past-title">Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications</p><p class="past-editions"><span class="edition">October 2025</span><span class="edition">December 2024</span><span class="edition">January 2024</span></p></li>
+</ul>
 
-Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – October 2025
-
-Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – December 10, 2024
-
-Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications – January 26, 2024
-
-If you have attended one of my courses, you can access the supplementary material [here](/en/continuing-education-resources/).
-
-To browse the general resources I have compiled, click [here](/en/resources/).
+<div class="buttons"><a class="button" href="/en/continuing-education-resources/">Post-course material</a><a class="button button-outline" href="/en/resources/">Curated resources</a></div>

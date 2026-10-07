@@ -3,25 +3,187 @@ title: "Publications scientifiques"
 order: 8
 ---
 
-Mes publications reflètent mon engagement à comprendre et améliorer les troubles de la communication acquis. À travers mes recherches, j'explore des thèmes tels que l'efficacité des interventions, les mécanismes neurofonctionnels sous-jacents, et l'impact des thérapies sur la neuroplasticité. Vous trouverez ici une sélection de mes travaux publiés dans des revues scientifiques spécialisées.
-
-### Sélections de publications
-
-- **Masson-Trottier, M.** (2025). Language and Psychiatric Symptom Overlap in Young-Onset FTLD: An SLP Perspective. *International Review of Psychiatry*. [https://doi.org/10.1080/09540261.2025.2583258](https://doi.org/10.1080/09540261.2025.2583258 )
-- Python, G., Durand, E., & **Masson-Trottier, M.** (2025). A systematic review of Phonological Components Analysis therapy studies for aphasia. *Brain Res Bull*, *223*, 111269. [https://doi.org/10.1016/j.brainresbull.2025.111269](https://doi.org/10.1016/j.brainresbull.2025.111269 )
-- **Masson-Trottier, M.**, Tippett, D., Rapp, B., Harvey, D. Y., Roncero, C., Vnenchak, L., Faria, A., Frangakis, C., Chertkow, H., Hamilton, R., Hillis, A. E., & Tsapkini, K. (2025). Protocol for a Multisite Study on the Efficacy of Transcranial Direct Current Stimulation as an Adjuvant to Naming and Spelling Therapy in the Treatment of Oral and Written Naming in Individuals with Primary Progressive Aphasia. *Frontiers in Human Neuroscience*. [https://doi.org/10.3389/fnhum.2025.1611272](https://doi.org/10.3389/fnhum.2025.1611272 )
-- **Masson-Trottier, M.**, Dao, T. T., Narayanan, A., & Bollmann, S. (2025). Toward the Future of Scientific Publishing through Reproducible Research Artefacts Enabled by Neurodesk. *Aperture Neuro*, 12. <https://doi.org/10.52294/001c.143700>
-- Dao, T. T., **Masson-Trottier, M.**, Ribeiro, F. L., Scarsbrook, J., Stewart, A., Ye, X., Hamilton, E., Bollmann, S., & Narayanan, A. (2025). Democratizing open neuroimaging: Neurodesk’s approach to open data accessibility and utilization. *Aperture Neuro*, *5*(SI 2). <https://doi.org/10.52294/001c.144107>
-- **Masson‐Trottier, M.**, Marcotte, K., Rochon, E., Leonard, C., & Ansaldo, A. I. (2024). Effectiveness of French Phonological Components Analysis in individuals with chronic aphasia. *International Journal of Language & Communication Disorders*. <https://doi.org/10.1111/1460-6984.13080>
-- Ansaldo, A. I., **Masson-Trottier, M.**, Delacourt, B., Dubuc, J., & Dubé, C. (2024). An Implementation Study on COMPAs: An App Designed to Support Communication Between Persons Living with Dementia in Long-Term Care and Their Caregivers (Preprint). *JMIR Aging*. <https://doi.org/10.2196/47565>
-- **Masson-Trottier, M.**, Dash, T., Berroir, P., & Ansaldo, A. I. (2022). French Phonological Component Analysis and aphasia recovery: A bilingual perspective on behavioral and structural data. *Front Hum Neurosci*, *16*, 752121. [https://doi.org/10.3389/fnhum.2022.752121](https://doi.org/10.3389/fnhum.2022.752121 )
-- **Masson-Trottier, M.**, Sontheimer, A., Durand, E., & Ansaldo, A. I. (2021). Resting-State Functional Connectivity following Phonological Component Analysis: The Combined Action of Phonology and Visual Orthographic Cues. *Brain Sci*, *11*(11). <https://doi.org/10.3390/brainsci11111458>
-- Durand, E., **Masson-Trottier, M.**, Sontheimer, A., & Ansaldo, A. I. (2021). Increased links between language and motor areas: A proof-of-concept study on resting-state functional connectivity following Personalized Observation, Execution and Mental imagery therapy in chronic aphasia. *Brain Cogn*, *148*, 105659. <https://doi.org/10.1016/j.bandc.2020.105659>
-- Dash, T., **Masson-Trottier, M.**, & Ansaldo, A. I. (2020). Efficiency of attentional processes in bilingual speakers with aphasia. *Aphasiology*, *34*(11), 1363-1387. <https://doi.org/10.1080/02687038.2020.1719970>
-- Durand, E., **Masson-Trottier, M.** & Ansaldo, A.I., L’orthophoniste à l’ère de la globalisation : intervenir auprès des populations allophones souffrant d’aphasie. Rééducation orthophonique, 2018. 275(Septembre 2018): p. 29-50.
-- **Masson-Trottier, M.**, Ferré, P., Joannette, Y., & Marcotte, K. (2016). Récupération des troubles de la communication suite à un traumatisme cranio-cérébral en phase aiguë: Impact d'une thérapie pragmatique-discursive structurante. Glossa, 1-23.
-- Le Dorze, G., Villeneuve, J., Zumbansen, A., **Masson-Trottier, M.**, & Bottari, C. (2014). Verbal assistance within the context of an IADL evaluation. *Open Journal of Therapy and Rehabilitation*, *2*(04), 182.
+<div class="columns">
+<div class="column" style="flex-basis:33.33%">
 
 ![](/media/2024/10/academic-publications-list.png)
 
 *Image générée par IA.*
+
+</div>
+<div class="column" style="flex-basis:66.66%">
+
+Mes publications reflètent mon engagement à comprendre et améliorer les troubles de la communication acquis. À travers mes recherches, j'explore des thèmes tels que l'efficacité des interventions, les mécanismes neurofonctionnels sous-jacents, et l'impact des thérapies sur la neuroplasticité. Vous trouverez ici mes articles publiés dans des revues scientifiques avec comité de lecture, ainsi que mes chapitres de livre.
+
+</div>
+</div>
+
+### Articles révisés par les pairs (16)
+
+<ol class="pub-list">
+<li class="pub">
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p class="pub-title">Supporting speech-language therapists in multilingual aphasia care: a narrative review and knowledge translation tool</p>
+<p class="pub-authors">Birraud, F., & <strong>Masson-Trottier, M.</strong></p>
+<p class="pub-venue"><em>Aphasiology</em>, 1–38</p>
+<a class="pub-link" href="https://doi.org/10.1080/02687038.2026.2691172" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p class="pub-title">Developing an interactive neuroimaging education resource with Neurodesk</p>
+<p class="pub-authors">Dörig, M., <strong>Masson-Trottier, M.</strong>, Dao, T. T., Mapue, K., Jahn, A., Ribeiro, F. L., Stewart, A., Shaw, T. B., Toth, M., Pinkert, M., Taylor, P. A., Renton, A., Handwerker, D., Baracchini, G., Rorden, C., Narayanan, A., & Bollmann, S.</p>
+<p class="pub-venue"><em>Aperture Neuro</em>, 6(SI 2)</p>
+<a class="pub-link" href="https://doi.org/10.52294/001c.160858" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p class="pub-title">Language and psychiatric symptom overlap in FTD: an SLP perspective</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong></p>
+<p class="pub-venue"><em>International Review of Psychiatry</em>, 37(8), 781–794</p>
+<a class="pub-link" href="https://doi.org/10.1080/09540261.2025.2583258" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p class="pub-title">Protocol for a multisite study on the efficacy of transcranial direct current stimulation as an adjuvant to naming and spelling therapy in the treatment of oral and written naming in individuals with primary progressive aphasia</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Tippett, D., Rapp, B., Harvey, D. Y., Roncero, C., Vnenchak, L., Faria, A., Frangakis, C., Chertkow, H., Hamilton, R. H., Hillis, A. E., & Tsapkini, K.</p>
+<p class="pub-venue"><em>Frontiers in Human Neuroscience</em>, 19, 1611272</p>
+<a class="pub-link" href="https://doi.org/10.3389/fnhum.2025.1611272" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p class="pub-title">Toward the future of scientific publishing through reproducible research artefacts enabled by Neurodesk</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Dao, T. T., Narayanan, A., & Bollmann, S.</p>
+<p class="pub-venue"><em>Aperture Neuro</em>, 5(SI 3)</p>
+<a class="pub-link" href="https://doi.org/10.52294/001c.143700" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p class="pub-title">Democratizing open neuroimaging: Neurodesk’s approach to open data accessibility and utilization</p>
+<p class="pub-authors">Dao, T. T., <strong>Masson-Trottier, M.</strong>, Ribeiro, F. L., Scarsbrook, J., Stewart, A., Ye, X., Hamilton, E., Bollmann, S., & Narayanan, A.</p>
+<p class="pub-venue"><em>Aperture Neuro</em>, 5(SI 2)</p>
+<a class="pub-link" href="https://doi.org/10.52294/001c.144107" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p class="pub-title">A systematic review of Phonological Components Analysis therapy studies for aphasia</p>
+<p class="pub-authors">Python, G., Durand, E., & <strong>Masson-Trottier, M.</strong></p>
+<p class="pub-venue"><em>Brain Research Bulletin</em>, 223, 111269</p>
+<a class="pub-link" href="https://doi.org/10.1016/j.brainresbull.2025.111269" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2024</span>
+<div class="pub-body">
+<p class="pub-title">An international core outcome set for primary progressive aphasia (COS-PPA): consensus-based recommendations for communication interventions across research and clinical settings</p>
+<p class="pub-authors">Volkmer, A., Alves, E. V., Bar-Zeev, H., … <strong>Masson-Trottier, M.</strong>, … Hardy, C. <span class="pub-note">(66 auteur·e·s)</span></p>
+<p class="pub-venue"><em>Alzheimer’s &amp; Dementia</em>, 21(1), e14362</p>
+<a class="pub-link" href="https://doi.org/10.1002/alz.14362" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2024</span>
+<div class="pub-body">
+<p class="pub-title">Effectiveness of French Phonological Components Analysis in individuals with chronic aphasia</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Marcotte, K., Rochon, E., Leonard, C., & Ansaldo, A. I.</p>
+<p class="pub-venue"><em>International Journal of Language &amp; Communication Disorders</em>, 59(6), 2239–2264</p>
+<a class="pub-link" href="https://doi.org/10.1111/1460-6984.13080" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2024</span>
+<div class="pub-body">
+<p class="pub-title">Efficacy of COMPAs, an app designed to support communication between persons living with dementia in long-term care settings and their caregivers: mixed methods implementation study</p>
+<p class="pub-authors">Ansaldo, A. I., <strong>Masson-Trottier, M.</strong>, Delacourt, B., Dubuc, J., & Dubé, C.</p>
+<p class="pub-venue"><em>JMIR Aging</em>, 7, e47565</p>
+<a class="pub-link" href="https://doi.org/10.2196/47565" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p class="pub-title">French Phonological Component Analysis and aphasia recovery: a bilingual perspective on behavioral and structural data</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Dash, T., Berroir, P., & Ansaldo, A. I.</p>
+<p class="pub-venue"><em>Frontiers in Human Neuroscience</em>, 16, 752121</p>
+<a class="pub-link" href="https://doi.org/10.3389/fnhum.2022.752121" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2021</span>
+<div class="pub-body">
+<p class="pub-title">Resting-state functional connectivity following Phonological Component Analysis: the combined action of phonology and visual orthographic cues</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Sontheimer, A., Durand, E., & Ansaldo, A. I.</p>
+<p class="pub-venue"><em>Brain Sciences</em>, 11(11), 1458</p>
+<a class="pub-link" href="https://doi.org/10.3390/brainsci11111458" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2021</span>
+<div class="pub-body">
+<p class="pub-title">Increased links between language and motor areas: a proof-of-concept study on resting-state functional connectivity following Personalized Observation, Execution and Mental imagery therapy in chronic aphasia</p>
+<p class="pub-authors">Durand, E., <strong>Masson-Trottier, M.</strong>, Sontheimer, A., & Ansaldo, A. I.</p>
+<p class="pub-venue"><em>Brain and Cognition</em>, 148, 105659</p>
+<a class="pub-link" href="https://doi.org/10.1016/j.bandc.2020.105659" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2020</span>
+<div class="pub-body">
+<p class="pub-title">Efficiency of attentional processes in bilingual speakers with aphasia</p>
+<p class="pub-authors">Dash, T., <strong>Masson-Trottier, M.</strong>, & Ansaldo, A. I.</p>
+<p class="pub-venue"><em>Aphasiology</em>, 34(11), 1363–1387</p>
+<a class="pub-link" href="https://doi.org/10.1080/02687038.2020.1719970" target="_blank" rel="noopener">Lire l’article</a>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2016</span>
+<div class="pub-body">
+<p class="pub-title">Récupération des troubles de la communication suite à un traumatisme cranio-cérébral en phase aiguë : impact d’une thérapie pragmatique-discursive structurante</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Ferré, P., Joanette, Y., & Marcotte, K.</p>
+<p class="pub-venue"><em>Glossa</em>, 1–23</p>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2014</span>
+<div class="pub-body">
+<p class="pub-title">Verbal assistance within the context of an IADL evaluation</p>
+<p class="pub-authors">Le Dorze, G., Villeneuve, J., Zumbansen, A., <strong>Masson-Trottier, M.</strong>, & Bottari, C.</p>
+<p class="pub-venue"><em>Open Journal of Therapy and Rehabilitation</em>, 2(4), 182</p>
+</div>
+</li>
+</ol>
+
+### Chapitres de livre (2)
+
+<ol class="pub-list">
+<li class="pub">
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p class="pub-title">Neuroplasticité induite par la thérapie orthophonique</p>
+<p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Durand, E., & Ansaldo, A. I.</p>
+<p class="pub-venue">{Dans} <em>Évaluation et prise en charge des troubles du langage</em>. De Boeck Supérieur</p>
+</div>
+</li>
+<li class="pub">
+<span class="pub-year">2018</span>
+<div class="pub-body">
+<p class="pub-title">L’orthophoniste à l’ère de la globalisation : intervenir auprès des populations allophones souffrant d’aphasie</p>
+<p class="pub-authors">Durand, E., <strong>Masson-Trottier, M.</strong>, & Ansaldo, A. I.</p>
+<p class="pub-venue"><em>Rééducation orthophonique</em>, 275, 29–50</p>
+</div>
+</li>
+</ol>
+
+<p class="pub-orcid">Liste complète et à jour sur mon <a href="https://orcid.org/0000-0002-0642-5662">profil ORCID</a>.</p>

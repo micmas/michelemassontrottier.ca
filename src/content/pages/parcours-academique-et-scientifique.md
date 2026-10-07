@@ -108,20 +108,3 @@ En tant que mentor, j'accompagne les professionnel·le·s en orthophonie souhait
 
 </div>
 </div>
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Consultez les ressources répertoriées
-
-<div class="buttons"><a class="button" href="/ressources">Commencer</a></div>
-
-</div>
-<div class="column">
-
-Consultez ces ressources choisies : une section perpétuellement en cours d'enrichissement pour soutenir les personnes avec troubles de la communication et leurs proches.
-
-![](/media/2024/09/image-to-represent-ressources-available-for-allied-health-professionnals-maybe.png)
-
-</div>
-</div>

@@ -218,6 +218,14 @@ nav.main a, .brand span { white-space: nowrap; }
 details.doc-viewer { margin: .5rem 0 1.5rem; }
 details.doc-viewer > summary { cursor: pointer; font-family: var(--font-head); font-size: .9rem; color: var(--contrast); }
 details.doc-viewer iframe { width: 100%; height: 75vh; border: 1px solid var(--base-2); border-radius: 8px; margin-top: .6rem; background: #fff; }
+/* PDF shown inline by default */
+.pdf-embed { background: var(--surface); border: 1px solid var(--base-2); border-radius: 12px; padding: 1rem; margin: 1rem 0; }
+.pdf-embed .doc-title { margin: 0; }
+.pdf-embed .doc-meta { margin: .2rem 0 .6rem; }
+.pdf-embed iframe { display: block; width: 100%; aspect-ratio: 4 / 3; min-height: 420px; max-height: 80vh; border: 1px solid var(--base-2); border-radius: 8px; background: #fff; }
+.pdf-embed .buttons { margin-top: .8rem; }
+.pdf-embed a.button::after { content: none !important; }
+@media (max-width: 520px) { .pdf-embed iframe { display: none; } }
 @media (max-width: 520px) { .doc-card { flex-direction: column; } .doc-cover { max-width: 160px; } details.doc-viewer { display: none; } }
 
 /* ---------- video grid ---------- */
@@ -240,3 +248,54 @@ main.wide .prose > .columns { max-width: 1100px; margin-left: auto; margin-right
 /* resource groups: as many columns as fit (4 on wide screens, 1 on phones) */
 .tool-columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem 1.75rem; align-items: start; margin: 1.5rem 0 2rem; }
 .tool-group > h3:first-child { margin-top: 0; padding-bottom: .4rem; border-bottom: 2px solid var(--base-2); }
+
+/* Past continuing-education courses */
+.past-courses { list-style: none; padding: 0; margin: 1rem 0 1.5rem; display: grid; gap: .8rem; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.past-courses li { background: var(--surface); border: 1px solid var(--base-2); border-radius: 12px; padding: 1rem 1.1rem; margin: 0; display: flex; flex-direction: column; justify-content: space-between; gap: .7rem; }
+.past-title { margin: 0; font-family: var(--font-head); color: var(--contrast); line-height: 1.35; font-size: 1rem; }
+.past-editions { margin: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+.edition { font-family: var(--font-head); font-size: .78rem; letter-spacing: .02em; padding: .2rem .6rem; border-radius: 999px; background: var(--base-2); color: var(--contrast); }
+
+/* ---- Fluid layout: pages widen with the window (landscape on large screens) ---- */
+:root { --content: 1560px; --wide: 1560px; --text: 105ch; }
+main, main.wide { max-width: var(--content); padding-left: clamp(1rem, 3vw, 3rem); padding-right: clamp(1rem, 3vw, 3rem); }
+.site-header .inner, .site-footer .inner { padding-left: clamp(1rem, 3vw, 3rem); padding-right: clamp(1rem, 3vw, 3rem); }
+/* running text keeps a comfortable line length; grids, columns and cards use the full width */
+.prose > p, .prose > h2, .prose > h3, .prose > h4, .prose > blockquote, .prose > details, .page-title { max-width: var(--text); }
+main.wide .page-title, main.wide .prose > :not(.tool-columns):not(.columns) { margin-left: 0; margin-right: 0; }
+main.wide .prose > .columns { max-width: none; }
+.prose > p > img:only-child { max-width: min(100%, 860px); }
+.columns { gap: clamp(1.5rem, 3vw, 3rem); }
+/* video capsules: as many per row as fit */
+.video-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr)); }
+.pdf-embed iframe { aspect-ratio: 16 / 10; }
+
+/* Publications: spaced cards rather than a reference list */
+.pub-list { list-style: none; padding: 0 !important; margin: 1.2rem 0 2.5rem; max-width: 1100px; }
+.pub { display: grid; grid-template-columns: 4.5rem 1fr; gap: 1.2rem; padding: 1.4rem 0; margin: 0 !important; border-top: 1px solid var(--base-2); }
+.pub:last-child { border-bottom: 1px solid var(--base-2); }
+.pub-year { font-family: var(--font-head); font-size: .95rem; color: var(--muted); padding-top: .2rem; }
+.pub-body > p { margin: 0; }
+.pub-title { font-family: var(--font-head); color: var(--contrast); font-size: 1.12rem; line-height: 1.4; }
+.pub-authors { font-size: .95rem; color: var(--muted); margin-top: .45rem !important; line-height: 1.5; }
+.pub-authors strong { color: var(--contrast); font-weight: 600; }
+.pub-venue { font-size: .95rem; margin-top: .2rem !important; }
+.pub-note { font-size: .85rem; }
+.pub-link { display: inline-block; margin-top: .6rem; font-family: var(--font-head); font-size: .85rem; }
+.pub-link::after { content: " →"; }
+.pub-orcid { font-size: 1rem; }
+@media (max-width: 560px) { .pub { grid-template-columns: 1fr; gap: .3rem; } }
+
+/* Teaching: one entry per course, years as labels */
+.course-list { list-style: none; padding: 0 !important; margin: 1.2rem 0 2.5rem; max-width: 1100px; }
+.course { display: flex; justify-content: space-between; align-items: flex-start; gap: 1.5rem; padding: 1.2rem 0; margin: 0 !important; border-top: 1px solid var(--base-2); }
+.course:last-child { border-bottom: 1px solid var(--base-2); }
+.course-body > p { margin: 0; }
+.course-title { font-family: var(--font-head); color: var(--contrast); font-size: 1.08rem; line-height: 1.4; }
+.course-tr { color: var(--muted); font-size: .95rem; }
+.course-meta { font-family: var(--font-head); font-size: .82rem; letter-spacing: .02em; color: var(--muted); margin-top: .25rem !important; }
+.course-role { font-size: .95rem; margin-top: .3rem !important; }
+.course .past-editions { flex: 0 0 auto; justify-content: flex-end; max-width: 40%; }
+.student-list { max-width: 1100px; }
+.student-list li { margin: .5rem 0; }
+@media (max-width: 640px) { .course { flex-direction: column; gap: .6rem; } .course .past-editions { justify-content: flex-start; max-width: none; } }
