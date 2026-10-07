@@ -6,11 +6,15 @@ description: "How this website handles personal information."
 
 *Last updated: October 7, 2026*
 
-This is a personal and professional website. It has no advertising or visitor analytics, and it does not set tracking cookies.
+This is a personal and professional website. It has no advertising and does not set tracking cookies.
 
 ## Contact form
 
 When you write to me using the [contact form](/en/contact/), your name (optional), email address and message are sent to me by email through the [FormSubmit](https://formsubmit.co/) service. This information is used only to reply to you. It is never sold, shared or used for commercial purposes. You can also email me directly at [michelemassontrottier@gmail.com](mailto:michelemassontrottier@gmail.com).
+
+## Visit statistics
+
+To see which pages are read and which regions visits come from, the website uses [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/). It sets no cookies, does not track visitors across websites, and only produces aggregate, anonymous statistics (page views, country, device type, referring site).
 
 ## Hosting
 

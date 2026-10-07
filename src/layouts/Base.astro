@@ -46,6 +46,8 @@ const home = lang === 'en' ? '/en/' : '/';
   <meta property="og:description" content={desc} />
   <meta property="og:locale" content={lang === 'en' ? 'en_CA' : 'fr_CA'} />
   <meta property="og:image" content={new URL('/media/2024/09/logo_mmt_meilleurres_999x5720_blanc.png', Astro.site)} />
+  <!-- Cloudflare Web Analytics: privacy-friendly visit statistics, no cookies -->
+  <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3cfa5d4f59424317bfae00d986bba066"}'></script>
 </head>
 <body>
   <a class="skip" href="#contenu">{t.skip}</a>
