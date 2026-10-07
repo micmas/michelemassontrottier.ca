@@ -23,10 +23,10 @@ A selection of reliable, free resources to support speech-language pathology pra
 
 ### Tools for a quick literature review
 
-- speechBITE, for evidence on speech-language pathology interventions: <https://speechbite.com/>
-- ASHA's summaries of recent publications in speech-language pathology: <https://apps.asha.org/EvidenceMaps/>
-- Free online lectures by experts in the field: <https://cstar.sc.edu/lecture-series/>
-- Using artificial intelligence to get an overview of the scientific literature on a question: <https://scispace.com/>
+- [speechBITE](https://speechbite.com/) – evidence on speech-language pathology interventions
+- [ASHA Evidence Maps](https://apps.asha.org/EvidenceMaps/) – ASHA’s summaries of recent publications in speech-language pathology
+- [C-STAR Lecture Series](https://cstar.sc.edu/lecture-series/) – free online lectures by experts in the field
+- [SciSpace](https://scispace.com/) – an AI-assisted overview of the scientific literature on a question
 
 </div>
 <div class="resource-card">
@@ -34,20 +34,20 @@ A selection of reliable, free resources to support speech-language pathology pra
 ### Best practices and relevant guidelines
 
 - Guidelines for rehabilitation and recovery after stroke:
-  - Canada: <https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/7-language-and-communication>
-  - United Kingdom: <https://www.strokeguideline.org/chapter/communication-and-language/>
-  - Australia: <https://www.aphasiapathway.com.au/>
-- Living with a concussion: <https://concussionsontario.org/>
-- Resources for supporting people living with PPA (in French): <https://app-ffl.ulaval.ca/medecins/ressources.html>
-- Canadian Coalition for Seniors' Mental Health (CCSMH) guidelines on **behavioural and psychological symptoms of dementia (BPSD)**: <https://ccsmh.ca/areas-of-focus/dementia/>
+  - Canada: [Canadian Stroke Best Practice Recommendations](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/7-language-and-communication)
+  - United Kingdom: [National Clinical Guideline for Stroke](https://www.strokeguideline.org/chapter/communication-and-language/)
+  - Australia: [Australian Aphasia Rehabilitation Pathway](https://www.aphasiapathway.com.au/)
+- [Concussions Ontario](https://concussionsontario.org/) – living with a concussion
+- [APP-FFL (Université Laval)](https://app-ffl.ulaval.ca/medecins/ressources.html) – resources for supporting people living with PPA (in French)
+- [CCSMH](https://ccsmh.ca/areas-of-focus/dementia/) – Canadian Coalition for Seniors’ Mental Health guidelines on behavioural and psychological symptoms of dementia (BPSD)
 
 </div>
 <div class="resource-card">
 
 ### Intervention search engines (free)
 
-- Everything about interventions that can be used with people living with aphasia: <https://aphasiatherapyfinder.com/>
-- Finding apps that may be useful for your clients: <https://www.aphasiasoftwarefinder.org/>
+- [Aphasia Therapy Finder](https://aphasiatherapyfinder.com/) – a directory of interventions for people living with aphasia
+- [Aphasia Software Finder](https://www.aphasiasoftwarefinder.org/) – a directory of apps that may be useful for your clients
 
 </div>
 <div class="resource-card">
@@ -55,21 +55,21 @@ A selection of reliable, free resources to support speech-language pathology pra
 ### Royalty-free pictograms and photos (free)
 
 - Free pictograms:
-  - <https://thenounproject.com/>
-  - <https://recitas.ca/parlerpictos/> (in French)
-- Free medical illustrations: <https://smart.servier.com/>
+  - [The Noun Project](https://thenounproject.com/)
+  - [Parler pictos (RÉCIT)](https://recitas.ca/parlerpictos/) (in French)
+- [Servier Medical Art](https://smart.servier.com/) – free medical illustrations
 - Royalty-free photos:
-  - <https://unsplash.com/>
-  - <https://www.pexels.com/>
-  - <https://pixabay.com/>
+  - [Unsplash](https://unsplash.com/)
+  - [Pexels](https://www.pexels.com/)
+  - [Pixabay](https://pixabay.com/)
 
 </div>
 <div class="resource-card">
 
 ### Intervention tools (including AAC)
 
-- Aphasia Access: <https://www.aphasiaaccess.org/>
-- Everyone Communicates: [http://everyonecommunicates.org](http://everyonecommunicates.org/aaclinks.html)
+- [Aphasia Access](https://www.aphasiaaccess.org/)
+- [Everyone Communicates](http://everyonecommunicates.org/aaclinks.html)
 
 </div>
 <div class="resource-card">

@@ -22,10 +22,10 @@ Une sélection de ressources fiables et gratuites pour soutenir la pratique orth
 
 ### Outils pour une revue de la littérature rapide
 
-- speechBITE pour les ressources portant sur les interventions en orthophonie: <https://speechbite.com/>
-- Pour consulter les résumés écrits par l'ASHA pour les dernières publications en orthophonie: <https://apps.asha.org/EvidenceMaps/>
-- Présentations en ligne gratuites données par des experts du domaine (*anglais*): <https://cstar.sc.edu/lecture-series/>
-- Utiliser l'intelligence artificielle pour obtenir un aperçu des écrits scientifiques portant sur une question: <https://scispace.com/>
+- [speechBITE](https://speechbite.com/) – données probantes sur les interventions en orthophonie
+- [ASHA Evidence Maps](https://apps.asha.org/EvidenceMaps/) – résumés de l’ASHA sur les publications récentes en orthophonie
+- [C-STAR Lecture Series](https://cstar.sc.edu/lecture-series/) – conférences en ligne gratuites d’experts du domaine (en anglais)
+- [SciSpace](https://scispace.com/) – aperçu des écrits scientifiques sur une question, à l’aide de l’IA
 
 </div>
 <div class="resource-card">
@@ -33,20 +33,20 @@ Une sélection de ressources fiables et gratuites pour soutenir la pratique orth
 ### Accéder aux meilleures pratiques et lignes directrices pertinentes
 
 - Lignes directrices pour la réadaptation et le rétablissement après un AVC:
-  - Canada: <https://www.pratiquesoptimalesavc.ca/recommandations/prestation-de-soins-de-readaptation-post-avc/7-langage-et-communication>
-  - Royaumes-Unis: [https://www.strokeguideline.org/chapter/communication-and-language/](https://www.strokeguideline.org/chapter/communication-and-language/?_gl=1*k147ry*_up*MQ..*_ga*MTE2NTU1MTk1OS4xNzMzODc2MTIx*_ga_EE3BZMVLRT*MTczMzg3NjEyMC4xLjEuMTczMzg3NjEyNS4wLjAuMA..)
-  - Australia: <https://www.aphasiapathway.com.au/>
-- Vivre avec une commotion cérébrale (*anglais*): <https://concussionsontario.org/>
-- Ressources pour la prise en charge de personnes vivant avec une APP: <https://app-ffl.ulaval.ca/medecins/ressources.html>
-- Lignes directrices de la Coalition Canadienne pour la santé mentale des personnes âgées (CCSMPA) pour les symptômes comportementaux et psychologiques de la démence (SCPD) : <https://ccsmh.ca/domaines-dinteret/demence/>
+  - Canada : [Recommandations canadiennes pour les pratiques optimales de soins de l’AVC](https://www.pratiquesoptimalesavc.ca/recommandations/prestation-de-soins-de-readaptation-post-avc/7-langage-et-communication)
+  - Royaume-Uni : [National Clinical Guideline for Stroke](https://www.strokeguideline.org/chapter/communication-and-language/)
+  - Australie : [Australian Aphasia Rehabilitation Pathway](https://www.aphasiapathway.com.au/)
+- [Concussions Ontario](https://concussionsontario.org/) – vivre avec une commotion cérébrale (en anglais)
+- [APP-FFL (Université Laval)](https://app-ffl.ulaval.ca/medecins/ressources.html) – ressources pour la prise en charge des personnes vivant avec une APP
+- [CCSMPA](https://ccsmh.ca/domaines-dinteret/demence/) – lignes directrices de la Coalition canadienne pour la santé mentale des personnes âgées sur les symptômes comportementaux et psychologiques de la démence (SCPD)
 
 </div>
 <div class="resource-card">
 
 ### Moteur de recherche pour intervention (gratuit)
 
-- Pour trouver toutes les informations sur les interventions qui peuvent être utilisées auprès de personnes vivant avec une aphasie: <https://aphasiatherapyfinder.com/>
-- Pour trouver des applications qui peuvent servir à nos usagers·ères/clients·tes: <https://www.aphasiasoftwarefinder.org/>
+- [Aphasia Therapy Finder](https://aphasiatherapyfinder.com/) – répertoire des interventions pour les personnes vivant avec une aphasie
+- [Aphasia Software Finder](https://www.aphasiasoftwarefinder.org/) – répertoire d’applications utiles pour vos usagers·ères
 
 </div>
 <div class="resource-card">
@@ -54,31 +54,31 @@ Une sélection de ressources fiables et gratuites pour soutenir la pratique orth
 ### Ressources pour des picto/photos libres de droit (gratuit)
 
 - Pictogrammes gratuits:
-  - <https://thenounproject.com/>
-  - <https://recitas.ca/parlerpictos/>
-- Pictogrammes médicaux gratuits: <https://smart.servier.com/>
+  - [The Noun Project](https://thenounproject.com/)
+  - [Parler pictos (RÉCIT)](https://recitas.ca/parlerpictos/)
+- [Servier Medical Art](https://smart.servier.com/) – pictogrammes médicaux gratuits
 - Photos libres de droits:
-  - <https://unsplash.com/>
-  - <https://www.pexels.com/>
-  - <https://pixabay.com/>
+  - [Unsplash](https://unsplash.com/)
+  - [Pexels](https://www.pexels.com/)
+  - [Pixabay](https://pixabay.com/)
 
 </div>
 <div class="resource-card">
 
 ### Références pour des outils d'intervention (incluant CAA)
 
-- Aphasia Access: <https://www.aphasiaaccess.org/>
-- Everyone Communicates: [http://everyonecommunicates.org](http://everyonecommunicates.org/aaclinks.html)
+- [Aphasia Access](https://www.aphasiaaccess.org/)
+- [Everyone Communicates](http://everyonecommunicates.org/aaclinks.html)
 
 </div>
 <div class="resource-card">
 
 ### Matériel pour soutenir les interventions auprès de personnes multilingues
 
-- [Matériel développé par Floriane Birraud](/aphasie-multilingue/) étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
+- [Matériel développé par Floriane Birraud](/aphasie-multilingue/), étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
   - [Capsules vidéo](/aphasie-multilingue-capsules-video/)
   - [Fascicule d'information](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
-  - [Recensement d'outil disponible](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
+  - [Recensement des outils disponibles](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
 
 </div>
 
