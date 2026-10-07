@@ -6,6 +6,7 @@ const schema = z.object({
   title: z.string(),
   description: z.string().optional(),
   order: z.number().optional(),
+  wide: z.boolean().optional(),
 });
 
 // French pages (default language, URLs at the root: /a-propos/)

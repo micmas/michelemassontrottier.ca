@@ -1,5 +1,6 @@
 ---
 title: "Multilingual aphasia"
+wide: true
 fr: "aphasie-multilingue"
 order: 0
 ---
@@ -73,10 +74,12 @@ You can also watch the video at your own pace, with subtitles, [on Canva](https:
 
 ## Tools to support care for multilingual people
 
-<div class="columns">
-<div class="column">
+<div class="tool-columns">
 
-## Assessment tools
+<section class="tool-group">
+
+### Assessment tools
+
 
 <details class="accordion">
 <summary>Bilingual Aphasia Test (BAT)<br/><a href="https://www.mcgill.ca/linguistics/research/bat"><em>available online</em></a></summary>
@@ -115,10 +118,12 @@ Arabic (Moroccan) | Basque | Cantonese | German | Greek | Icelandic | Lithuanian
 
 </details>
 
-</div>
-<div class="column">
+</section>
+
+<section class="tool-group">
 
 ### Language profiling tools
+
 
 <details class="accordion">
 <summary>LEAP-Q questionnaire<br/><a href="https://bilingualism.northwestern.edu/leapq/"><em>available online</em></a></summary>
@@ -136,7 +141,12 @@ Available in paper-and-pencil or digital format.
 
 </details>
 
-## Intervention tools
+</section>
+
+<section class="tool-group">
+
+### Intervention tools
+
 
 <details class="accordion">
 <summary>Tactus Therapy<br/><a href="https://tactustherapy.com/app/language/"><em>available online</em></a></summary>
@@ -159,10 +169,12 @@ This page offers resources to support culturally responsive practice with people
 
 </details>
 
-</div>
-<div class="column">
+</section>
 
-## Other resources
+<section class="tool-group">
+
+### Other resources
+
 
 <details class="accordion">
 <summary>Aphasia Therapy Finder<br/><a href="https://aphasiatherapyfinder.com/"><em>view online</em></a></summary>
@@ -186,7 +198,8 @@ This GPT is a specialized assistant designed to support speech-language patholog
 
 </details>
 
-</div>
+</section>
+
 </div>
 
 [Inventory of available tools (February 2026, in French)](/media/2026/02/20260221_recensement-outils-disponibles.pdf)

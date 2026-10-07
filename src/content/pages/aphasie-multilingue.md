@@ -1,5 +1,6 @@
 ---
 title: "Aphasie multilingue"
+wide: true
 order: 0
 ---
 
@@ -72,10 +73,12 @@ Vous pouvez également visionner la capsule à votre rythme, avec sous-titres, d
 
 ## Outils disponibles pour faciliter les prises en soin auprès de personnes multilingues
 
-<div class="columns">
-<div class="column">
+<div class="tool-columns">
 
-## Outils d'évaluation
+<section class="tool-group">
+
+### Outils d'évaluation
+
 
 <details class="accordion">
 <summary>Bilingual Aphasia Test (BAT)​ <br/><a href="https://www.mcgill.ca/linguistics/research/bat" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
@@ -114,10 +117,12 @@ arabe (du Maroc) | basque | cantonais | allemand | grec | islandais | lithuanien
 
 </details>
 
-</div>
-<div class="column">
+</section>
+
+<section class="tool-group">
 
 ### Outils de profilage linguistique
+
 
 <details class="accordion">
 <summary>Questionnaire LeapQ<em><br/><a href="https://bilingualism.northwestern.edu/leapq/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></em></summary>
@@ -135,7 +140,12 @@ Disponible en format papier & crayon ou numérique
 
 </details>
 
-## Outils d'intervention
+</section>
+
+<section class="tool-group">
+
+### Outils d'intervention
+
 
 <details class="accordion">
 <summary>Tactus Therapy<br/><a href="https://tactustherapy.com/app/language/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
@@ -158,10 +168,12 @@ Cette page contient des ressources pour soutenir une pratique culturellement ada
 
 </details>
 
-</div>
-<div class="column">
+</section>
 
-## Autres ressources
+<section class="tool-group">
+
+### Autres ressources
+
 
 <details class="accordion">
 <summary>Aphasia therapy finder<br/><a href="https://aphasiatherapyfinder.com/" rel="noopener" target="_blank"><em>consulter en ligne</em></a></summary>
@@ -185,7 +197,8 @@ Ce GPT est un assistant spécialisé conçu pour accompagner les orthophonistes 
 
 </details>
 
-</div>
+</section>
+
 </div>
 
 [20260221_Recensement-outils-disponibles](/media/2026/02/20260221_recensement-outils-disponibles.pdf)
