@@ -1,26 +1,39 @@
 ---
-title: "Research interests"
+title: "Clinical research"
+description: "Research in aphasia, neuroplasticity and neuromodulation; COMPAs, multilingual aphasia and related publications."
 fr: "interets_recherche"
-order: 7
 ---
 
-My research program explores the mechanisms underlying acquired communication disorders and the effectiveness of clinical interventions. I am interested in how evidence-based therapies can shape neuroplasticity, and in bringing new technologies into clinical practice.
+My work focuses on rehabilitation in acquired and neurodegenerative communication disorders. I connect behavioural outcomes, brain mechanisms and the activities that matter in everyday life.
 
-## Main research areas
+## Anomia therapy and neuroplasticity
 
-- **Language disorders**  
-  Studying language disorders in adults, particularly in conditions such as post-stroke aphasia.
-- **Speech disorders**  
-  Research on motor speech disorders, such as dysarthria and apraxia of speech, and their treatment.
-- **Neurocognitive disorders**  
-  Studying neurocognitive disorders that affect communication, with a particular interest in disease progression and functional compensation.
-- **Intervention effectiveness**  
-  Evaluating interventions, with a focus on their long-term impact and their relevance across different settings.
-- **Neuroplasticity and medical imaging**  
-  Using brain imaging techniques (mainly fMRI) to understand how interventions affect brain plasticity in people living with a communication disorder.
-- **Evidence-based practice**  
-  Promoting and applying clinical practices grounded in the best available evidence.
-- **Artificial intelligence**  
-  Exploring the use of AI in assessing communication disorders and in developing innovative clinical tools.
-- **Open science**  
-  A commitment to open science that promotes transparency, data sharing and collaboration within the scientific community.
+During my PhD at the Université de Montréal, I developed and evaluated the French adaptation of Phonological Components Analysis therapy. I studied its effects on naming and neurofunctional changes in chronic aphasia, including through functional MRI.
+
+[French therapy effectiveness study (2024)](https://doi.org/10.1111/1460-6984.13080) · [Bilingual perspective and structural data (2022)](https://doi.org/10.3389/fnhum.2022.752121)
+
+## Primary progressive aphasia and neuromodulation
+
+At Johns Hopkins (2023–2025), I led the development of a multisite protocol evaluating tDCS alongside naming and spelling therapy. I used the Rehabilitation Treatment Specification System (RTSS) to specify the intervention components. The published protocol describes the study design; it does not report an efficacy result.
+
+I also contributed to COS-PPA, the international consensus on outcome measures for communication interventions in primary progressive aphasia.
+
+[Multisite protocol (2025)](https://doi.org/10.3389/fnhum.2025.1611272) · [COS-PPA consensus](https://doi.org/10.1002/alz.14362)
+
+## Communication support and implementation
+
+With Ana Inés Ansaldo’s team, I contributed to implementing COMPAs in long-term care. The application supports communication between people living with dementia and their carers. The study combines evaluation of the tool with its integration into the care setting.
+
+[COMPAs implementation study (2024)](https://doi.org/10.2196/47565)
+
+## Culturally and linguistically responsive care
+
+I supervised Floriane Birraud’s master’s thesis on multilingual aphasia care, leading to a narrative review and a knowledge translation tool. The materials include videos, an information booklet and an inventory of tools.
+
+[Publication (2026)](https://doi.org/10.1080/02687038.2026.2691172) · [Explore the materials](/en/multilingual-aphasia/)
+
+## Current work at UQ
+
+Through [CALMaR](/en/calmar/) and [Neurodesk](/en/neurodesk/), I work to connect neuroimaging methods with clinical questions, through co-design and open science.
+
+[All publications](/en/publications/) · [Discuss a collaboration](/en/contact/)

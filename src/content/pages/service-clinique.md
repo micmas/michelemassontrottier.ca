@@ -1,88 +1,45 @@
 ---
-title: "Pratiques cliniques en orthophonie"
-order: 2
+title: "Expérience et pratique clinique"
+description: "Expérience clinique en aphasie et troubles neurodégénératifs. Basée à Brisbane, disponible pour des consultations ponctuelles en Australie et au Québec, ainsi que du mentorat."
 ---
 
-Veuillez noter que je ne prends plus de nouveaux·elles client·e·s jusqu'à nouvel ordre.
+J’accompagne des adultes vivant avec des troubles acquis ou neurodégénératifs de la communication, ainsi que leurs proches. Mon travail part des activités qui comptent pour chaque personne : tenir une conversation, lire, écrire ou participer à la vie familiale et sociale.
 
-![](/media/2024/09/jakub-zerdzicki-orfe0w1tvs-unsplash.jpg)
+<aside class="notice"><p><strong>Disponibilité actuelle :</strong> basée à Brisbane, je suis disponible pour des consultations ponctuelles auprès d’une clientèle en Australie et au Québec, ainsi que pour du mentorat et des collaborations. Je ne prends pas de nouveaux·elles client·e·s pour des blocs de thérapie.</p></aside>
 
-<details class="accordion">
-<summary>Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk--orfe0w1tvs?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></summary>
+## Mon expérience
 
-</details>
+- Depuis 2016 : pratique privée en troubles acquis et neurodégénératifs de la communication.
+- 2018–2023 : orthophoniste au Service aux proches d’une personne aphasique (SAPPA), à l’[Association québécoise des personnes aphasiques](https://aphasie.ca/). Interventions auprès de la personne et de son·sa proche, et groupes de soutien en aphasie post-AVC et en aphasie primaire progressive.
+- 2017–2023 : consultante en orthophonie à l’Institut de Cardiologie de Montréal.
 
-## Mes services
+## Mon approche
 
-## Explorer une multitude de possibilités
+Je m’appuie sur une approche de participation à la vie et sur les données probantes. Nous définissons les objectifs ensemble, à partir de vos priorités et de votre quotidien. Lorsque vous le souhaitez, vos proches participent aussi au suivi.
 
-### Ma philosophie
+Le travail peut viser la récupération de capacités langagières, l’adaptation des activités ou le développement de stratégies de communication. J’explique le lien entre les exercices, les stratégies et les objectifs que nous avons choisis.
 
-En tant qu’orthophoniste qui adhère à l'approche de participation à la vie; mon objectif est de fournir des interventions de sorte à mener à des résultats fonctionnels et réduire les situations de handicap que causent les difficultés de communication.
+## Domaines d’expérience
 
-Mon approche vise à vous aider à reprendre ou à améliorer la réalisation de vos activités de communication, quelles qu’elles soient. Que vous souhaitiez tenir une conversation, écouter un reportage, lire un article, écrire un courriel, parler plus fort… le plan d’intervention que nous construirons part de vos projets, de vos objectifs!
+- Aphasie après un AVC et troubles de la communication après un traumatisme craniocérébral.
+- Aphasie primaire progressive et communication dans les maladies neurodégénératives.
+- Évaluation cognitive et neurolinguistique, interventions adaptées au contexte linguistique et culturel.
+- Soutien des proches, interventions en dyade et communication fonctionnelle.
 
-Je considère la communication dans son contexte social et fixe les interventions à partir des cadres de théorie de neuroscience et de psychologie de l’apprentissage. Je travaille en collaboration avec la personne vivant avec la difficulté de communication et son entourage lorsque c’est possible et souhaitable.
+## Comprendre le suivi
 
-J'offre des suivis individuels ou en dyade au privé (voir les conditions ci-dessous). J’ai longtemps travaillé comme orthophoniste à l'[Association Québecoise des Personnes Aphasiques (AQPA)](https://aphasie.ca/) via le projet [Service aux proches d'une Personnes Aphasique (SAPPA)](https://aphasie.ca/projet-sappa/) en offrant des interventions en dyades et des groupes de soutien destinés aux dyades de personnes vivant avec une aphasie post-AVC et leurs proches ainsi qu'aux dyades de personnes vivant avec une aphasie primaire progressive et leurs proches.
+L’[évaluation](/clinique_evaluations/) permet de comprendre vos difficultés et de convenir des objectifs. Les [interventions](/clinique_interventions/) visent ensuite les activités et les besoins que vous avez identifiés. Les modalités, la fréquence et les frais sont discutés dans l’entente de service.
 
-<div class="columns">
-<div class="column">
+Les informations de cette section décrivent ma pratique et mes tarifs actuels. Pour une consultation ponctuelle, nous convenons ensemble de la portée de la rencontre et des modalités; un bloc de thérapie n’est pas proposé aux nouveaux·elles client·e·s.
 
-## Difficultés de communication perçues
+## Modalités et visites à domicile
 
-Il peut être pertinent de consulter un·e orthophoniste si vous ou un·e proche vivez l'une des situations suivantes:
+Je propose des consultations ponctuelles en Australie et au Québec. Pour les consultations en Australie, les modalités et les honoraires sont convenus avant le rendez-vous. Les consultations auprès de la clientèle québécoise sont généralement offertes en téléorthophonie. Les visites à domicile à Montréal se conviennent au cas par cas, selon ma présence sur place.
 
-- Vous avez des difficultés de communication avec un proche
-- Vous avez de la difficulté à participer à une conversation de groupe
-- Vous cherchez vos mots
-- Vous perdez le fil en conversation
-- Vous ne comprenez pas ce que vous lisez
-- Vous n’arrivez pas à prendre des notes
-- Vous avez de la difficulté à écrire un message
-- Vous avez de la difficulté à articuler
-- Votre voix est faible, trop forte ou éraillée
-- Vous avez de la difficulté à avaler
+Pour une visite à domicile convenue, les frais de déplacement s’ajoutent aux honoraires : **40 $ dans le centre de l’île de Montréal** et **60 $ dans la grande région de Montréal**, pour un déplacement préalablement accepté. Les tarifs publiés dans cette section concernent les services au Québec et sont en dollars canadiens.
 
-</div>
-<div class="column">
+[Demander une consultation ponctuelle](/contactez-moi/) · [Mentorat](/mentorat/)
 
-## Clientèles desservies
+<div class="buttons"><a class="button" href="/clinique_evaluations/">Évaluations et tarifs</a><a class="button button-outline" href="/clinique_interventions/">Interventions et tarifs</a></div>
 
-Je travaille auprès de personnes ayant des difficultés de communication de causes variées:
-
-- Aphasie suite à un AVC ou un traumatisme craniocérébral
-- Aphasie primaire progressive ou autre trouble neurocognitif (Démence de type Alzheimer, Maladie de Parkinson, sclérose en plaques)
-- Apraxie de la parole
-- Dysarthrie
-- Dysphagie
-- Dysphonie et autres troubles de voix
-- Trouble cognitivo-communicatif
-
-</div>
-</div>
-
-## Modalité de service
-
-Toutes mes rencontres se déroulent soit à domicile, soit en téléintervention. Pour les rencontres à domicile, il faut ajouter un frais de déplacement de 40$ pour le centre de l'île de Montréal (ouest de Décarie, nord de métropolitain, est de Papineau et sud de Notre-Dame) et 60$ pour un déplacement dans la grande région de Montréal qui a préalablement été accepté. Les prix sont sujet à changer.
-
-<div class="columns">
-<div class="column">
-
-<div class="buttons"><a class="button" href="/clinique_evaluations/">Évaluations</a></div>
-
-</div>
-<div class="column">
-
-<div class="buttons"><a class="button" href="/clinique_interventions/">Interventions</a></div>
-
-</div>
-</div>
-
-<div class="columns">
-<div class="column" style="flex-basis:100%">
-
-<div class="buttons"><a class="button" href="/contactez-moi/">Contactez-moi</a></div>
-
-</div>
-</div>
+Pour les personnes et leurs proches, des [présentations enregistrées](/presentations-grand-public/) sont également disponibles. Les [ressources pour la pratique](/ressources/) s’adressent principalement aux orthophonistes.

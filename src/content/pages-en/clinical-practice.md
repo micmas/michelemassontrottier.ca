@@ -1,65 +1,46 @@
 ---
-title: "Clinical speech-language pathology"
+title: "Clinical experience and practice"
+description: "Clinical experience in aphasia and neurodegenerative communication disorders. Based in Brisbane, available for one-off consultations in Australia and Quebec, and mentoring."
 fr: "service-clinique"
-order: 2
 ---
 
-Please note that I am not taking on new clients until further notice.
+I work with adults living with acquired or neurodegenerative communication disorders and with their families. My clinical approach starts from what matters to each person: having a conversation, reading, writing or taking part in family and community life.
 
-![](/media/2024/09/jakub-zerdzicki-orfe0w1tvs-unsplash.jpg)
+<aside class="notice"><p><strong>Current availability:</strong> based in Brisbane, I am available for one-off consultations with clients in Australia and Quebec, as well as mentoring and collaborations. I am not accepting new clients for blocks of therapy.</p></aside>
 
-*Photo by [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki) on [Unsplash](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk--orfe0w1tvs)*
+## Clinical experience
 
-## My services
+- Since 2016: private practice in acquired and neurodegenerative communication disorders.
+- 2018–2023: speech-language pathologist with the Service aux proches d’une personne aphasique (SAPPA), at the [Association québécoise des personnes aphasiques](https://aphasie.ca/). Joint interventions and support groups for people living with post-stroke or primary progressive aphasia and their family communication partners.
+- 2017–2023: speech-language pathology consultant at the Montreal Heart Institute.
 
-### My philosophy
+## My approach
 
-As a speech-language pathologist who follows the Life Participation Approach to Aphasia, my goal is to provide interventions that lead to functional outcomes and reduce the disability that communication difficulties can create.
+My work draws on a life participation approach and research evidence. We agree on goals together, based on your priorities and everyday activities. Family members can take part when you would like them to.
 
-My approach aims to help you resume or improve the communication activities that matter to you, whatever they are. Whether you want to hold a conversation, follow a news report, read an article, write an email or speak more loudly, the intervention plan we build together starts from your goals and your plans.
+Therapy can support recovery of language abilities, adaptations to everyday activities or new communication strategies. I explain how the exercises and strategies relate to the goals we have chosen.
 
-I consider communication in its social context and base my interventions on theoretical frameworks from neuroscience and the psychology of learning. Whenever possible and appropriate, I work collaboratively with the person living with the communication difficulty and with the people around them.
+## Areas of experience
 
-I offer individual or dyadic sessions in private practice (see conditions below). For many years I worked as a speech-language pathologist with the [Association québécoise des personnes aphasiques (AQPA)](https://aphasie.ca/) through the [SAPPA project](https://aphasie.ca/projet-sappa/) (services for families of people with aphasia), providing dyadic interventions and support groups for people living with post-stroke aphasia or primary progressive aphasia and their families.
+- Aphasia after stroke and communication disorders after traumatic brain injury.
+- Primary progressive aphasia and communication in neurodegenerative conditions.
+- Cognitive and neurolinguistic assessment; culturally and linguistically adapted intervention.
+- Family support, joint interventions and functional communication.
 
-<div class="columns">
-<div class="column">
+## Understanding the process
 
-## Signs it may be time to consult
+An [assessment](/en/assessments/) helps us understand your difficulties and agree on goals. [Intervention](/en/interventions/) then focuses on the activities and needs you have identified. Delivery, frequency and fees are discussed in the service agreement.
 
-It may be helpful to see a speech-language pathologist if you or someone close to you:
+This section describes my practice and current fees. For a one-off consultation, we agree on the scope and delivery arrangements together; blocks of therapy are not offered to new clients.
 
-- has difficulty communicating with a family member
-- finds it hard to take part in group conversations
-- searches for words
-- loses track of conversations
-- does not understand what they read
-- cannot take notes
-- has difficulty writing a message
-- has difficulty articulating
-- has a weak, overly loud or hoarse voice
-- has difficulty swallowing
+## Delivery and home visits
 
-</div>
-<div class="column">
+I offer one-off consultations in Australia and Quebec. For consultations in Australia, arrangements and fees are agreed before the appointment. Consultations with clients in Quebec are usually offered by telepractice. Home visits in Montreal are arranged individually, depending on when I am there in person.
 
-## Who I work with
+For an agreed home visit, travel fees are added to the consultation fee: **$40 for central Montreal Island** and **$60 for previously agreed travel within Greater Montreal**. The fees published in this section apply to services in Quebec and are in Canadian dollars.
 
-I work with people who have communication difficulties from a range of causes:
+[Enquire about a one-off consultation](/en/contact/) · [Mentoring](/en/mentoring/)
 
-- Aphasia after a stroke or a traumatic brain injury
-- Primary progressive aphasia or another neurocognitive disorder (Alzheimer's disease, Parkinson's disease, multiple sclerosis)
-- Apraxia of speech
-- Dysarthria
-- Dysphagia
-- Dysphonia and other voice disorders
-- Cognitive-communication disorders
+<div class="buttons"><a class="button" href="/en/assessments/">Assessments and fees</a><a class="button button-outline" href="/en/interventions/">Interventions and fees</a></div>
 
-</div>
-</div>
-
-## How services are delivered
-
-All sessions take place either at home or by telepractice. For home visits, a travel fee of $40 applies for central Montreal Island (west of Décarie, north of the Métropolitain, east of Papineau and south of Notre-Dame), and $60 for previously agreed travel within Greater Montreal. All fees are in Canadian dollars and are subject to change.
-
-<div class="buttons"><a class="button" href="/en/assessments/">Assessments</a><a class="button" href="/en/interventions/">Interventions</a><a class="button" href="/en/contact/">Contact me</a></div>
+[Recorded talks](/en/public-talks/) are available for people with communication disorders and their families. The [practice resources](/en/resources/) are primarily intended for clinicians.

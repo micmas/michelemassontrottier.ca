@@ -5,13 +5,6 @@ order: 12
 ---
 
 <div class="columns">
-<div class="column" style="flex-basis:33.33%">
-
-![](/media/2024/10/continuing-education-for-speech-pathologist-in-adult-practice-1.png)
-
-*AI-generated image*
-
-</div>
 <div class="column" style="flex-basis:66.66%">
 
 I offer continuing education tailored to the needs of speech-language pathology professionals, based on the latest research and clinical practice. These courses aim to strengthen clinicians' skills and bring scientific advances into everyday intervention.

@@ -3,19 +3,38 @@ title: "Publications scientifiques"
 order: 8
 ---
 
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
+Mes publications relient les interventions en orthophonie, les mécanismes cérébraux et les méthodes de recherche reproductibles. Voici trois points d’entrée, suivis de la liste des articles et chapitres.
 
-![](/media/2024/10/academic-publications-list.png)
+## Quelques travaux représentatifs
 
-*Image générée par IA*
+<div class="feature-grid">
+<article class="feature-card">
 
-</div>
-<div class="column" style="flex-basis:66.66%">
+### Interventions en aphasie
 
-Mes publications reflètent mon engagement à comprendre et améliorer les troubles de la communication acquis. À travers mes recherches, j'explore des thèmes tels que l'efficacité des interventions, les mécanismes neurofonctionnels sous-jacents, et l'impact des thérapies sur la neuroplasticité. Vous trouverez ici mes articles publiés dans des revues scientifiques avec comité de lecture, ainsi que mes chapitres de livre.
+Mon travail doctoral sur l’adaptation française de l’analyse des composantes phonologiques et ses effets dans l’aphasie chronique.
 
-</div>
+[Étude clinique (2024)](https://doi.org/10.1111/1460-6984.13080)
+
+</article>
+<article class="feature-card">
+
+### Recherche reproductible
+
+Un article dont je suis première autrice sur les artefacts de recherche reproductibles rendus possibles par Neurodesk.
+
+[Article sur les méthodes (2025)](https://doi.org/10.52294/001c.143700)
+
+</article>
+<article class="feature-card">
+
+### Aphasie multilingue
+
+Une revue narrative et un outil de transfert des connaissances issus du mémoire de maîtrise que j’ai supervisé.
+
+[Revue et outil (2026)](https://doi.org/10.1080/02687038.2026.2691172)
+
+</article>
 </div>
 
 ## Articles révisés par les pairs (16)
@@ -173,7 +192,7 @@ Mes publications reflètent mon engagement à comprendre et améliorer les troub
 <div class="pub-body">
 <p class="pub-title">Neuroplasticité induite par la thérapie orthophonique</p>
 <p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Durand, E., & Ansaldo, A. I.</p>
-<p class="pub-venue">{Dans} <em>Évaluation et prise en charge des troubles du langage</em>. De Boeck Supérieur</p>
+<p class="pub-venue">Dans <em>Évaluation et prise en charge des troubles du langage</em>. De Boeck Supérieur</p>
 </div>
 </li>
 <li class="pub">

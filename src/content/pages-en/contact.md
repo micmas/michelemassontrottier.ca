@@ -4,11 +4,13 @@ fr: "contactez-moi"
 order: 16
 ---
 
-Whether you are a health professional, a researcher, a student, a person living with a communication disorder or a family caregiver, please feel free to get in touch with any question or idea for collaboration. I am happy to talk about my clinical work and my research, or to share resources and ideas.
+You can contact me about a one-off consultation, mentoring, research collaboration or training, including work related to CALMaR or Neurodesk. I am based in Brisbane and am available for one-off consultations with clients in Australia and Quebec. Consultations with clients in Quebec are usually offered by telepractice. For consultations in Australia, arrangements and fees are agreed before the appointment.
 
-I will get back to you as soon as I can.
+I am available for one-off consultations, mentoring and collaborations. I am not accepting new clients for blocks of therapy. Briefly describe the type of enquiry and what you would like to discuss.
 
-<form class="contact-form" action="https://formsubmit.co/michelemassontrottier@gmail.com" method="POST">
+<p class="form-note" id="contact-note">For an initial clinical enquiry, briefly describe what you need without sending records, reports or detailed health information. See the <a href="/en/privacy/">privacy policy</a>.</p>
+
+<form class="contact-form" aria-describedby="contact-note" action="https://formsubmit.co/michelemassontrottier@gmail.com" method="POST">
 <input type="hidden" name="_subject" value="New message (English site) – michelemassontrottier.ca">
 <input type="hidden" name="_template" value="table">
 <input type="hidden" name="_next" value="https://michelemassontrottier.ca/en/thanks/" data-auto-next data-next-path="en/thanks/">
@@ -24,8 +26,8 @@ I will get back to you as soon as I can.
 
 ## Details
 
-📍 Montreal, Canada · Brisbane, Australia
+Based in Brisbane, Australia · Consultations in Australia and Quebec
 
 📧 [michelemassontrottier@gmail.com](mailto:michelemassontrottier@gmail.com)
 
-🗓️ Available by appointment
+One-off consultations, mentoring and collaborations: by appointment.

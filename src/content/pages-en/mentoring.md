@@ -17,3 +17,11 @@ My approach to mentoring is based on listening, sharing experience, and support 
 ### Research and publications
 
 Master's thesis supervision: *guidance in designing, writing and publishing scientific articles, with a particular focus on acquired communication disorders, multilingualism, neuroplasticity and intervention effectiveness.*
+
+## Discuss a project
+
+Based in Brisbane, I am available for mentoring enquiries and collaborations.
+
+For a supervision or mentoring enquiry, tell me your discipline, training level and the project or skill you would like to develop. Opportunities and supervision arrangements are discussed individually.
+
+[Contact me](/en/contact/)

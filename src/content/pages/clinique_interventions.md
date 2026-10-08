@@ -1,61 +1,48 @@
 ---
-title: "Clinique"
-order: 5
+title: "Interventions et tarifs"
 ---
 
-<div class="columns">
-<div class="column" style="flex-basis:50%">
+Le suivi part des activités que vous souhaitez reprendre, maintenir ou faciliter. Nous fixons les objectifs ensemble et choisissons une fréquence adaptée à votre situation.
 
-## Interventions
+<aside class="notice"><p>Basée à Brisbane, je suis disponible pour des consultations ponctuelles auprès d’une clientèle en Australie et au Québec. Je ne prends pas de nouveaux·elles client·e·s pour des blocs de thérapie. Cette page présente mon approche et les tarifs actuels.</p></aside>
 
-</div>
-<div class="column" style="flex-basis:50%">
+## Des objectifs liés au quotidien
 
-L’intervention peut viser à promouvoir la récupération des fonctions langagières, faciliter la participation aux activités du quotidien ou réaliser des tâches spécifiques. La fréquence des rencontres est à déterminer ensemble en fonction de notre entente de service.
+- Trouver les mots pour une conversation ou expliquer une idée.
+- Lire les nouvelles, un courriel ou un livre.
+- Écrire un message, prendre des notes ou préparer un texte.
+- Utiliser d’autres moyens de communication lorsque parler, lire ou écrire est difficile.
+- Adapter une activité ou un environnement pour soutenir la communication, notamment au travail.
 
-L’intervention peut se dérouler de façon individuelle, avec un proche ou encore via des activités de groupe. Nous travaillons toujours à partir de vos intérêts et vos projets actuels. Je travaille aussi avec des personnes souhaitant un maintien au travail en adaptant le milieu actuel et en identifiant les stratégies permettant de bien compenser les difficultés langagières.
+Les rencontres peuvent être individuelles ou inclure un·e proche. J’explique comment chaque exercice ou stratégie contribue aux objectifs. Mon expérience comprend aussi le travail en dyade et les groupes de soutien.
 
-</div>
-</div>
+## Tarifs en dollars canadiens
 
-En tout temps, pendant l’intervention, le lien entre les exercices et les objectifs vous est expliqué clairement. Le lien entre les différents facteurs de votre entourage pouvant avoir un impact sur votre communication vous est également expliqué.
+Les tarifs ci-dessous concernent les services au Québec. Pour une consultation en Australie, les modalités et les honoraires sont convenus avant le rendez-vous.
 
-Pendant l’intervention, des objectifs plus spécifiques sont possible, ciblant notamment:
+<div class="fee-grid">
+<article class="feature-card">
 
-- **Expression orale**: Trouver des mots pour parler, avoir une conversation, expliquer, parler, discuter.
-- **Lire**: Lire des nouvelles, des articles, des romans.
-- **Écrire**: Rédiger des SMS, des courriels, des lettres, des essais.
-- **Communication alternative et augmentation**: Il est possible de trouver des alternatives à parler, lire ou écrire en raison de difficultés de communication.
-- **Voix**: Parler avec une meilleure voix (plus forte, moins rauque, moins fatigante), mieux comprendre la structure et la mécanique de la voix.
-- **Avaler**: Plus facile à manger et plus facile à avaler. Mieux comprendre la structure et la fonction de la déglutition.
+### Première rencontre de suivi après un transfert
 
-### Intervention en orthophonie
+<p class="fee-total">175 $ / 50 minutes</p>
 
-<div class="columns">
-<div class="column">
+Pour une personne ayant une évaluation récente qui transfère son dossier d’un·e autre orthophoniste, lorsqu’une nouvelle évaluation n’est pas nécessaire.
 
-### 1re rencontre de suivi
+La rencontre comprend l’ouverture du dossier, la rédaction d’un plan d’intervention et le début du traitement.
 
-**175$ pour 50 minutes**
+</article>
+<article class="feature-card">
 
-Si vous avez déjà obtenu une évaluation de la communication ou du langage récemment et que vous souhaitez effectuer un transfert de dossier provenant d’une autre orthophoniste, sans nouvelle évaluation
+### Rencontre d’intervention
 
-- Ouverture de dossier
-- Rédaction d’un plan d’intervention
-- Traitement orthophonique
+<p class="fee-total">125 $ / 50 minutes</p>
 
-</div>
-<div class="column">
+Une rencontre pour travailler les objectifs convenus, individuellement ou avec un·e proche, en téléorthophonie ou à domicile lorsque cette modalité a été convenue.
 
-### Intervention en orthophonie
-
-**125$ pour 50 minutes**
-
-Pendant l'intervention, nous travaillons ensemble pour atteindre les objectifs qui ont été fixés ensemble. L'intervention se déroule dans votre domicile ou en téléintervention, elle peut être individuelle ou avec un·e proche que vous souhaitez impliquer.
-
-</div>
+</article>
 </div>
 
-<div class="buttons"><a class="button" href="/service-clinique/">Retour à Clinique</a></div>
+Pour une visite à domicile convenue à Montréal, des [frais de déplacement](/service-clinique/#modalités-et-visites-à-domicile) s’ajoutent aux honoraires.
 
-<div class="buttons"><a class="button" href="/contactez-moi/">Contactez-moi</a></div>
+[Expérience et approche clinique](/service-clinique/) · [Évaluations et tarifs](/clinique_evaluations/) · [Consultation ponctuelle](/contactez-moi/)

@@ -4,19 +4,38 @@ fr: "publications"
 order: 8
 ---
 
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
+My publications connect speech-language intervention, brain mechanisms and reproducible research methods. These three examples provide a starting point, followed by the articles and chapters.
 
-![](/media/2024/10/academic-publications-list.png)
+## Selected work
 
-*AI-generated image*
+<div class="feature-grid">
+<article class="feature-card">
 
-</div>
-<div class="column" style="flex-basis:66.66%">
+### Aphasia intervention
 
-My publications reflect my commitment to understanding acquired communication disorders and improving care for the people who live with them. Through my research I explore themes such as intervention effectiveness, underlying neurofunctional mechanisms, and the effects of therapy on neuroplasticity. Below are my articles published in peer-reviewed journals, along with my book chapters.
+My doctoral work on the French adaptation of Phonological Components Analysis and its effects in chronic aphasia.
 
-</div>
+[Clinical study (2024)](https://doi.org/10.1111/1460-6984.13080)
+
+</article>
+<article class="feature-card">
+
+### Reproducible research
+
+A first-authored methods paper on reproducible research artefacts enabled by Neurodesk.
+
+[Methods paper (2025)](https://doi.org/10.52294/001c.143700)
+
+</article>
+<article class="feature-card">
+
+### Multilingual aphasia
+
+A narrative review and knowledge translation tool developed through a master’s thesis I supervised.
+
+[Review and tool (2026)](https://doi.org/10.1080/02687038.2026.2691172)
+
+</article>
 </div>
 
 ## Peer-reviewed articles (16)
@@ -174,7 +193,7 @@ My publications reflect my commitment to understanding acquired communication di
 <div class="pub-body">
 <p class="pub-title">Neuroplasticité induite par la thérapie orthophonique</p>
 <p class="pub-authors"><strong>Masson-Trottier, M.</strong>, Durand, E., & Ansaldo, A. I.</p>
-<p class="pub-venue">{In} <em>Évaluation et prise en charge des troubles du langage</em>. De Boeck Supérieur</p>
+<p class="pub-venue">In <em>Évaluation et prise en charge des troubles du langage</em>. De Boeck Supérieur</p>
 </div>
 </li>
 <li class="pub">

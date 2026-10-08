@@ -28,7 +28,3 @@ I regularly speak at conferences and events organized by patient and community a
 
 </div>
 </div>
-
-![](/media/2024/10/promoting-disseminating-and-applying-scientific-knowledge-to-ensure-it-is-1.png)
-
-*AI-generated image*

@@ -1,92 +1,88 @@
 ---
-title: "Assessments"
+title: "Assessments and fees"
+description: "Assessment process and fees in Canadian dollars, with estimated totals including the additional feedback appointment."
 fr: "clinique_evaluations"
-order: 4
+wide: true
 ---
 
-<div class="columns">
-<div class="column" style="flex-basis:50%">
+An assessment helps us understand your communication difficulties and agree on goals. It includes tasks adapted to your situation, analysis of the results, and a written report and intervention plan.
 
-## Assessment
+<aside class="notice"><p>Based in Brisbane, I am available for one-off consultations with clients in Australia and Quebec. I am not accepting new clients for blocks of therapy. The scope of a consultation or assessment is agreed in advance.</p></aside>
 
-</div>
-<div class="column" style="flex-basis:50%">
+## What happens during an assessment?
 
-An assessment objectively documents your communication difficulties, identifies your needs and intervention goals with you, and proposes ways to address them. An assessment usually takes 1 to 3 sessions, depending on what needs to be assessed.
+An assessment usually takes one to three sessions. A feedback appointment then allows us to discuss your priorities and intervention options.
 
-Assessment fees cover administering the assessment tasks, interpreting the results, sharing the results with you, and writing the assessment report and intervention plan.
+## Fees in Canadian dollars
 
-After the assessment, a feedback session is held to present the intervention goals that follow from the results and from your own plans. Intervention options are also discussed.
+The fees below apply to services in Quebec. For a consultation in Australia, arrangements and fees are agreed before the appointment.
 
-<div class="buttons"><a class="button" href="/en/clinical-practice/">Back to clinical services</a></div>
+The feedback appointment costs **$100 for 50 minutes, in addition to the assessment fees**. The totals below include that appointment. Assessment fees cover analysis and preparation of the report and intervention plan. The expected cost is discussed before services begin.
 
-</div>
-</div>
+<div class="fee-grid">
+<article class="feature-card">
 
-![](/media/2024/10/scott-graham-5fnmwej4taa-unsplash.jpg)
+### Comprehensive language assessment after stroke
 
-*Photo by Scott Graham on Unsplash*
+<p class="fee-total">$600–$850</p>
 
-All fees are in Canadian dollars.
+Estimated total, including the feedback appointment.
 
-<div class="columns">
-<div class="column">
+- 2 to 3 sessions at $250/h
+- Assessment: $500–$750
+- Feedback: $100 for 50 minutes, charged in addition.
 
-### Comprehensive language assessment (spoken and written) after stroke
+</article>
+<article class="feature-card">
 
-**$500–$750**
+### Functional communication after stroke
 
-- 2 to 3 sessions ($250/h)
-- Analysis of results
-- 1 feedback session ($100 for 50 min)
-- Written report and intervention plan
+<p class="fee-total">$500–$700</p>
 
-</div>
-<div class="column">
+Estimated total, including the feedback appointment.
 
-### Functional communication assessment after stroke
+- 2 to 3 sessions at $200/h
+- Assessment: $400–$600
+- Feedback: $100 for 50 minutes, charged in addition.
 
-**$400–$600**
+</article>
+<article class="feature-card">
 
-- 2 to 3 sessions ($200/h)
-- Analysis of results
-- 1 feedback session ($100 for 50 min)
-- Written report and intervention plan
+### Communication in a neurocognitive disorder
 
-</div>
-<div class="column">
+<p class="fee-total">$275–$625</p>
 
-### Communication assessment for a neurocognitive disorder
+Estimated total, including the feedback appointment.
 
-**$175–$525**
+- 1 to 3 sessions at $175/h
+- Assessment: $175–$525
+- Feedback: $100 for 50 minutes, charged in addition.
 
-- 1 to 3 sessions ($175/h)
-- Analysis of results
-- 1 feedback session ($100 for 50 min)
-- Written report and intervention plan
+</article>
+<article class="feature-card">
 
-</div>
-<div class="column">
+### Clinical swallowing assessment
 
-### Clinical (non-instrumental) swallowing assessment
+<p class="fee-total">$325</p>
 
-**$225**
+Estimated total, including the feedback appointment.
 
-- 1 session ($225/h)
-- Analysis of results
-- 1 feedback session ($100 for 50 min)
-- Written report and intervention plan
+- 1 session at $225/h
+- Assessment: $225
+- Feedback: $100 for 50 minutes, charged in addition.
 
-</div>
+</article>
 </div>
 
 ## Other services
 
-Please note that, whatever the length of a session, the last 5 minutes are set aside for payment, receipts and booking the next appointment. **Clinical discussions about your progress with you or your family are part of session time and are billable.**
+- Phone calls: $25 for 1 to 15 minutes; $50 for 16 to 30 minutes.
+- Forms for funding or allowance applications: $30.
+- Brief progress report: $110.
+- Case discussions or intervention planning with other professionals: $110/h.
 
-- **Phone calls**: 1 to 15 minutes: **$25**; 16 to 30 minutes: **$50**
-- **Completing forms** for funding or allowance applications: **$30**
-- **Brief progress report**: **$110**
-- Taking part in **case discussions or intervention planning** outside the clinic (e.g., with other professionals): **$110/h**
+The last five minutes of a session are used for payment, receipts and booking the next appointment. Clinical discussions with you or your family are part of billable session time.
 
-<div class="buttons"><a class="button" href="/en/clinical-practice/">Back to clinical services</a></div>
+For an agreed home visit in Montreal, [travel fees](/en/clinical-practice/#delivery-and-home-visits) are added to the consultation fee.
+
+[My clinical approach](/en/clinical-practice/) · [Interventions and fees](/en/interventions/)

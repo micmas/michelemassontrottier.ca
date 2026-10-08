@@ -1,33 +1,18 @@
 ---
-title: "Ressources pour la pratique en troubles acquis en orthophonie (pour les orthophonistes)"
+title: "Ressources pour les clinicien·ne·s"
 order: 15
 ---
 
 <div class="columns intro-row">
 <div class="column">
 
-![](/media/2024/09/image-to-represent-ressources-available-for-allied-health-professionnals-maybe.png)
-
-</div>
-<div class="column">
-
-Une sélection de ressources fiables et gratuites pour soutenir la pratique orthophonique auprès des adultes ayant un trouble acquis de la communication. Cette section est enrichie au fil du temps.
+Une sélection de ressources pour soutenir la pratique orthophonique auprès des adultes ayant un trouble acquis de la communication. Cette section est enrichie au fil du temps. Pour les personnes vivant avec des troubles de la communication et leurs proches, consultez les [présentations grand public](/presentations-grand-public/).
 
 </div>
 </div>
 
 <div class="resource-grid">
 
-<div class="resource-card">
-
-### Outils pour une revue de la littérature rapide
-
-- [speechBITE](https://speechbite.com/) – données probantes sur les interventions en orthophonie
-- [ASHA Evidence Maps](https://apps.asha.org/EvidenceMaps/) – résumés de l’ASHA sur les publications récentes en orthophonie
-- [C-STAR Lecture Series](https://cstar.sc.edu/lecture-series/) – conférences en ligne gratuites d’experts du domaine (en anglais)
-- [SciSpace](https://scispace.com/) – aperçu des écrits scientifiques sur une question, à l’aide de l’IA
-
-</div>
 <div class="resource-card">
 
 ### Accéder aux meilleures pratiques et lignes directrices pertinentes
@@ -43,10 +28,38 @@ Une sélection de ressources fiables et gratuites pour soutenir la pratique orth
 </div>
 <div class="resource-card">
 
+### Outils pour une revue de la littérature rapide
+
+- [speechBITE](https://speechbite.com/) – données probantes sur les interventions en orthophonie
+- [ASHA Evidence Maps](https://apps.asha.org/EvidenceMaps/) – résumés de l’ASHA sur les publications récentes en orthophonie
+- [C-STAR Lecture Series](https://cstar.sc.edu/lecture-series/) – conférences en ligne gratuites d’experts du domaine (en anglais)
+- [SciSpace](https://scispace.com/) – aperçu des écrits scientifiques sur une question, à l’aide de l’IA
+
+</div>
+<div class="resource-card">
+
 ### Moteur de recherche pour intervention (gratuit)
 
 - [Aphasia Therapy Finder](https://aphasiatherapyfinder.com/) – répertoire des interventions pour les personnes vivant avec une aphasie
 - [Aphasia Software Finder](https://www.aphasiasoftwarefinder.org/) – répertoire d’applications utiles pour vos usagers·ères
+
+</div>
+<div class="resource-card">
+
+### Matériel pour soutenir les interventions auprès de personnes multilingues
+
+- [Matériel développé par Floriane Birraud](/aphasie-multilingue/), étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
+  - [Capsules vidéo](/aphasie-multilingue-capsules-video/)
+  - [Fascicule d'information](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
+  - [Recensement des outils disponibles](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
+
+</div>
+<div class="resource-card">
+
+### Références pour des outils d'intervention (incluant CAA)
+
+- [Aphasia Access](https://www.aphasiaaccess.org/)
+- [Everyone Communicates](http://everyonecommunicates.org/aaclinks.html)
 
 </div>
 <div class="resource-card">
@@ -61,24 +74,6 @@ Une sélection de ressources fiables et gratuites pour soutenir la pratique orth
   - [Unsplash](https://unsplash.com/)
   - [Pexels](https://www.pexels.com/)
   - [Pixabay](https://pixabay.com/)
-
-</div>
-<div class="resource-card">
-
-### Références pour des outils d'intervention (incluant CAA)
-
-- [Aphasia Access](https://www.aphasiaaccess.org/)
-- [Everyone Communicates](http://everyonecommunicates.org/aaclinks.html)
-
-</div>
-<div class="resource-card">
-
-### Matériel pour soutenir les interventions auprès de personnes multilingues
-
-- [Matériel développé par Floriane Birraud](/aphasie-multilingue/), étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
-  - [Capsules vidéo](/aphasie-multilingue-capsules-video/)
-  - [Fascicule d'information](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
-  - [Recensement des outils disponibles](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
 
 </div>
 

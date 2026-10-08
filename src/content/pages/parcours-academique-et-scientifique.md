@@ -1,110 +1,45 @@
 ---
-title: "Parcours académique et scientifique"
-order: 6
+title: "Recherche et infrastructures"
+description: "Recherche clinique, CALMaR et Neurodesk : relier les besoins en réadaptation aux méthodes de neuroimagerie et à la science ouverte."
+wide: true
 ---
 
-## Bienvenue dans la section dédiée à mon travail académique
+Ma recherche relie trois questions : comment soutenir la communication, comprendre les effets des interventions et rendre les méthodes de neuroimagerie utilisables et reproductibles?
 
-Ici, vous trouverez un aperçu de mes intérêts de recherche, mes publications scientifiques, mes expériences d'enseignement, ainsi que mes offres de formation continue et de mentorat.
+Je suis chercheuse à The University of Queensland depuis 2025, après un postdoctorat à Johns Hopkins et un doctorat à l’Université de Montréal. Mon expérience clinique guide les questions et les outils que je développe avec les équipes de recherche, les clinicien·ne·s et les personnes concernées.
 
-Mon objectif est de partager mes connaissances, de contribuer à l'avancement de la recherche en orthophonie, et de soutenir les professionnels dans leur développement.
+<div class="feature-grid">
+<article class="feature-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:40%">
+## Recherche clinique
 
-## Projets en cours
+Aphasie, neuroplasticité, neuromodulation et mise en œuvre d’interventions. Des travaux sur la thérapie de l’anomie, l’aphasie primaire progressive et le soutien à la communication en soins de longue durée.
 
-</div>
-<div class="column">
+[Travaux et publications associés](/interets_recherche/)
 
-CALMaR, Neurodesk et mes autres projets de science ouverte à l'Université du Queensland, avec les liens vers le code et le matériel.
+</article>
+<article class="feature-card">
 
-[Commencer](/projets/) →
+## CALMaR
 
-</div>
-</div>
+Je dirige le développement d’analyses de neuroimagerie et de rapports interprétables. L’aphasie post-AVC est le premier cas d’utilisation, co-conçu avec des orthophonistes et des personnes ayant une expérience vécue de l’aphasie. Je développe aussi une version neurodégénérative et envisage ensuite une version pour le TCC.
 
----
+[Objectifs, rôle et état du projet](/calmar/)
 
-<div class="columns">
-<div class="column" style="flex-basis:40%">
+</article>
+<article class="feature-card">
 
-## Intérêts de recherche
+## Neurodesk
 
-</div>
-<div class="column">
+Je contribue à une infrastructure ouverte de neuroimagerie : analyses reproductibles, développement logiciel, formation et dialogue entre équipes techniques et cliniques.
 
-Mes recherches portent sur les troubles de la communication acquis, avec un intérêt particulier pour l'efficacité des interventions et les mécanismes neurofonctionnels sous-jacents. Vous trouverez ici une description détaillée de mes projets de recherche et collaborations actuelles.
+[Mes contributions et les ressources](/neurodesk/)
 
-[Commencer](/interets_recherche/) →
-
-</div>
+</article>
 </div>
 
----
+## Publications, enseignement et collaborations
 
-<div class="columns">
-<div class="column" style="flex-basis:40%">
+Mes [publications](/publications/) comprennent des études cliniques, des synthèses des connaissances, des protocoles et des travaux sur les méthodes et la formation. Mon [enseignement](/enseignement/) couvre l’orthophonie et le génie biomédical, avec un encadrement de projets en informatique et en science des données.
 
-## Publications scientifiques
-
-</div>
-<div class="column">
-
-Retrouvez une sélection de mes articles scientifiques publiés.
-
-[Commencer](/publications/) →
-
-</div>
-</div>
-
----
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Expériences d'enseignement
-
-</div>
-<div class="column">
-
-J'ai eu le privilège de contribuer à la formation de nombreux étudiant·e·s et professionnel·le·s dans le domaine de l'orthophonie. Découvrez mes expériences d'enseignement et les cours que j'ai donnés.
-
-[Commencer](/enseignement/) →
-
-</div>
-</div>
-
----
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Formation continue
-
-</div>
-<div class="column">
-
-Je propose des formations continues pour les professionnel·le·s de la santé, axées sur les dernières avancées en orthophonie et les meilleures pratiques cliniques. Consultez cette section pour en savoir plus sur mes prochaines offres de formation.
-
-[Commencer](/formations-continues/) →
-
-</div>
-</div>
-
----
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Mentorat
-
-</div>
-<div class="column">
-
-En tant que mentor, j'accompagne les professionnel·le·s en orthophonie souhaitant approfondir leurs compétences cliniques. Cette section présente mes offres de mentorat et les domaines dans lesquels je peux vous soutenir.
-
-[Commencer](/mentorat) →
-
-</div>
-</div>
+<div class="buttons"><a class="button" href="/projets/">Projets et matériel ouvert</a><a class="button button-outline" href="/contactez-moi/">Discuter d’une collaboration</a></div>

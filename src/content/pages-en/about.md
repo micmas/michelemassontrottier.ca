@@ -1,31 +1,43 @@
 ---
-title: "About me"
+title: "About"
+description: "My background in clinical practice, research at Johns Hopkins and Montréal, and open neuroimaging infrastructure at UQ."
 fr: "a-propos"
-order: 1
 ---
 
-<div class="columns">
-<div class="column" style="flex-basis:33.33%">
+<div class="columns intro-row">
+<div class="column">
 
-![](/media/2024/09/dsc_1570-1.jpg)
+<img src="/media/site/michele-480.webp" srcset="/media/site/michele-480.webp 480w, /media/site/michele-960.webp 960w" sizes="(max-width: 760px) 280px, 340px" width="480" height="320" alt="Michèle Masson-Trottier" fetchpriority="high" decoding="async" />
 
 </div>
-<div class="column" style="flex-basis:66.66%">
+<div class="column">
 
-- Research Fellow, The University of Queensland, Brisbane, Australia, since 2025: Neurodesk, open and reproducible science, neuroimaging and clinical translation
-- Postdoctoral Research Fellow, Johns Hopkins University School of Medicine, Baltimore, USA (2023–2025): primary progressive aphasia, neuromodulation and neuroimaging
-- PhD in Speech-Language Pathology and Audiology Sciences, Université de Montréal (2023)
-- Professional Master's in Speech-Language Pathology, Université de Montréal (2015)
-- Speech-language pathologist registered with the OOAQ (Quebec), Speech-Language & Audiology Canada (SAC) and Speech Pathology Australia (Certified Practising)
-- In private clinical practice since 2016, now by telepractice with clients in Quebec
+I am a speech-language pathologist and Research Fellow at The University of Queensland in Brisbane. My work connects communication rehabilitation, clinical research and open neuroimaging infrastructure.
+
+I have worked clinically with adults since 2016. That experience shapes my research questions: how can we improve everyday communication, understand the effects of intervention and make scientific tools accessible to clinical teams?
 
 </div>
 </div>
 
-My main research interests are the rehabilitation of communication disorders in people living with aphasia after a stroke or living with a neurodegenerative disease. More specifically, I am interested in the effectiveness of speech-language interventions, therapy-induced neuroplasticity after stroke, the effects of non-invasive brain stimulation such as transcranial direct current stimulation (tDCS), and maintaining communication and quality of life for people living with a neurodegenerative disease and their families.
+## Background
 
-At The University of Queensland, I contribute to [Neurodesk](https://www.neurodesk.org/), an open-source platform for reproducible neuroimaging (2025 AIIA iAward, Technology Platform of the Year), and I lead the [CALMaR](/en/projects/) project, which aims to make brain imaging useful for speech-language pathology practice after stroke. I also coordinate a biomedical engineering course and contribute to speech pathology education.
+- Since 2025: Research Fellow, The University of Queensland — Neurodesk, reproducible neuroimaging and clinical translation.
+- 2023–2025: Postdoctoral Research Fellow, Johns Hopkins University School of Medicine — primary progressive aphasia, neuromodulation and neuroimaging.
+- 2023: PhD in Speech-Language Pathology and Audiology Sciences, Université de Montréal — behavioural and neurofunctional effects of anomia therapy in chronic aphasia.
+- 2015: Professional Master’s in Speech-Language Pathology, Université de Montréal.
 
-I have experience in behavioural and neuroimaging data acquisition (fMRI, tDCS, TMS), clinical trial coordination, supervising students from undergraduate to PhD level, grant writing and teaching. In my day-to-day work I use Python, R and MATLAB, along with containerized software environments.
+## From clinical practice to research tools
 
-[See my current projects](/en/projects/) →
+My clinical experience includes private practice, the Service aux proches d’une personne aphasique (SAPPA) and a consultancy at the Montreal Heart Institute. Now based in Brisbane, I am available for one-off consultations with clients in Australia and Quebec. Consultations with clients in Quebec are usually offered by telepractice. I also welcome mentoring and collaborations; I am not accepting new clients for blocks of therapy.
+
+At Johns Hopkins, I led the development of a multisite protocol combining transcranial direct current stimulation (tDCS) with naming and spelling therapy in primary progressive aphasia. I also contributed to implementing COMPAs, a communication-support application in long-term care.
+
+At UQ, I lead [CALMaR](/en/calmar/) and am a core contributor to [Neurodesk](/en/neurodesk/). I work between clinical and technical teams to develop reproducible methods, training materials and tools grounded in clinical needs. I teach in speech pathology and biomedical engineering, and supervise projects across these disciplines, computer science and data science.
+
+## Professional memberships and certification
+
+- Member of the Ordre des orthophonistes et audiologistes du Québec (OOAQ).
+- Certified member of Speech-Language and Audiology Canada (SAC).
+- Certified Practising member of Speech Pathology Australia (CPSP).
+
+<div class="buttons"><a class="button" href="/en/academic-career/">Research and infrastructure</a><a class="button button-outline" href="/en/clinical-practice/">Clinical experience</a></div>

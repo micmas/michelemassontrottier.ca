@@ -4,18 +4,18 @@ fr: "presentations-grand-public"
 order: 14
 ---
 
-I regularly speak at conferences and events organized by patient associations, on topics related to communication disorders. Some of my talks are recorded on YouTube and offer insights and practical information for people affected by these disorders and their families. The talks are in French.
-
-## Upcoming talks
-
-Coming soon.
+I share public presentations about language, the brain and communication. The recordings below are in French and are intended for people with communication disorders, their families and the wider public.
 
 ## Past talks
 
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/0mEWB-6w0Ew" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+### The bilingual brain and cognitive health
+
+RésoSanté Colombie-Britannique
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/0mEWB-6w0Ew" title="The bilingual brain and cognitive health" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -23,7 +23,11 @@ Coming soon.
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/XfJa1hSmBh0" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+### Public science presentation
+
+Centre de recherche de l’Institut universitaire de gériatrie de Montréal
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/XfJa1hSmBh0" title="Public science presentation" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -31,7 +35,11 @@ Coming soon.
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_5CYyhUyjj0?start=54" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+### My research in 180 seconds
+
+IUGM / CRIUGM
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_5CYyhUyjj0?start=54" title="My research in 180 seconds" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>

@@ -1,55 +1,44 @@
 ---
-title: "Projets en cours"
-description: "CALMaR, Neurodesk, atelier Neurodesk pour la sclérose en plaques et WAGademy : mes projets de recherche et de science ouverte en cours."
-order: 8
+title: "Projets et matériel ouvert"
+description: "CALMaR, Neurodesk et matériel de formation ouvert : objectifs, contributions et ressources de mes projets actuels à UQ."
+wide: true
 ---
 
-Voici les projets sur lesquels je travaille actuellement à l'Université du Queensland. Ils sont tous ouverts : le code et le matériel sont disponibles sur GitHub.
+Mes travaux actuels à The University of Queensland relient les besoins cliniques à la neuroimagerie et aux méthodes reproductibles. Les pages ci-dessous présentent mon rôle, les objectifs et les ressources disponibles.
 
-<div class="project">
+<div class="feature-grid">
+<article class="feature-card">
 
-## CALMaR : cartographie et rapport automatisés des lésions cérébrales
+## CALMaR
 
-*Co-designed, Automated Lesion Mapping and Reporting* · depuis 2026
+**Direction du projet · en développement**
 
-CALMaR est une chaîne de traitement libre qui segmente automatiquement les lésions d'AVC sur l'IRM structurelle, en contrôle la qualité et produit un rapport interprétable par les clinicien·ne·s. Le projet est co-conçu avec l'équipe d'orthophonie de Metro North Health et des personnes ayant une expérience vécue de l'aphasie, afin d'offrir un outil d'aide à la décision respectueux de la vie privée pour guider l'intervention après un AVC. Il est financé par une subvention EAIT Early Career Philanthropic Grant (UQ).
+Neuroimagerie et rapports interprétables, avec l’aphasie post-AVC comme premier cas d’utilisation, co-conçu avec les équipes cliniques et des personnes ayant une expérience vécue de l’aphasie. Une version neurodégénérative est en développement; une version pour le TCC est envisagée ensuite.
 
-<div class="buttons"><a class="button" href="https://github.com/micmas/calmar">Code sur GitHub</a><a class="button" href="https://how-to-calmar.github.io/">Guide « How to CALMaR »</a></div>
+[Découvrir CALMaR](/calmar/)
 
+</article>
+<article class="feature-card">
+
+## Neurodesk
+
+**Contributrice principale · depuis 2025**
+
+Infrastructure ouverte de neuroimagerie, analyses reproductibles, développement logiciel et formation entre disciplines.
+
+[Mes contributions à Neurodesk](/neurodesk/)
+
+</article>
 </div>
-
-<div class="project">
-
-## Neurodesk : neuroimagerie ouverte et reproductible
-
-Contributrice principale · depuis 2025
-
-[Neurodesk](https://www.neurodesk.org/) est une plateforme libre qui regroupe plus de 90 logiciels de neuroimagerie dans des conteneurs. Elle fonctionne sur un ordinateur portable, sur un serveur de calcul ou directement dans le navigateur. Mon travail porte sur le transfert clinique, la formation et la publication d'analyses reproductibles. Neurodesk a reçu le prix AIIA iAward 2025 de la plateforme technologique de l'année.
-
-<div class="buttons"><a class="button" href="https://www.neurodesk.org/">Site de Neurodesk</a><a class="button" href="https://github.com/neurodesk">Neurodesk sur GitHub</a></div>
-
-</div>
-
-<div class="project">
 
 ## Atelier Neurodesk pour la sclérose en plaques
 
-Matériel de formation · 2026
+Matériel pratique pour réaliser des analyses dans le navigateur avec Neurodesk Play. Les ressources et les instructions sont disponibles sur [GitHub](https://github.com/micmas/neurodesk-ms-workshop).
 
-Un atelier pratique pour réaliser des analyses de neuroimagerie reproductibles en sclérose en plaques avec Neurodesk, directement dans le navigateur grâce à Neurodesk Play, sans aucune installation.
+## De la recherche aux ressources cliniques
 
-<div class="buttons"><a class="button" href="https://github.com/micmas/neurodesk-ms-workshop">Matériel de l'atelier</a></div>
+L’[outil sur l’aphasie multilingue](/aphasie-multilingue/) illustre le passage d’un mémoire de recherche à des vidéos et à un fascicule pour les orthophonistes. Les [travaux cliniques](/interets_recherche/) présentent aussi les études sur les interventions et leur mise en œuvre.
 
-</div>
+Pour WAGademy et les activités de soutien aux étudiant·e·s, consultez la page [enseignement et encadrement](/enseignement/).
 
-<div class="project">
-
-## WAGademy : groupe de travail et de soutien pour les étudiant·e·s aux cycles supérieurs
-
-*Working Accountability Group* · École de génie électrique et d'informatique, UQ
-
-WAGademy offre aux étudiant·e·s aux cycles supérieurs trois heures de travail protégé et minuté, aux côtés d'autres personnes qui font de même, souvent précédées d'une courte discussion thématique. Le format, les outils et une bibliothèque de thèmes sont documentés en ligne pour que chacun·e puisse lancer son propre groupe.
-
-<div class="buttons"><a class="button" href="https://wagademy-uq.github.io/">Site de WAGademy</a></div>
-
-</div>
+[Discuter d’un projet](/contactez-moi/)

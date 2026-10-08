@@ -19,7 +19,7 @@ Cet outil de transfert de connaissances a été développé par **Floriane Birra
 </div>
 
 <details class="accordion">
-<summary>La capsule vidéo est composé de 5 parties:</summary>
+<summary>La capsule vidéo est composée de 5 parties:</summary>
 
 1. [Introduction – la personne multilingue vivant avec une aphasie](#partie-1)
 2. [Eléments à considérer lors d’une première rencontre](#partie-2)

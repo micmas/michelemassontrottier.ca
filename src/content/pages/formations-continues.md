@@ -4,13 +4,6 @@ order: 12
 ---
 
 <div class="columns">
-<div class="column" style="flex-basis:33.33%">
-
-![](/media/2024/10/continuing-education-for-speech-pathologist-in-adult-practice-1.png)
-
-*Image générée par IA*
-
-</div>
 <div class="column" style="flex-basis:66.66%">
 
 Je propose des formations continues adaptées aux besoins des professionnels en orthophonie, basées sur les dernières recherches et pratiques cliniques. Ces formations visent à renforcer les compétences des praticiens et à intégrer les avancées scientifiques dans les interventions quotidiennes.
@@ -58,7 +51,7 @@ Mes formations sont axées sur une approche interactive et pratique, encouragean
 - Efficacité des interventions en orthophonie
 - Troubles neurocognitifs et communication
 - Utilisation des neurosciences dans l’intervention clinique
-- Approches basées sur les évidences
+- Approches fondées sur les données probantes
 - Nouvelles technologies et intelligence artificielle en orthophonie
 
 ---

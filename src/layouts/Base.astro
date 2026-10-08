@@ -47,7 +47,7 @@ const home = lang === 'en' ? '/en/' : '/';
   <meta property="og:locale" content={lang === 'en' ? 'en_CA' : 'fr_CA'} />
   <meta property="og:image" content={new URL('/media/2024/09/logo_mmt_meilleurres_999x5720_blanc.png', Astro.site)} />
   <!-- Cloudflare Web Analytics: privacy-friendly visit statistics, no cookies -->
-  <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3cfa5d4f59424317bfae00d986bba066"}'></script>
+  {import.meta.env.PROD && <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3cfa5d4f59424317bfae00d986bba066"}'></script>}
 </head>
 <body>
   <a class="skip" href="#contenu">{t.skip}</a>
@@ -59,11 +59,14 @@ const home = lang === 'en' ? '/en/' : '/';
       </a>
       <nav class="main" id="menu" aria-label={t.mainMenu}>
         <ul>
-          {nav.map((item) => (
+          {nav.map((item, index) => (
             <li>
+              <div class="nav-item">
               <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a>
+              {item.children && <button class="submenu-toggle" type="button" aria-label={`${t.submenuLabel} ${item.label}`} aria-expanded="false" aria-controls={`submenu-${index}`}>⌄</button>}
+              </div>
               {item.children && (
-                <ul>
+                <ul id={`submenu-${index}`}>
                   {item.children.map((c) => (
                     <>
                     <li><a href={c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{c.label}</a></li>
@@ -100,7 +103,7 @@ const home = lang === 'en' ? '/en/' : '/';
   <footer class="site-footer">
     <div class="inner">
       <div>
-        <a class="brand" href={home}><img src="/media/2024/09/sanstexte_377x300.png" alt="" width="90" height="72" /></a>
+        <a class="brand" href={home} aria-label={siteName}><img src="/media/2024/09/sanstexte_377x300.png" alt="" width="90" height="72" /></a>
         <p>{siteName}<br /><small>{t.tagline}</small></p>
       </div>
       <div>
@@ -129,6 +132,35 @@ const home = lang === 'en' ? '/en/' : '/';
     btn?.addEventListener('click', () => {
       const open = menu!.classList.toggle('open');
       btn.setAttribute('aria-expanded', String(open));
+    });
+    document.querySelectorAll<HTMLButtonElement>('.submenu-toggle').forEach((toggle) => {
+      toggle.addEventListener('click', () => {
+        const item = toggle.closest('li')!;
+        const open = item.classList.toggle('expanded');
+        toggle.setAttribute('aria-expanded', String(open));
+      });
+    });
+    document.addEventListener('click', (event) => {
+      if (!(event.target instanceof Node)) return;
+      document.querySelectorAll<HTMLButtonElement>('.submenu-toggle[aria-expanded="true"]').forEach((toggle) => {
+        const item = toggle.closest('li')!;
+        if (!item.contains(event.target as Node)) {
+          item.classList.remove('expanded');
+          toggle.setAttribute('aria-expanded', 'false');
+        }
+      });
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape') return;
+      document.querySelectorAll<HTMLButtonElement>('.submenu-toggle[aria-expanded="true"]').forEach((toggle) => {
+        toggle.closest('li')?.classList.remove('expanded');
+        toggle.setAttribute('aria-expanded', 'false');
+      });
+      if (menu?.classList.contains('open')) {
+        menu.classList.remove('open');
+        btn?.setAttribute('aria-expanded', 'false');
+        btn?.focus();
+      }
     });
     // Light / dark toggle: remembers the visitor's choice on this device
     const root = document.documentElement;

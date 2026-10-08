@@ -4,9 +4,11 @@ fr: "enseignement"
 order: 9
 ---
 
-Teaching in speech-language pathology has allowed me to share my knowledge with students in the field. My teaching draws on the latest scientific and clinical advances, with an emphasis on learning through practice and critical reflection.
+I teach in speech pathology and biomedical engineering, with an emphasis on clinical reasoning, hands-on learning and critical use of research evidence.
 
-Since 2025 I have taught at The University of Queensland (Australia), in biomedical engineering and speech pathology. At the Université de Montréal, I had the opportunity to contribute to the redesign of its speech-language pathology program, bringing in new perspectives based on recent research. My experience also includes creating courses, from designing the syllabus to developing content suited to students' needs.
+At the Université de Montréal, I designed and coordinated adult and geriatric intervention courses and contributed to the speech-language pathology curriculum redesign. At The University of Queensland, I coordinate Medical Device Engineering and have contributed to adult communication and swallowing education.
+
+My educational work includes [interactive neuroimaging resources](https://doi.org/10.52294/001c.160858), [reproducible research artefacts](https://doi.org/10.52294/001c.143700) and [continuing education](/en/continuing-education/) for clinicians.
 
 ## Courses and seminars taught
 
@@ -51,7 +53,7 @@ Courses at the Université de Montréal were taught in French; their original ti
 <p class="course-meta">ORT 6531 · Université de Montréal</p>
 <p class="course-role">Lecturer responsible</p>
 </div>
-<p class="past-editions"><span class="edition">2021</span><span class="edition">2022</span><span class="edition">2023</span></p>
+<p class="past-editions"><span class="edition">2022</span><span class="edition">2023</span></p>
 </li>
 <li class="course">
 <div class="course-body">
@@ -127,20 +129,14 @@ Courses at the Université de Montréal were taught in French; their original ti
 </li>
 </ul>
 
-## Supervision and mentoring
+## Supervision and research culture
 
-I have supervised students at every level (bachelor's, master's and doctoral) through research projects, clinical placements and mentoring programs. My goal is to help each student develop their clinical and academic skills in a collaborative environment.
+I supervise projects in speech pathology, computer science, data science and software engineering, from undergraduate to doctoral level. This includes co-supervising a computer science PhD at UQ to completion and supervising a speech-language pathology master’s thesis that led to an Aphasiology publication and the [multilingual aphasia resource](/en/multilingual-aphasia/).
 
-<ul class="student-list">
-<li>2026–: Guanyu Yao, Bachelor of Engineering (Honours), Software Engineering, The University of Queensland</li>
-<li>2025–2026: Aditi Nagaraj, capstone project, Master of Data Science, The University of Queensland</li>
-<li>2022–2026: Thuy T. Dao, PhD in Computer Science, The University of Queensland (co-supervised to completion)</li>
-<li>2023–2025: Floriane Birraud, master’s thesis in speech-language pathology, Université de Rennes (published in <em>Aphasiology</em>)</li>
-<li>2021–2022: Laura Gilet, master’s thesis in speech-language pathology, Université de Besançon (co-supervised with Edith Durand)</li>
-<li>2021: Victoria Nguyen-Dao, master’s thesis in speech-language pathology, Université de Montpellier (jury member)</li>
-<li>2020–2023: Léa Blon, directed project, professional master’s in speech-language pathology, Université de Montréal (co-supervised with Ana Inés Ansaldo)</li>
-<li>2019: Barbara Delacourt, master’s in speech-language pathology, Université de Franche-Comté (co-supervised with Ana Inés Ansaldo)</li>
-<li>2017–2018: Élise Castonguay, professional master’s in speech-language pathology, Université de Montréal (co-supervised with Ana Inés Ansaldo)</li>
-<li>2017–2018: Catherine Rochon and Alexandra Roy, research internships in cognitive neuroscience, Université de Montréal</li>
-<li>2020 and 2022: direct supervision of two clinical placements (ORT6012 and ORT6053), Université de Montréal</li>
-</ul>
+I also contribute to clinical supervision and support students in designing, conducting and communicating their projects.
+
+### WAGademy
+
+WAGademy documents a working accountability group for research students: protected work time, themed discussions and resources for starting a group.
+
+[Explore WAGademy](https://wagademy-uq.github.io/) · [Mentoring](/en/mentoring/)

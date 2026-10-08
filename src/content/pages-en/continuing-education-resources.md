@@ -7,13 +7,6 @@ order: 13
 <div class="columns intro-row">
 <div class="column">
 
-![](/media/2024/12/materiel-de-formation-en-orthophonie-medicale-9.png)
-
-*AI-generated image*
-
-</div>
-<div class="column">
-
 The supplementary material for each course is on a password-protected page. These pages are in French, like the courses themselves. Use the password you received during the course.
 
 </div>

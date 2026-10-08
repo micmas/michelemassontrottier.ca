@@ -6,13 +6,6 @@ order: 0
 <div class="columns intro-row">
 <div class="column">
 
-![](/media/2024/12/materiel-de-formation-en-orthophonie-medicale-9.png)
-
-*Image générée par IA*
-
-</div>
-<div class="column">
-
 Le contenu complémentaire de chaque formation se trouve sur une page protégée par un mot de passe. Utilisez le mot de passe qui vous a été fourni lors de la formation.
 
 </div>

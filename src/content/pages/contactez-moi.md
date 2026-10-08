@@ -3,11 +3,13 @@ title: "Contactez-moi"
 order: 16
 ---
 
-Que vous soyez un·e professionnel·le de la santé, un·e chercheur·euse, un·e étudiant·e, une personne vivant avec des troubles de la communication ou un·e proche-aidant·e, n’hésitez pas à me contacter pour toute question ou collaboration. Je suis disponible pour discuter de mon travail clinique, de mes recherches académiques, ou pour échanger des ressources et des idées.
+Vous pouvez m’écrire pour une consultation ponctuelle, du mentorat, une collaboration en recherche ou une formation, notamment en lien avec CALMaR ou Neurodesk. Je suis basée à Brisbane et peux recevoir des client·e·s en Australie et au Québec pour des consultations ponctuelles. Les consultations auprès de la clientèle québécoise sont généralement offertes en téléorthophonie. Pour les consultations en Australie, les modalités et les honoraires sont convenus avant le rendez-vous.
 
-Je serai ravie de vous répondre dans les meilleurs délais.
+Je suis disponible pour des consultations ponctuelles, du mentorat et des collaborations. Je ne prends pas de nouveaux·elles client·e·s pour des blocs de thérapie. Indiquez brièvement le type de demande et ce que vous souhaitez discuter.
 
-<form class="contact-form" action="https://formsubmit.co/michelemassontrottier@gmail.com" method="POST">
+<p class="form-note" id="contact-note">Pour une première demande clinique, décrivez brièvement votre besoin sans joindre de dossier, de rapport ni de renseignement de santé détaillé. Consultez la <a href="/confidentialite/">politique de confidentialité</a>.</p>
+
+<form class="contact-form" aria-describedby="contact-note" action="https://formsubmit.co/michelemassontrottier@gmail.com" method="POST">
 <input type="hidden" name="_subject" value="Nouveau message – michelemassontrottier.ca">
 <input type="hidden" name="_template" value="table">
 <input type="hidden" name="_next" value="https://michelemassontrottier.ca/merci/" data-auto-next>
@@ -23,8 +25,8 @@ Je serai ravie de vous répondre dans les meilleurs délais.
 
 ## Mes informations
 
-📍 Montréal, Canada · Brisbane, Australie
+Basée à Brisbane, Australie · Consultations en Australie et au Québec
 
 📧 [michelemassontrottier@gmail.com](mailto:michelemassontrottier@gmail.com)
 
-🗓️ Disponible sur rendez-vous
+Consultations ponctuelles, mentorat et collaborations : sur rendez-vous.

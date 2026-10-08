@@ -4,6 +4,6 @@ import Base from '../layouts/Base.astro';
 const entry = (await getEntry('pages', 'index'))!;
 const { Content } = await render(entry);
 ---
-<Base title="Accueil">
+<Base title="Accueil" description={entry.data.description} wide>
   <div class="prose home"><Content /></div>
 </Base>

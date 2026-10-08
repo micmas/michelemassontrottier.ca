@@ -1,62 +1,49 @@
 ---
-title: "Interventions"
+title: "Interventions and fees"
 fr: "clinique_interventions"
-order: 5
 ---
 
-<div class="columns">
-<div class="column" style="flex-basis:50%">
+Therapy starts from activities you want to resume, maintain or make easier. We agree on goals together and choose a frequency suited to your situation.
 
-## Interventions
+<aside class="notice"><p>Based in Brisbane, I am available for one-off consultations with clients in Australia and Quebec. I am not accepting new clients for blocks of therapy. This page describes my approach and current fees.</p></aside>
 
-</div>
-<div class="column" style="flex-basis:50%">
+## Goals connected to everyday life
 
-Intervention can aim to promote the recovery of language functions, make it easier to take part in everyday activities, or help with specific tasks. How often we meet is decided together as part of our service agreement.
+- Finding words in conversation or explaining an idea.
+- Reading the news, an email or a book.
+- Writing a message, taking notes or preparing a text.
+- Using other ways to communicate when speaking, reading or writing is difficult.
+- Adapting an activity or environment to support communication, including at work.
 
-Sessions can be individual, with a family member, or in a group. We always work from your interests and your current plans. I also work with people who want to stay in employment, by adapting their workplace and identifying strategies that compensate well for their language difficulties.
+Sessions can be individual or include a family member. I explain how each exercise or strategy contributes to your goals. My experience also includes joint interventions and support groups.
 
-</div>
-</div>
+## Fees in Canadian dollars
 
-Throughout the intervention, I clearly explain how each exercise relates to your goals. I also explain how different factors in your environment can affect your communication.
+The fees below apply to services in Quebec. For a consultation in Australia, arrangements and fees are agreed before the appointment.
 
-During the intervention, more specific goals are possible, including:
+<div class="fee-grid">
+<article class="feature-card">
 
-- **Speaking**: finding words, holding a conversation, explaining, talking things through.
-- **Reading**: reading the news, articles, novels.
-- **Writing**: writing text messages, emails, letters, essays.
-- **Augmentative and alternative communication**: finding alternatives to speaking, reading or writing when communication is difficult.
-- **Voice**: speaking with a better voice (louder, less hoarse, less tiring) and better understanding how the voice works.
-- **Swallowing**: making eating and swallowing easier, and better understanding how swallowing works.
+### First follow-up after a file transfer
 
-### Speech-language therapy
+<p class="fee-total">$175 / 50 minutes</p>
 
-All fees are in Canadian dollars.
+For someone with a recent assessment transferring their file from another speech-language pathologist, when a new assessment is not needed.
 
-<div class="columns">
-<div class="column">
+The appointment includes opening the file, writing an intervention plan and starting therapy.
 
-### First follow-up session
+</article>
+<article class="feature-card">
 
-**$175 for 50 minutes**
+### Therapy appointment
 
-If you have recently had a communication or language assessment and would like your file transferred from another speech-language pathologist without a new assessment:
+<p class="fee-total">$125 / 50 minutes</p>
 
-- Opening your file
-- Writing an intervention plan
-- Speech-language therapy
+An appointment to work towards the agreed goals, individually or with a family member, by telepractice or at home when a home visit has been agreed.
 
-</div>
-<div class="column">
-
-### Speech-language therapy session
-
-**$125 for 50 minutes**
-
-During therapy, we work towards the goals we have set together. Sessions take place at your home or by telepractice, either individually or with a family member you would like to involve.
-
-</div>
+</article>
 </div>
 
-<div class="buttons"><a class="button" href="/en/clinical-practice/">Back to clinical services</a><a class="button" href="/en/contact/">Contact me</a></div>
+For an agreed home visit in Montreal, [travel fees](/en/clinical-practice/#delivery-and-home-visits) are added to the consultation fee.
+
+[Clinical experience and approach](/en/clinical-practice/) · [Assessments and fees](/en/assessments/) · [One-off consultation](/en/contact/)

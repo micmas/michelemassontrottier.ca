@@ -3,18 +3,18 @@ title: "Présentations grand public"
 order: 14
 ---
 
-Je participe régulièrement à des conférences et à des événements organisés par des associations de patients, où j'aborde des sujets liés aux troubles de la communication. Vous pouvez retrouver certaines de mes présentations enregistrées sur YouTube, offrant des insights et des informations utiles pour les personnes touchées par ces troubles et leurs proches.
-
-## Conférences à venir
-
-À venir
+Je partage des présentations de vulgarisation scientifique sur le langage, le cerveau et la communication. Les enregistrements ci-dessous sont en français et s’adressent aux personnes concernées, à leurs proches et au grand public.
 
 ## Conférences passées
 
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/0mEWB-6w0Ew" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+### Cerveau bilingue et santé cognitive
+
+RésoSanté Colombie-Britannique
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/0mEWB-6w0Ew" title="Cerveau bilingue et santé cognitive" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -22,7 +22,11 @@ Je participe régulièrement à des conférences et à des événements organis�
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/XfJa1hSmBh0" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+### Conférence de vulgarisation scientifique
+
+Centre de recherche de l’Institut universitaire de gériatrie de Montréal
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/XfJa1hSmBh0" title="Conférence de vulgarisation scientifique" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -30,7 +34,11 @@ Je participe régulièrement à des conférences et à des événements organis�
 <div class="columns">
 <div class="column">
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_5CYyhUyjj0?start=54" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+### Ma recherche en 180 secondes
+
+IUGM / CRIUGM
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_5CYyhUyjj0?start=54" title="Ma recherche en 180 secondes" loading="lazy" allowfullscreen></iframe></div>
 
 </div>
 </div>

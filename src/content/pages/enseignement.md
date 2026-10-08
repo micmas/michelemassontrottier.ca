@@ -3,9 +3,11 @@ title: "Expériences d'enseignement"
 order: 9
 ---
 
-Mon parcours en tant qu'enseignante en orthophonie m'a permis de partager mes connaissances avec des étudiant·e·s du domaine. Mon approche pédagogique s'appuie sur les dernières avancées scientifiques et cliniques, tout en étant axée sur l’apprentissage par la pratique et la réflexion critique.
+J’enseigne en orthophonie et en génie biomédical, avec une approche centrée sur le raisonnement clinique, l’apprentissage par la pratique et l’utilisation critique des données probantes.
 
-Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie biomédical et en orthophonie. À l'Université de Montréal, j'ai eu l'opportunité de contribuer à la refonte du programme d'orthophonie, en intégrant des perspectives innovantes basées sur les nouvelles données de la recherche. Mon expérience inclut également la création de cours, de la conception du syllabus à la mise en place de contenus adaptés aux besoins des étudiant·e·s.
+À l’Université de Montréal, j’ai conçu et coordonné des cours d’intervention auprès des adultes et des personnes âgées, et contribué à la refonte du programme d’orthophonie. À The University of Queensland, je coordonne Medical Device Engineering et ai participé à la formation en communication et déglutition chez l’adulte.
+
+Mes travaux pédagogiques comprennent des [ressources interactives en neuroimagerie](https://doi.org/10.52294/001c.160858), des [artefacts de recherche reproductibles](https://doi.org/10.52294/001c.143700) et des [formations continues](/formations-continues/) pour les orthophonistes.
 
 ## Cours et séminaires enseignés
 
@@ -48,7 +50,7 @@ Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie b
 <p class="course-meta">ORT 6531 · Université de Montréal</p>
 <p class="course-role">Chargée de cours responsable</p>
 </div>
-<p class="past-editions"><span class="edition">2021</span><span class="edition">2022</span><span class="edition">2023</span></p>
+<p class="past-editions"><span class="edition">2022</span><span class="edition">2023</span></p>
 </li>
 <li class="course">
 <div class="course-body">
@@ -124,20 +126,14 @@ Depuis 2025, j'enseigne à The University of Queensland (Australie), en génie b
 </li>
 </ul>
 
-## Encadrement et mentorat
+## Encadrement et culture de recherche
 
-J'ai encadré des étudiant·e·s de divers niveaux (baccalauréat, maîtrise, doctorat) à travers des projets de recherche, des stages cliniques et des programmes de mentorat. Mon objectif est d’aider chaque étudiant·e à développer ses compétences cliniques et académiques dans un environnement collaboratif.
+J’encadre des projets en orthophonie, informatique, science des données et génie logiciel, du baccalauréat au doctorat. Mon expérience comprend la codirection d’un doctorat en informatique à UQ jusqu’à sa soutenance et la supervision d’un mémoire en orthophonie ayant mené à une publication dans Aphasiology et à l’[outil sur l’aphasie multilingue](/aphasie-multilingue/).
 
-<ul class="student-list">
-<li>2026– : Guanyu Yao, baccalauréat en génie logiciel (spécialisé), The University of Queensland</li>
-<li>2025–2026 : Aditi Nagaraj, projet de synthèse, maîtrise en science des données, The University of Queensland</li>
-<li>2022–2026 : Thuy T. Dao, doctorat en informatique, The University of Queensland (codirection; thèse complétée)</li>
-<li>2023–2025 : Floriane Birraud, mémoire de maîtrise en orthophonie, Université de Rennes (publication dans <em>Aphasiology</em>)</li>
-<li>2021–2022 : Laura Gilet, mémoire de maîtrise en orthophonie, Université de Besançon (codirection avec Edith Durand)</li>
-<li>2021 : Victoria Nguyen-Dao, mémoire de maîtrise en orthophonie, Université de Montpellier (membre du jury)</li>
-<li>2020–2023 : Léa Blon, travail dirigé, maîtrise professionnelle en orthophonie, Université de Montréal (codirection avec Ana Inés Ansaldo)</li>
-<li>2019 : Barbara Delacourt, maîtrise en orthophonie, Université de Franche-Comté (codirection avec Ana Inés Ansaldo)</li>
-<li>2017–2018 : Élise Castonguay, maîtrise professionnelle en orthophonie, Université de Montréal (codirection avec Ana Inés Ansaldo)</li>
-<li>2017–2018 : Catherine Rochon et Alexandra Roy, stages de recherche en neurosciences cognitives, Université de Montréal</li>
-<li>2020 et 2022 : supervision de deux stages cliniques (ORT6012 et ORT6053), Université de Montréal</li>
-</ul>
+Je participe aussi à l’encadrement clinique et au soutien des étudiant·e·s dans la conception, la réalisation et la diffusion de leurs projets.
+
+### WAGademy
+
+WAGademy documente un groupe de travail et de soutien pour les étudiant·e·s aux cycles supérieurs : temps de travail protégé, échanges thématiques et outils pour créer son propre groupe.
+
+[Découvrir WAGademy](https://wagademy-uq.github.io/) · [Mentorat](/mentorat/)

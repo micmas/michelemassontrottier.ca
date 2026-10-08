@@ -1,48 +1,68 @@
 ---
 title: "Accueil"
-order: 0
+description: "Orthophoniste et chercheuse à UQ : expérience clinique, recherche sur la communication, CALMaR et infrastructures ouvertes avec Neurodesk."
+wide: true
 ---
 
-# Michèle Masson-Trottier
+<section class="home-intro">
+<div class="hero-copy">
 
-Orthophoniste, MPO, O(c), Ph. D.
+<p class="eyebrow">Pratique clinique · Recherche · Infrastructures ouvertes</p>
 
-![](/media/2024/09/logo_mmt_meilleurres_999x5720_blanc.png)
+# Michèle Masson-Trottier <span class="hero-degrees">Ph. D., M.P.O.</span>
 
-<div class="buttons"><a class="button" href="/a-propos/">À propos de moi</a></div>
+<p class="hero-role">Orthophoniste et chercheuse<br />The University of Queensland · Brisbane, Australie</p>
 
-## Allier thérapie et recherche pour enrichir le langage et la connexion humaine
+<p class="hero-credentials">Membre de l’OOAQ · Orthophoniste certifiée OAC — <a href="https://www.sac-oac.ca/fr/admission-une-des-professions/programme-certification/">O(C)</a><br />Certified Practising Speech Pathologist — <a href="https://www.speechpathologyaustralia.org.au/">MSPA-CPSP</a></p>
 
-Grâce à une approche basée sur des données probantes et des années d'expérience clinique, je m'engage à améliorer les capacités de communication des adultes atteints de troubles acquis du langage. Mon travail allie compassion et expertise scientifique pour offrir des interventions personnalisées qui favorisent la réadaptation fonctionnelle et le bien-être de chaque individu.
+Je relie l’expérience clinique, la recherche sur la communication et le développement d’outils ouverts de neuroimagerie. Mon travail porte sur l’aphasie après un AVC, les troubles neurodégénératifs et les moyens de rendre les données de recherche utiles à la pratique.
 
-<div class="columns">
-<div class="column">
-
-### [Pratiques cliniques en orthophonie](/service-clinique/)
-
-Explorez mes offres de services qui suivent une approches personnalisées pour optimiser la communication fonctionnelle.
+<div class="buttons"><a class="button" href="/service-clinique/">Mon expérience clinique</a><a class="button button-outline" href="/parcours-academique-et-scientifique/">Ma recherche</a></div>
 
 </div>
-<div class="column">
+<div class="hero-portrait"><img src="/media/site/michele-480.webp" srcset="/media/site/michele-480.webp 480w, /media/site/michele-960.webp 960w" sizes="(max-width: 760px) 280px, 340px" width="480" height="320" alt="Michèle Masson-Trottier" fetchpriority="high" decoding="async" /></div>
+</section>
 
-### [Parcours académique et scientifique](/parcours-academique-et-scientifique/)
+## Trois volets d’un même travail
 
-Découvrez mes intérêts de recherche, mes plus récentes publications et expériences d'enseignement.
+<div class="feature-grid">
+<article class="feature-card">
 
+### Expérience et pratique clinique
+
+Une pratique auprès des adultes et de leurs proches depuis 2016 : aphasie, maladies neurodégénératives et communication au quotidien. Actuellement disponible pour des consultations ponctuelles en Australie et au Québec.
+
+[Découvrir mon approche clinique](/service-clinique/)
+
+</article>
+<article class="feature-card">
+
+### Recherche clinique
+
+Efficacité des interventions, neuroplasticité, neuromodulation et mise en œuvre d’outils de soutien à la communication.
+
+[Explorer mes travaux cliniques](/interets_recherche/)
+
+</article>
+<article class="feature-card">
+
+### Infrastructures et neuroimagerie
+
+Neurodesk pour des analyses ouvertes et reproductibles; CALMaR pour relier la neuroimagerie aux questions cliniques, avec un premier cas d’utilisation en aphasie post-AVC et une version neurodégénérative en développement.
+
+[Voir CALMaR et Neurodesk](/projets/)
+
+</article>
 </div>
-<div class="column">
 
-### [Valorisation des connaissances](/valorisation_connaissances/)
+## En ce moment
 
-Suivez mes initiatives de présentations grand public et offre de formation continue aux orthophonistes et professionnel·le·s de la santé.
+À The University of Queensland, je dirige le développement de [CALMaR](/calmar/), contribue à [Neurodesk](/neurodesk/) et coordonne un cours en génie biomédical. Mon expérience de recherche comprend aussi un postdoctorat à Johns Hopkins (2023–2025) et un doctorat à l’Université de Montréal (2023).
 
-</div>
-</div>
+<div class="link-row"><a href="/publications/">Publications</a><a href="/enseignement/">Enseignement et encadrement</a><a href="/a-propos/">Mon parcours</a></div>
 
-## Consultez les ressources répertoriées
+## Partager des outils et des connaissances
 
-Consultez ces ressources choisies : une section perpétuellement en cours d'enrichissement pour soutenir les personnes avec troubles de la communication et leurs proches.
+Je propose des [formations continues](/formations-continues/) pour les orthophonistes et partage des [présentations pour les personnes et leurs proches](/presentations-grand-public/). L’[outil sur l’aphasie multilingue](/aphasie-multilingue/), développé dans le cadre d’un mémoire sous ma supervision, réunit une synthèse des connaissances, des vidéos et du matériel pratique.
 
-<div class="buttons"><a class="button" href="/ressources/">Consulter</a></div>
-
-![](/media/2024/09/image-to-represent-ressources-available-for-allied-health-professionnals-maybe.png)
+<div class="buttons"><a class="button button-outline" href="/ressources/">Ressources pour les clinicien·ne·s</a><a class="button button-outline" href="/contactez-moi/">Discuter d’une collaboration</a></div>

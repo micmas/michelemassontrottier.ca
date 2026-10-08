@@ -9,4 +9,5 @@ export default defineConfig({
   site: 'https://michelemassontrottier.ca',
   base,
   trailingSlash: 'always',
+  devToolbar: { enabled: false },
 });

@@ -1,111 +1,46 @@
 ---
-title: "Academic and research career"
+title: "Research and infrastructure"
+description: "Clinical research, CALMaR and Neurodesk: connecting rehabilitation needs with neuroimaging methods and open science."
 fr: "parcours-academique-et-scientifique"
-order: 6
+wide: true
 ---
 
-## Welcome to the section about my academic work
+My research connects three questions: how can we support communication, understand the effects of intervention, and make neuroimaging methods usable and reproducible?
 
-Here you will find an overview of my research interests, scientific publications and teaching experience, as well as the continuing education and mentoring I offer.
+I have been a Research Fellow at The University of Queensland since 2025, following a postdoctoral fellowship at Johns Hopkins and a PhD at the Université de Montréal. Clinical experience shapes the questions and tools I develop with researchers, clinicians and people with lived experience.
 
-My aim is to share knowledge, contribute to advancing research in speech-language pathology, and support professionals in their development.
+<div class="feature-grid">
+<article class="feature-card">
 
-<div class="columns">
-<div class="column" style="flex-basis:40%">
+## Clinical research
 
-## Current projects
+Aphasia, neuroplasticity, neuromodulation and intervention implementation. Work on anomia therapy, primary progressive aphasia and communication support in long-term care.
 
-</div>
-<div class="column">
+[Research and related publications](/en/research-interests/)
 
-CALMaR, Neurodesk and my other open-science projects at The University of Queensland, with links to the code and materials.
+</article>
+<article class="feature-card">
 
-[Explore](/en/projects/) →
+## CALMaR
 
-</div>
-</div>
+I lead the development of neuroimaging analyses and interpretable reports. Post-stroke aphasia is the first use case, co-designed with speech pathologists and people with lived experience of aphasia. I am also developing a neurodegenerative version and intend to pursue a TBI version next.
 
----
+[Aims, my role and project stage](/en/calmar/)
 
-<div class="columns">
-<div class="column" style="flex-basis:40%">
+</article>
+<article class="feature-card">
 
-## Research interests
+## Neurodesk
 
-</div>
-<div class="column">
+I contribute to open neuroimaging infrastructure through reproducible analyses, software development, training and collaboration between technical and clinical teams.
 
-My research focuses on acquired communication disorders, with a particular interest in the effectiveness of interventions and their underlying neurofunctional mechanisms. Here you will find a detailed description of my research and current collaborations.
+[My contributions and resources](/en/neurodesk/)
 
-[Explore](/en/research-interests/) →
-
-</div>
+</article>
 </div>
 
----
+## Publications, teaching and collaboration
 
-<div class="columns">
-<div class="column" style="flex-basis:40%">
+My [publications](/en/publications/) include clinical studies, evidence reviews, protocols, and work on methods and education. My [teaching](/en/teaching/) spans speech pathology and biomedical engineering, with supervision in computer science and data science.
 
-## Scientific publications
-
-</div>
-<div class="column">
-
-A selection of my published scientific articles.
-
-[Explore](/en/publications/) →
-
-</div>
-</div>
-
----
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Teaching experience
-
-</div>
-<div class="column">
-
-I have had the privilege of contributing to the training of many students and professionals in speech-language pathology. Find out about my teaching experience and the courses I have taught.
-
-[Explore](/en/teaching/) →
-
-</div>
-</div>
-
----
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Continuing education
-
-</div>
-<div class="column">
-
-I offer continuing education for health professionals, focused on recent advances in speech-language pathology and best clinical practice. See this section to learn more about upcoming courses.
-
-[Explore](/en/continuing-education/) →
-
-</div>
-</div>
-
----
-
-<div class="columns">
-<div class="column" style="flex-basis:40%">
-
-## Mentoring
-
-</div>
-<div class="column">
-
-As a mentor, I support speech-language pathology professionals who want to deepen their clinical skills. This section describes the mentoring I offer and the areas in which I can help.
-
-[Explore](/en/mentoring/) →
-
-</div>
-</div>
+<div class="buttons"><a class="button" href="/en/projects/">Projects and open materials</a><a class="button button-outline" href="/en/contact/">Discuss a collaboration</a></div>

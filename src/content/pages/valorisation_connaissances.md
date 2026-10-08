@@ -27,7 +27,3 @@ Je participe régulièrement à des conférences et à des événements organis�
 
 </div>
 </div>
-
-![](/media/2024/10/promoting-disseminating-and-applying-scientific-knowledge-to-ensure-it-is-1.png)
-
-*Image générée par IA*

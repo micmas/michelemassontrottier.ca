@@ -46,7 +46,7 @@ Ce matériel est conçu comme un **outil vivant**, destiné à être mis à jour
 
 <div class="video-embed" data-video="capsule-complete"></div>
 
-Vous pouvez également visionner la capsule à votre rythme, avec sous-titres, directement sur [directement sur Canva](https://www.canva.com/design/DAGnXYJT_zw/zvdzKk5IAo0kPF-qqI1L2g/watch?utm_content=DAGnXYJT_zw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a7b099092).
+Vous pouvez également visionner la capsule à votre rythme, avec sous-titres, directement sur [Canva](https://www.canva.com/design/DAGnXYJT_zw/zvdzKk5IAo0kPF-qqI1L2g/watch?utm_content=DAGnXYJT_zw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a7b099092).
 
 </div>
 <div class="column">
@@ -97,7 +97,7 @@ Albanais | Allemand | Alsacien | Anglais UK | Anglais US | Arabe algérien | Ara
 <details class="accordion">
 <summary>Chapel Hill Multilingual Intelligibility Test (CHMIT)<br/><a href="https://www.med.unc.edu/healthsciences/sphs/card/resources/chapel-hill-multilingual-intelligibility-test-chmit/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
 
-Test d'intelligibilité pour des mots mono-syllabique disponible en Anglais | Arabe | Danois | Estonien | Finnois | Français | Allemand | Grec | Hindi | Japonais | Coréen | Russe | Espagnol | Suédois
+Test d’intelligibilité pour des mots monosyllabiques disponible en anglais | arabe | danois | estonien | finnois | français | allemand | grec | hindi | japonais | coréen | russe | espagnol | suédois
 
 </details>
 
@@ -113,7 +113,7 @@ Test d'intelligibilité pour des mots mono-syllabique disponible en Anglais | Ar
 
 anglais | catalan | croate | néerlandais | français | hongrois | norvégien | espagnol | turc  
 En cours de développement :   
-arabe (du Maroc) | basque | cantonais | allemand | grec | islandais | lithuanien | serbe | slovénien | suèdois
+arabe (du Maroc) | basque | cantonais | allemand | grec | islandais | lituanien | serbe | slovénien | suédois
 
 </details>
 
@@ -150,7 +150,7 @@ Disponible en format papier & crayon ou numérique
 <details class="accordion">
 <summary>Tactus Therapy<br/><a href="https://tactustherapy.com/app/language/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
 
-Applications d'intervention sur tablette (iPad et Android). Les applications Comprehension Therapy, Naming Therapy, Reading Therapy et Writing Therapy sont disponible en Anglais | Espagnol | Français | Allemand
+Applications d’intervention sur tablette (iPad et Android). Les applications Comprehension Therapy, Naming Therapy, Reading Therapy et Writing Therapy sont disponibles en anglais | espagnol | français | allemand
 
 </details>
 
@@ -186,7 +186,7 @@ Aphasia Therapy Finder est une base de données consultable de thérapies ciblan
 <details class="accordion">
 <summary>Site Multilingual Topics in Communication Sciences &amp; Disorders (MultiCSD) <br/><a href="https://sites.google.com/view/multicsd" rel="noopener" target="_blank"><em>consulter en ligne</em></a></summary>
 
-Site web en anglais qui contient des informations sur la structures des [*différentes langues*](https://sites.google.com/view/multicsd/global-languages?authuser=0) et[*différentes cultures*](https://sites.google.com/view/multicsd/global-cultures?authuser=0), en plus de conseils et [*exemples cliniques*.](https://sites.google.com/view/multicsd/multilingualism-multiculturalism/working-with-cld-clients/adults/multilingual-considerations-for-aphasia?authuser=0)
+Site web en anglais qui contient des informations sur la structure des [différentes langues](https://sites.google.com/view/multicsd/global-languages?authuser=0) et sur les [différentes cultures](https://sites.google.com/view/multicsd/global-cultures?authuser=0), en plus de conseils et d’[exemples cliniques](https://sites.google.com/view/multicsd/multilingualism-multiculturalism/working-with-cld-clients/adults/multilingual-considerations-for-aphasia?authuser=0).
 
 </details>
 
