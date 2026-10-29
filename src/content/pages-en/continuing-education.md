@@ -23,14 +23,14 @@ My courses are currently offered in French through the Association québécoise 
 *Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s*  
 (Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support)
 
-Online (Zoom), two 3-hour sessions, recording available to registered participants. [The course at a glance ↓](#ncd-at-a-glance)
+Online (Zoom), two 3-hour sessions, recording available to registered participants. <a href="#ncd-at-a-glance" class="brief-toggle" data-details="ncd-at-a-glance" aria-controls="ncd-at-a-glance" aria-expanded="false">The course at a glance ↓</a>
 
 🔗 [Details and registration](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
 </div>
 <div class="column">
 
-**February 2027**  
+**February 15, 2027** · 2–5 p.m. (Eastern Time)  
 *Lire le cerveau : pourquoi et comment intégrer l'imagerie médicale dans la pratique clinique en troubles acquis de la communication*  
 (Reading the brain: why and how to integrate medical imaging into clinical practice for acquired communication disorders)
 
@@ -39,7 +39,7 @@ Online (Zoom), two 3-hour sessions, recording available to registered participan
 </div>
 <div class="column">
 
-**March 17 and 24, 2027**  
+**March 17 and 24, 2027** · 2–5 p.m. (Eastern Time)  
 *Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques*  
 (Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications)
 
@@ -48,7 +48,8 @@ Online (Zoom), two 3-hour sessions, recording available to registered participan
 </div>
 </div>
 
-<h2 id="ncd-at-a-glance">Neurocognitive disorders — the course at a glance</h2>
+<details class="accordion course-brief" id="ncd-at-a-glance">
+<summary>Neurocognitive disorders — the course at a glance</summary>
 
 <div class="columns">
 <div class="column">
@@ -82,6 +83,8 @@ Material provided through AQOA: a participant workbook (clickable links, interve
 
 </div>
 </div>
+
+</details>
 
 ---
 

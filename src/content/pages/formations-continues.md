@@ -19,14 +19,14 @@ Je propose des formations continues adaptées aux besoins des professionnels en 
 **12 et 19 novembre 2026** · 14 h à 17 h (heure de l'Est)  
 Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s
 
-En ligne (Zoom), deux séances de 3 h, rediffusion offerte aux personnes inscrites. [La formation en bref ↓](#tnc-en-bref)
+En ligne (Zoom), deux séances de 3 h, rediffusion offerte aux personnes inscrites. <a href="#tnc-en-bref" class="brief-toggle" data-details="tnc-en-bref" aria-controls="tnc-en-bref" aria-expanded="false">La formation en bref ↓</a>
 
 🔗[Détails et inscription](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
 </div>
 <div class="column">
 
-**Février 2027**  
+**15 février 2027** · 14 h à 17 h (heure de l'Est)  
 Lire le cerveau : pourquoi et comment intégrer l’imagerie médicale dans la pratique clinique en troubles acquis de la communication
 
 🔗[Détails et inscription](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/lire-le-cerveau-pourquoi-et-comment-integrer-limagerie-medicale-dans-la-pratique-clinique-en-troubles-acquis-de-la-communication/85509)
@@ -34,7 +34,7 @@ Lire le cerveau : pourquoi et comment intégrer l’imagerie médicale dans la p
 </div>
 <div class="column">
 
-**17 et 24 mars 2027**  
+**17 et 24 mars 2027** · 14 h à 17 h (heure de l'Est)  
 Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques
 
 🔗[Détails et inscription](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/interventions-en-orthophonie-aupres-de-personnes-ayant-un-trouble-acquis-de-la-communication-des-principes-theoriques-aux-applications-cliniques/85532)
@@ -42,7 +42,8 @@ Interventions en orthophonie auprès de personnes ayant un trouble acquis de la 
 </div>
 </div>
 
-<h2 id="tnc-en-bref">Troubles neurocognitifs — la formation en bref</h2>
+<details class="accordion course-brief" id="tnc-en-bref">
+<summary>Troubles neurocognitifs — la formation en bref</summary>
 
 <div class="columns">
 <div class="column">
@@ -76,6 +77,8 @@ Matériel transmis par l'AQOA : cahier du participant (liens cliquables, fiches 
 
 </div>
 </div>
+
+</details>
 
 ---
 

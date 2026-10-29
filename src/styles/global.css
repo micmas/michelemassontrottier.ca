@@ -98,6 +98,9 @@ details.accordion > summary::after { content: '+'; font-size: 1.3rem; line-heigh
 details.accordion[open] > summary::after { content: '−'; }
 details.accordion > :not(summary) { padding: 0 1rem; overflow-wrap: anywhere; }
 details.accordion[open] { padding-bottom: .6rem; }
+details.course-brief { margin: 2rem 0 1rem; scroll-margin-top: 6rem; }
+details.course-brief > summary { font-size: clamp(1.2rem, 2vw, 1.45rem); color: var(--contrast); }
+details.course-brief > .columns { padding-top: .4rem; }
 
 /* file links get a small label for their type */
 a[href$=".pdf"]::after, a[data-name$=".pdf"]::after { content: ' PDF'; }
