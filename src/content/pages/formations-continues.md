@@ -16,8 +16,10 @@ Je propose des formations continues adaptées aux besoins des professionnels en 
 <div class="columns">
 <div class="column">
 
-**Novembre 2026**  
+**12 et 19 novembre 2026** · 14 h à 17 h (heure de l'Est)  
 Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s
+
+En ligne (Zoom), deux séances de 3 h, rediffusion offerte aux personnes inscrites. Aphasie primaire progressive, maladie d'Alzheimer, maladie de Parkinson et autres TNC : mécanismes, profils de communication, évaluation, interventions fondées sur les données probantes, counseling des proches et vignettes cliniques. [En bref ↓](#tnc-en-bref)
 
 🔗[Détails et inscription](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
@@ -32,10 +34,43 @@ Lire le cerveau : pourquoi et comment intégrer l’imagerie médicale dans la p
 </div>
 <div class="column">
 
-**Mars 2027**  
+**17 et 24 mars 2027**  
 Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques
 
 🔗[Détails et inscription](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/interventions-en-orthophonie-aupres-de-personnes-ayant-un-trouble-acquis-de-la-communication-des-principes-theoriques-aux-applications-cliniques/85532)
+
+</div>
+</div>
+
+<h2 id="tnc-en-bref">Troubles neurocognitifs — la formation en bref</h2>
+
+<div class="columns">
+<div class="column">
+
+**Objectifs d'apprentissage**
+
+- Comprendre l'impact des troubles neurocognitifs sur la communication
+- Intégrer des stratégies d'intervention adaptées et centrées sur la personne
+- Développer des compétences en counseling pour accompagner les proches aidant·e·s dans le contexte d'une maladie progressive
+- Acquérir des outils pratiques pour favoriser la participation et la qualité de vie
+
+</div>
+<div class="column">
+
+**Déroulement**
+
+Séance 1 — Fondements : vocabulaire et protéinopathies, vieillissement normal ou pathologique, profils langagiers (APP et ses variants, maladie d'Alzheimer, maladie de Parkinson, DFT, DCL, DCB, PSP), évaluation de la communication et approche centrée sur la personne.
+
+Séance 2 — Pratique : interventions par TNC et données probantes (RTSS, COS-PPA, Communication Bridge-2, formation des partenaires de communication, LSVT LOUD, COMPAs), counseling des proches aidant·e·s, vignettes cliniques travaillées en équipe, ressources et plan d'action.
+
+</div>
+<div class="column">
+
+**Pour qui, avec quoi**
+
+Orthophonistes qui accompagnent — ou souhaitent accompagner — des adultes vivant avec un TNC, en clinique, en réadaptation, en soutien à domicile ou en hébergement. La formation vise à approfondir les connaissances; une pratique auprès d'adultes avec troubles acquis de la communication est un atout.
+
+Matériel transmis par l'AQOA : cahier du participant (liens cliquables, fiches de programmes d'intervention, outils d'évaluation, gabarits GAS, script training et carnet de communication, références annotées) et fiche de travail des vignettes.
 
 </div>
 </div>

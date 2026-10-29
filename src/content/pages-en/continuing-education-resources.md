@@ -27,7 +27,7 @@ The supplementary material for each course is on a password-protected page. Thes
 <div class="material-card">
 <p class="course-meta">AQOA course</p>
 <p class="course-title">Speech-language pathology practice with people living with neurocognitive disorders</p>
-<p class="course-meta">Next session: November 12 and 19, 2026 · <a href="https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529" target="_blank" rel="noopener">register</a></p>
+<p class="course-meta">Next session: November 12 and 19, 2026, 2–5 p.m. ET, online · <a href="https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529" target="_blank" rel="noopener">register</a></p>
 <div class="buttons"><a class="button" href="/formation-aqoa-pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs/">Open the material</a><a class="button button-outline" href="https://www.aqoa.qc.ca/fr/activites-en-rediffusion/authentication/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/88902" target="_blank" rel="noopener">Watch on demand (AQOA)</a></div>
 </div>
 </div>

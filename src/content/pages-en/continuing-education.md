@@ -19,9 +19,11 @@ My courses are currently offered in French through the Association québécoise 
 <div class="columns">
 <div class="column">
 
-**November 2026**  
+**November 12 and 19, 2026** · 2–5 p.m. (Eastern Time)  
 *Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s*  
 (Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support)
+
+Online (Zoom), two 3-hour sessions, recording available to registered participants. Primary progressive aphasia, Alzheimer's disease, Parkinson's disease and other neurocognitive disorders: mechanisms, communication profiles, assessment, evidence-based interventions, family counselling and clinical vignettes. [At a glance ↓](#ncd-at-a-glance)
 
 🔗 [Details and registration](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
@@ -37,11 +39,44 @@ My courses are currently offered in French through the Association québécoise 
 </div>
 <div class="column">
 
-**March 2027**  
+**March 17 and 24, 2027**  
 *Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques*  
 (Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications)
 
 🔗 [Details and registration](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/interventions-en-orthophonie-aupres-de-personnes-ayant-un-trouble-acquis-de-la-communication-des-principes-theoriques-aux-applications-cliniques/85532)
+
+</div>
+</div>
+
+<h2 id="ncd-at-a-glance">Neurocognitive disorders — the course at a glance</h2>
+
+<div class="columns">
+<div class="column">
+
+**Learning objectives**
+
+- Understand how neurocognitive disorders affect communication
+- Integrate person-centred intervention strategies
+- Build counselling skills to support family caregivers through a progressive disease
+- Acquire practical tools that promote participation and quality of life
+
+</div>
+<div class="column">
+
+**Outline**
+
+Session 1 — Foundations: terminology and proteinopathies, normal versus pathological ageing, language profiles (PPA and its variants, Alzheimer's disease, Parkinson's disease, FTD, DLB, CBD, PSP), communication assessment and the person-centred approach.
+
+Session 2 — Practice: interventions by disorder and the evidence behind them (RTSS, COS-PPA, Communication Bridge-2, communication partner training, LSVT LOUD, COMPAs), caregiver counselling, clinical vignettes worked through in small groups, resources and a personal action plan.
+
+</div>
+<div class="column">
+
+**Who it is for, what you receive**
+
+Speech-language pathologists who work — or want to work — with adults living with a neurocognitive disorder, in clinics, rehabilitation, home care or residential settings. The course aims to deepen existing knowledge; experience with adults with acquired communication disorders is an asset. The course is delivered in French.
+
+Material provided through AQOA: a participant workbook (clickable links, intervention programme sheets, assessment tools, GAS, script training and communication book templates, annotated references) and a worksheet for the vignettes.
 
 </div>
 </div>
