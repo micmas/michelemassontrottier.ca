@@ -23,7 +23,7 @@ My courses are currently offered in French through the Association québécoise 
 *Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s*  
 (Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support)
 
-Online (Zoom), two 3-hour sessions, recording available to registered participants. Primary progressive aphasia, Alzheimer's disease, Parkinson's disease and other neurocognitive disorders: mechanisms, communication profiles, assessment, evidence-based interventions, family counselling and clinical vignettes. [At a glance ↓](#ncd-at-a-glance)
+Online (Zoom), two 3-hour sessions, recording available to registered participants. [The course at a glance ↓](#ncd-at-a-glance)
 
 🔗 [Details and registration](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
@@ -65,9 +65,11 @@ Online (Zoom), two 3-hour sessions, recording available to registered participan
 
 **Outline**
 
-Session 1 — Foundations: terminology and proteinopathies, normal versus pathological ageing, language profiles (PPA and its variants, Alzheimer's disease, Parkinson's disease, FTD, DLB, CBD, PSP), communication assessment and the person-centred approach.
+Session 1 — Foundations and assessment: proteinopathies, normal versus pathological ageing, communication profiles (PPA and its variants, with video examples, Alzheimer's disease, Parkinson's disease, other neurocognitive disorders), communication assessment, then a clinical case reasoned through out loud.
 
-Session 2 — Practice: interventions by disorder and the evidence behind them (RTSS, COS-PPA, Communication Bridge-2, communication partner training, LSVT LOUD, COMPAs), caregiver counselling, clinical vignettes worked through in small groups, resources and a personal action plan.
+Between sessions — One clinical vignette to prepare (30 to 45 min).
+
+Session 2 — Practice: interventions by disorder and the evidence behind them, SMART goals and Goal Attainment Scaling (exercise), caregiver counselling (role play), a vignette worked through in small groups, working with few sessions, and a personal action plan.
 
 </div>
 <div class="column">

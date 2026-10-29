@@ -19,7 +19,7 @@ Je propose des formations continues adaptées aux besoins des professionnels en 
 **12 et 19 novembre 2026** · 14 h à 17 h (heure de l'Est)  
 Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s
 
-En ligne (Zoom), deux séances de 3 h, rediffusion offerte aux personnes inscrites. Aphasie primaire progressive, maladie d'Alzheimer, maladie de Parkinson et autres TNC : mécanismes, profils de communication, évaluation, interventions fondées sur les données probantes, counseling des proches et vignettes cliniques. [En bref ↓](#tnc-en-bref)
+En ligne (Zoom), deux séances de 3 h, rediffusion offerte aux personnes inscrites. [La formation en bref ↓](#tnc-en-bref)
 
 🔗[Détails et inscription](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
@@ -59,9 +59,11 @@ Interventions en orthophonie auprès de personnes ayant un trouble acquis de la 
 
 **Déroulement**
 
-Séance 1 — Fondements : vocabulaire et protéinopathies, vieillissement normal ou pathologique, profils langagiers (APP et ses variants, maladie d'Alzheimer, maladie de Parkinson, DFT, DCL, DCB, PSP), évaluation de la communication et approche centrée sur la personne.
+Séance 1 — Fondements et évaluation : protéinopathies, vieillissement normal ou pathologique, profils de communication (APP et ses variants, avec extraits vidéo, maladie d'Alzheimer, maladie de Parkinson, autres TNC), évaluation de la communication, puis un cas clinique raisonné à voix haute.
 
-Séance 2 — Pratique : interventions par TNC et données probantes (RTSS, COS-PPA, Communication Bridge-2, formation des partenaires de communication, LSVT LOUD, COMPAs), counseling des proches aidant·e·s, vignettes cliniques travaillées en équipe, ressources et plan d'action.
+Entre les séances — Une vignette clinique à préparer (30 à 45 min).
+
+Séance 2 — Pratique : interventions par TNC et données probantes, objectifs SMART et GAS (exercice), counseling des proches (jeu de rôle), vignette en équipe, intervenir avec peu de séances et plan d'action.
 
 </div>
 <div class="column">
