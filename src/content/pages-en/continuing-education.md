@@ -19,16 +19,18 @@ My courses are currently offered in French through the Association québécoise 
 <div class="columns">
 <div class="column">
 
-**November 2026**  
+**November 12 and 19, 2026** · 2–5 p.m. (Eastern Time)  
 *Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs : counseling, interventions et soutien des aidant·e·s*  
 (Speech-language pathology practice with people living with neurocognitive disorders: counselling, interventions and caregiver support)
+
+Online (Zoom), two 3-hour sessions, recording available to registered participants. <a href="#ncd-at-a-glance" class="brief-toggle" data-details="ncd-at-a-glance" aria-controls="ncd-at-a-glance" aria-expanded="false">The course at a glance ↓</a>
 
 🔗 [Details and registration](https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529)
 
 </div>
 <div class="column">
 
-**February 2027**  
+**February 15, 2027** · 2–5 p.m. (Eastern Time)  
 *Lire le cerveau : pourquoi et comment intégrer l'imagerie médicale dans la pratique clinique en troubles acquis de la communication*  
 (Reading the brain: why and how to integrate medical imaging into clinical practice for acquired communication disorders)
 
@@ -37,7 +39,7 @@ My courses are currently offered in French through the Association québécoise 
 </div>
 <div class="column">
 
-**March 2027**  
+**March 17 and 24, 2027** · 2–5 p.m. (Eastern Time)  
 *Interventions en orthophonie auprès de personnes ayant un trouble acquis de la communication – des principes théoriques aux applications cliniques*  
 (Speech-language interventions for people with acquired communication disorders: from theoretical principles to clinical applications)
 
@@ -45,6 +47,44 @@ My courses are currently offered in French through the Association québécoise 
 
 </div>
 </div>
+
+<details class="accordion course-brief" id="ncd-at-a-glance">
+<summary>Neurocognitive disorders — the course at a glance</summary>
+
+<div class="columns">
+<div class="column">
+
+**Learning objectives**
+
+- Understand how neurocognitive disorders affect communication
+- Integrate person-centred intervention strategies
+- Build counselling skills to support family caregivers through a progressive disease
+- Acquire practical tools that promote participation and quality of life
+
+</div>
+<div class="column">
+
+**Outline**
+
+Session 1 — Foundations and assessment: proteinopathies, normal versus pathological ageing, communication profiles (PPA and its variants, with video examples, Alzheimer's disease, Parkinson's disease, other neurocognitive disorders), communication assessment, then a clinical case reasoned through out loud.
+
+Between sessions — One clinical vignette to prepare (30 to 45 min).
+
+Session 2 — Practice: interventions by disorder and the evidence behind them, SMART goals and Goal Attainment Scaling (exercise), caregiver counselling (role play), a vignette worked through in small groups, working with few sessions, and a personal action plan.
+
+</div>
+<div class="column">
+
+**Who it is for, what you receive**
+
+Speech-language pathologists who work — or want to work — with adults living with a neurocognitive disorder, in clinics, rehabilitation, home care or residential settings. The course aims to deepen existing knowledge; experience with adults with acquired communication disorders is an asset. The course is delivered in French.
+
+Material provided through AQOA: a participant workbook (clickable links, intervention programme sheets, assessment tools, GAS, script training and communication book templates, annotated references) and a worksheet for the vignettes.
+
+</div>
+</div>
+
+</details>
 
 ---
 

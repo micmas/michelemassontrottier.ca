@@ -31,6 +31,24 @@ export function enhance(root: ParentNode) {
   root.querySelectorAll<HTMLInputElement>('input[data-auto-next]').forEach((i) => {
     i.value = new URL(import.meta.env.BASE_URL.replace(/\/?$/, '/') + (i.dataset.nextPath || 'merci/'), location.origin).href;
   });
+  // <a data-details="id"> toggles the <details id="id"> (opens + scrolls, a second click closes it)
+  root.querySelectorAll<HTMLAnchorElement>('a[data-details]').forEach((a) => {
+    const d = document.getElementById(a.dataset.details!) as HTMLDetailsElement | null;
+    if (!d || a.dataset.done) return;
+    a.dataset.done = '1';
+    const sync = () => {
+      a.setAttribute('aria-expanded', String(d.open));
+      a.textContent = a.textContent!.replace(/[↓↑]\s*$/, d.open ? '↑' : '↓');
+    };
+    a.addEventListener('click', (ev) => {
+      ev.preventDefault();
+      d.open = !d.open;
+      if (d.open) d.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    d.addEventListener('toggle', sync);
+    if (location.hash === '#' + d.id) d.open = true;
+    sync();
+  });
   // external links open in a new tab
   root.querySelectorAll<HTMLAnchorElement>('main a[href^="http"]').forEach((a) => {
     if (!a.href.startsWith(location.origin)) { a.target = '_blank'; a.rel = 'noopener'; }

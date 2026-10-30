@@ -26,7 +26,7 @@ Le contenu complémentaire de chaque formation se trouve sur une page protégée
 <div class="material-card">
 <p class="course-meta">Formation AQOA</p>
 <p class="course-title">Pratiques orthophoniques auprès des personnes vivant avec des troubles neurocognitifs</p>
-<p class="course-meta">Prochaine édition : 12 et 19 novembre 2026 · <a href="https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529" target="_blank" rel="noopener">inscription</a></p>
+<p class="course-meta">Prochaine édition : 12 et 19 novembre 2026, 14 h à 17 h (HE), en ligne · <a href="https://www.aqoa.qc.ca/fr/calendrier-des-activites/detail/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/85529" target="_blank" rel="noopener">inscription</a></p>
 <div class="buttons"><a class="button" href="/formation-aqoa-pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs/">Accéder au contenu</a><a class="button button-outline" href="https://www.aqoa.qc.ca/fr/activites-en-rediffusion/authentication/pratiques-orthophoniques-aupres-des-personnes-vivant-avec-des-troubles-neurocognitifs-counseling-interventions-et-soutien-des-aidantes/88902" target="_blank" rel="noopener">Voir en différé (AQOA)</a></div>
 </div>
 </div>
