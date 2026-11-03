@@ -74,6 +74,8 @@ nav.main li.expanded > ul { display: block; }
 main { max-width: var(--content); margin: 0 auto; padding: 1.5rem 1rem 4rem; }
 main.wide { max-width: var(--wide); }
 .page-title { margin-top: 1rem; }
+.page-updated { margin: 3rem 0 0; padding-top: .8rem; border-top: 1px solid var(--base-2); font-family: var(--font-head); font-size: .85rem; color: var(--muted); }
+main.wide .page-updated { max-width: var(--wide); }
 .prose > :first-child { margin-top: 0; }
 .prose ul, .prose ol { padding-left: 1.3rem; }
 .prose li { margin: .25rem 0; }

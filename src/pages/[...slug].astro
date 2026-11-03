@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import MembersPage from '../components/MembersPage.astro';
 import { getMembersPages, type MembersPageData } from '../lib/members';
+import { lastUpdated } from '../lib/updated';
 
 export async function getStaticPaths() {
   const pages = (await getCollection('pages')).filter((p) => p.id !== 'index');
@@ -15,9 +16,10 @@ export async function getStaticPaths() {
 
 const { entry, members } = Astro.props as { entry?: any; members?: MembersPageData };
 const Content = entry ? (await render(entry)).Content : null;
+const updated = entry ? lastUpdated(entry.filePath, entry.data.updated) : undefined;
 ---
 {entry && Content && (
-  <Base title={entry.data.title} description={entry.data.description} wide={entry.data.wide}>
+  <Base title={entry.data.title} description={entry.data.description} wide={entry.data.wide} updated={updated}>
     <h1 class="page-title">{entry.data.title}</h1>
     <div class="prose"><Content /></div>
   </Base>

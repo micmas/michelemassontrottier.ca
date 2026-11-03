@@ -4,9 +4,10 @@ import { navFr, navEn, social, ui, type Lang } from '../data/nav';
 import { getAlternates } from '../lib/i18n';
 import videos from '../data/videos.json';
 import LegacyRedirects from '../components/LegacyRedirects.astro';
+import { formatDate, isoDate } from '../lib/updated';
 
-interface Props { title: string; description?: string; wide?: boolean; noindex?: boolean; lang?: Lang; notFound?: boolean }
-const { title, description, wide = false, noindex = false, lang = 'fr', notFound = false } = Astro.props;
+interface Props { title: string; description?: string; wide?: boolean; noindex?: boolean; lang?: Lang; notFound?: boolean; updated?: Date }
+const { title, description, wide = false, noindex = false, lang = 'fr', notFound = false, updated } = Astro.props;
 const t = ui[lang];
 const nav = lang === 'en' ? navEn : navFr;
 const siteName = 'Michèle Masson-Trottier';
@@ -98,6 +99,7 @@ const home = lang === 'en' ? '/en/' : '/';
 
   <main id="contenu" class={wide ? 'wide' : undefined}>
     <slot />
+    {updated && <p class="page-updated">{lang === 'en' ? 'Last updated: ' : 'Dernière mise à jour : '}<time datetime={isoDate(updated)}>{formatDate(updated, lang)}</time></p>}
   </main>
 
   <footer class="site-footer">
