@@ -7,6 +7,7 @@ const schema = z.object({
   description: z.string().optional(),
   order: z.number().optional(),
   wide: z.boolean().optional(),
+  updated: z.coerce.date().optional(), // facultatif : remplace la date du dernier commit
 });
 
 // French pages (default language, URLs at the root: /a-propos/)

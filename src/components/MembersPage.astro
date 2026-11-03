@@ -1,11 +1,13 @@
 ---
 import Base from '../layouts/Base.astro';
 import type { MembersPageData } from '../lib/members';
+import { lastUpdated } from '../lib/updated';
 interface Props { data: MembersPageData }
 const { data } = Astro.props;
+const updated = lastUpdated(`src/content/members/${data.slug}.json`);
 const payload = JSON.stringify({ section: data.section, kdf: data.kdf, iv: data.iv, data: data.data });
 ---
-<Base title={data.title} noindex>
+<Base title={data.title} noindex updated={updated}>
   <h1 class="page-title">{data.title}</h1>
   <div id="members-root">
     <form class="unlock" id="unlock-form" autocomplete="off">
