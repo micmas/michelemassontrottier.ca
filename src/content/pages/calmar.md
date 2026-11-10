@@ -1,6 +1,6 @@
 ---
 title: "CALMaR : de l’imagerie aux questions cliniques"
-description: "CALMaR : neuroimagerie et questions cliniques, avec un premier cas d’utilisation en aphasie post-AVC et une version neurodégénérative en développement."
+description: "CALMaR : neuroimagerie et questions cliniques, avec un premier cas d’utilisation en aphasie post-AVC. Une application web, une chaîne de traitement complète et une base de connaissances ouverte et sourcée sur l’aphasie."
 wide: true
 ---
 
@@ -14,26 +14,74 @@ Je dirige le développement du projet à The University of Queensland et suis l�
 
 Le projet est développé en affiliation avec le Queensland Aphasia Research Centre et en co-conception avec les orthophonistes de Metro North Health et des personnes ayant une expérience vécue de l’aphasie.
 
+## Deux façons de l’utiliser, une même base de données probantes
+
+- **Une application web qui fonctionne dans le navigateur.** Charger une IRM structurelle, examiner et corriger la lésion, puis lire un rapport, sans rien installer. Les images restent sur l’ordinateur de l’utilisateur.
+- **Une chaîne de traitement complète pour les équipes de recherche.** Des notebooks qui s’exécutent dans Neurodesk ajoutent un formulaire guidé, un contrôle de qualité détaillé et d’autres analyses, comme la déconnexion de la substance blanche, l’imagerie de l’AVC aigu et la santé cérébrale de fond.
+
+Les deux s’appuient sur une **base de connaissances ouverte sur la littérature en aphasie**. Chaque énoncé d’un rapport renvoie au passage de l’étude publiée dont il provient, ce qui permet de vérifier la source soi-même. Un modèle de langage exécuté localement rédige des ébauches de constats à partir des articles; des personnes les révisent, et chaque constat indique son statut de révision.
+
+## Le parcours de traitement en aphasie post-AVC
+
+<ol class="workflow"><li><strong>Images IRM</strong><span>Charger l’imagerie structurelle.</span></li><li><strong>Cartographie</strong><span>Segmenter la lésion et repérer les régions et les connexions touchées.</span></li><li><strong>Révision</strong><span>Vérifier et corriger la lésion; les décisions sont documentées.</span></li><li><strong>Rapport sourcé</strong><span>Mettre la lésion en lien avec la littérature scientifique, avec une source pour chaque énoncé.</span></li></ol>
+
+Le traitement se fait localement, dans le navigateur ou dans [Neurodesk](/neurodesk/) : les images des patients n’ont pas à quitter l’ordinateur, et chaque étape consigne ce qu’elle a fait et pourquoi.
+
+## Explorer CALMaR
+
+<div class="feature-grid">
+<article class="feature-card">
+
+### Essayer l’application web
+
+Cartographier une lésion et lire son rapport dans le navigateur, avec des exemples d’images inclus.
+
+[Ouvrir l’application web](https://webapps.neurodesk.org/calmar/)
+
+</article>
+<article class="feature-card">
+
+### Consulter les données probantes
+
+Parcourir la base de connaissances : constats, articles et passages qui les appuient.
+
+[Ouvrir la base de connaissances](https://aphasia-kb.app/)
+
+</article>
+<article class="feature-card">
+
+### Aider à vérifier les données
+
+Cliniciennes, cliniciens et chercheurs peuvent trier des articles ou réviser des constats, même quelques minutes à la fois.
+
+[Participer](https://aphasia-kb.app/#/involve)
+
+</article>
+<article class="feature-card">
+
+### Utiliser la chaîne complète
+
+Le code et les notebooks pour les équipes de recherche qui travaillent dans Neurodesk.
+
+[Code sur GitHub](https://github.com/micmas/calmar)
+
+</article>
+</div>
+
+Vous découvrez la neuroimagerie? Le [guide CALMaR](https://how-to-calmar.github.io/) explique les concepts derrière chaque étape.
+
 ## Cas d’utilisation et développement
 
 - **Premier cas d’utilisation : aphasie post-AVC.** Le travail porte sur la cartographie des lésions et la production de rapports interprétables pour les équipes cliniques.
 - **En développement : une version pour les maladies neurodégénératives.** Je travaille à adapter l’approche aux questions de neuroimagerie propres à ces maladies.
 - **Étape envisagée ensuite : traumatisme craniocérébral (TCC).** Une version pour le TCC fait partie des développements que je souhaite entreprendre par la suite.
 
-## Le parcours de traitement en aphasie post-AVC
-
-<ol class="workflow"><li><strong>Images IRM</strong><span>Préparer les données structurelles.</span></li><li><strong>Cartographie</strong><span>Segmenter les lésions et examiner les régions concernées.</span></li><li><strong>Contrôle de qualité</strong><span>Examiner les résultats et documenter les décisions.</span></li><li><strong>Rapport</strong><span>Présenter des résultats interprétables et leurs sources.</span></li></ol>
-
-CALMaR utilise l’environnement Neurodesk pour rendre les outils et les analyses reproductibles. La démarche vise aussi à respecter la confidentialité des données et à documenter les choix de traitement et d’interprétation.
-
 ## État du projet
 
-CALMaR est en développement. Le code et un guide de prise en main sont ouverts. L’utilité clinique et la fiabilité du workflow restent des questions à évaluer; la disponibilité du code ne démontre pas à elle seule une efficacité clinique.
+CALMaR est en développement. L’application web, le code, la base de connaissances et le guide sont ouverts. La base de connaissances continue de s’enrichir, et de nombreux constats attendent encore une révision. L’utilité clinique et la fiabilité du workflow restent des questions à évaluer; la disponibilité ouverte de ces outils ne démontre pas à elle seule une efficacité clinique.
 
-## Code, guide et collaborations
+## Collaborations
 
-<div class="buttons"><a class="button" href="https://github.com/micmas/calmar">Code sur GitHub</a><a class="button button-outline" href="https://how-to-calmar.github.io/">Guide de prise en main</a></div>
-
-Je souhaite échanger avec des équipes intéressées par la neuroimagerie de l’AVC, des maladies neurodégénératives ou du TCC, les rapports accessibles, la co-conception et l’évaluation de workflows cliniques.
+Je souhaite échanger avec des équipes intéressées par la neuroimagerie de l’AVC, des maladies neurodégénératives ou du TCC, les rapports accessibles, la co-conception et l’évaluation de workflows cliniques. Je cherche aussi des cliniciennes, des cliniciens et des chercheurs pour aider à réviser les données de la base de connaissances.
 
 [Discuter de CALMaR](/contactez-moi/) · [En savoir plus sur Neurodesk](/neurodesk/)

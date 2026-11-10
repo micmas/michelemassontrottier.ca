@@ -13,7 +13,7 @@ Mes travaux actuels à The University of Queensland relient les besoins clinique
 
 **Direction du projet · en développement**
 
-Neuroimagerie et rapports interprétables, avec l’aphasie post-AVC comme premier cas d’utilisation, co-conçu avec les équipes cliniques et des personnes ayant une expérience vécue de l’aphasie. Une version neurodégénérative est en développement; une version pour le TCC est envisagée ensuite.
+Neuroimagerie et rapports interprétables, avec l’aphasie post-AVC comme premier cas d’utilisation, co-conçu avec les équipes cliniques et des personnes ayant une expérience vécue de l’aphasie. Offert sous forme d’application web et de chaîne de traitement complète, appuyé par une base de connaissances ouverte et sourcée sur l’aphasie. Une version neurodégénérative est en développement; une version pour le TCC est envisagée ensuite.
 
 [Découvrir CALMaR](/calmar/)
 

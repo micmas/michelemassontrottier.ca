@@ -14,7 +14,7 @@ My current work at The University of Queensland connects clinical needs with neu
 
 **Project lead · in development**
 
-Neuroimaging and interpretable reports, with post-stroke aphasia as the first use case, co-designed with clinical teams and people with lived experience of aphasia. A neurodegenerative version is in development; a TBI version is planned next.
+Neuroimaging and interpretable reports, with post-stroke aphasia as the first use case, co-designed with clinical teams and people with lived experience of aphasia. Available as a browser app and a full pipeline, backed by an open, cited knowledge base of the aphasia literature. A neurodegenerative version is in development; a TBI version is planned next.
 
 [Explore CALMaR](/en/calmar/)
 
