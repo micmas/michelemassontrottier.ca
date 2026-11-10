@@ -1,6 +1,6 @@
 ---
 title: "Projets et matériel ouvert"
-description: "CALMaR, Neurodesk et matériel de formation ouvert : objectifs, contributions et ressources de mes projets actuels à UQ."
+description: "CALMaR, la base de connaissances sur l’aphasie post-AVC, Neurodesk et matériel de formation ouvert : objectifs, contributions et ressources de mes projets actuels à UQ."
 wide: true
 ---
 
@@ -13,9 +13,20 @@ Mes travaux actuels à The University of Queensland relient les besoins clinique
 
 **Direction du projet · en développement**
 
-Neuroimagerie et rapports interprétables, avec l’aphasie post-AVC comme premier cas d’utilisation, co-conçu avec les équipes cliniques et des personnes ayant une expérience vécue de l’aphasie. Offert sous forme d’application web et de chaîne de traitement complète, appuyé par une base de connaissances ouverte et sourcée sur l’aphasie. Une version neurodégénérative est en développement; une version pour le TCC est envisagée ensuite.
+Neuroimagerie et rapports interprétables, avec l’aphasie post-AVC comme premier cas d’utilisation, co-conçu avec les équipes cliniques et des personnes ayant une expérience vécue de l’aphasie. Offert sous forme d’application web et de chaîne de traitement complète. Une version neurodégénérative est en développement; une version pour le TCC est envisagée ensuite.
 
 [Découvrir CALMaR](/calmar/)
+
+</article>
+<article class="feature-card">
+
+## Base de connaissances sur l’aphasie post-AVC
+
+**Direction du projet · ressource ouverte**
+
+Une collection ouverte et sourcée de ce que dit la littérature scientifique sur l’aphasie après un AVC : régions cérébrales, atteintes, récupération et thérapies, chaque constat relié au passage dont il provient. Elle alimente les rapports de CALMaR, et cliniciennes, cliniciens et chercheurs peuvent aider à la réviser.
+
+[Explorer la base de connaissances](https://aphasia-kb.app/)
 
 </article>
 <article class="feature-card">

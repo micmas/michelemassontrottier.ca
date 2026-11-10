@@ -14,12 +14,16 @@ Je dirige le développement du projet à The University of Queensland et suis l�
 
 Le projet est développé en affiliation avec le Queensland Aphasia Research Centre et en co-conception avec les orthophonistes de Metro North Health et des personnes ayant une expérience vécue de l’aphasie.
 
-## Deux façons de l’utiliser, une même base de données probantes
+## Deux façons de l’utiliser
 
 - **Une application web qui fonctionne dans le navigateur.** Charger une IRM structurelle, examiner et corriger la lésion, puis lire un rapport, sans rien installer. Les images restent sur l’ordinateur de l’utilisateur.
 - **Une chaîne de traitement complète pour les équipes de recherche.** Des notebooks qui s’exécutent dans Neurodesk ajoutent un formulaire guidé, un contrôle de qualité détaillé et d’autres analyses, comme la déconnexion de la substance blanche, l’imagerie de l’AVC aigu et la santé cérébrale de fond.
 
-Les deux s’appuient sur une **base de connaissances ouverte sur la littérature en aphasie**. Chaque énoncé d’un rapport renvoie au passage de l’étude publiée dont il provient, ce qui permet de vérifier la source soi-même. Un modèle de langage exécuté localement rédige des ébauches de constats à partir des articles; des personnes les révisent, et chaque constat indique son statut de révision.
+## La base de connaissances sur l’aphasie post-AVC
+
+Les deux s’appuient sur la [base de connaissances sur l’aphasie post-AVC](https://aphasia-kb.app/) (en anglais), une collection ouverte de ce que dit la littérature scientifique sur l’aphasie après un AVC : quelles régions cérébrales sont liées à quelles atteintes, ce qui prédit la récupération et quelles thérapies sont appuyées par des données probantes. Chaque constat correspond à une seule affirmation tirée d’un seul article, citée avec le passage dont elle provient, de sorte que chacun peut ouvrir l’article et vérifier. Les rapports de CALMaR citent directement ces constats.
+
+Les articles sont repérés par des recherches systématiques. Un modèle de langage exécuté localement rédige des ébauches de constats à partir de chaque article; des personnes les révisent ensuite, et chaque constat indique son statut de révision. Les [données et le code](https://github.com/micmas/stroke-aphasia-kb) sont ouverts, et les cliniciennes, cliniciens et chercheurs peuvent aider à trier des articles et à réviser des constats.
 
 ## Le parcours de traitement en aphasie post-AVC
 

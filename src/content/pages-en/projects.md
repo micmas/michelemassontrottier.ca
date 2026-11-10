@@ -1,6 +1,6 @@
 ---
 title: "Projects and open materials"
-description: "CALMaR, Neurodesk and open training materials: aims, contributions and resources from my current projects at UQ."
+description: "CALMaR, the stroke aphasia knowledge base, Neurodesk and open training materials: aims, contributions and resources from my current projects at UQ."
 fr: "projets"
 wide: true
 ---
@@ -14,9 +14,20 @@ My current work at The University of Queensland connects clinical needs with neu
 
 **Project lead · in development**
 
-Neuroimaging and interpretable reports, with post-stroke aphasia as the first use case, co-designed with clinical teams and people with lived experience of aphasia. Available as a browser app and a full pipeline, backed by an open, cited knowledge base of the aphasia literature. A neurodegenerative version is in development; a TBI version is planned next.
+Neuroimaging and interpretable reports, with post-stroke aphasia as the first use case, co-designed with clinical teams and people with lived experience of aphasia. Available as a browser app and a full pipeline. A neurodegenerative version is in development; a TBI version is planned next.
 
 [Explore CALMaR](/en/calmar/)
+
+</article>
+<article class="feature-card">
+
+## Stroke aphasia knowledge base
+
+**Project lead · open resource**
+
+An open, cited collection of what the research literature says about aphasia after stroke: brain regions, impairments, recovery and therapies, each finding traced to the passage it comes from. It feeds CALMaR’s reports, and clinicians and researchers can help review it.
+
+[Explore the knowledge base](https://aphasia-kb.app/)
 
 </article>
 <article class="feature-card">

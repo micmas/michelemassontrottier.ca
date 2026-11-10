@@ -15,12 +15,16 @@ I lead the project’s development at The University of Queensland and am the so
 
 The project is developed in affiliation with the Queensland Aphasia Research Centre and co-designed with Metro North Health speech pathologists and people with lived experience of aphasia.
 
-## Two ways to use it, one evidence base
+## Two ways to use it
 
 - **A web app that runs in the browser.** Load a structural MRI, review and correct the lesion, and read a report, with nothing to install. Images stay on the user’s computer.
 - **A complete pipeline for research teams.** Notebooks that run in Neurodesk add a guided form, detailed quality control and further analyses, such as white-matter disconnection, acute stroke imaging and background brain health.
 
-Both draw on an **open knowledge base of the aphasia literature**. Each statement in a report links to the passage of the published study it comes from, so readers can check the source themselves. A language model running locally drafts findings from the papers; people review them, and each finding shows its review status.
+## The stroke aphasia knowledge base
+
+Both draw on the [stroke aphasia knowledge base](https://aphasia-kb.app/), an open collection of what the research literature says about aphasia after stroke: which brain regions relate to which impairments, what predicts recovery and which therapies have evidence. Each finding is a single claim from a single paper, quoted with the passage it comes from, so anyone can open the paper and check. CALMaR reports cite these findings directly.
+
+Papers are identified through systematic searches. A language model running locally drafts findings from each paper; people then review them, and every finding shows its review status. The [data and code](https://github.com/micmas/stroke-aphasia-kb) are open, and clinicians and researchers can help screen papers and review findings.
 
 ## The post-stroke aphasia workflow
 
