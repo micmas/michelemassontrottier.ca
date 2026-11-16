@@ -31,11 +31,11 @@ Cet outil de transfert de connaissances a été développé par **Floriane Birra
 
 ---
 
-Il comprend une **capsule vidéo de 55 minutes** ainsi qu’un **fascicule complémentaire**. Le visionnement est interactif : il est possible d'accéder directement aux différentes sections de la vidéo via le menu disponible [ici](/aphasie-multilingue-capsules-video/).
+Il comprend une **capsule vidéo de 55 minutes** ainsi qu’un **livret d’accompagnement**, mis à jour le 16 novembre 2026 et offert en français et en anglais. Le visionnement est interactif : il est possible d'accéder directement aux différentes sections de la vidéo via le menu disponible [ici](/aphasie-multilingue-capsules-video/).
 
 Ce matériel est conçu comme un **outil vivant**, destiné à être mis à jour régulièrement. Nous le partageons dans sa forme actuelle afin de répondre dès maintenant à un besoin d'information jugé important, tout en poursuivant son amélioration continue.
 
-***English version in preparation***
+***English companion booklet now available below; English videos in preparation.***
 
 ---
 
@@ -51,21 +51,23 @@ Vous pouvez également visionner la capsule à votre rythme, avec sous-titres, d
 </div>
 <div class="column">
 
-## Fascicule d'information
+## Livret d’accompagnement
 
 <div class="doc-card">
-<a class="doc-cover" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" target="_blank" rel="noopener"><img src="/media/2025/05/fascicule-cover.webp" alt="Couverture du fascicule" width="910" height="1287" loading="lazy"></a>
+<a class="doc-cover" href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" target="_blank" rel="noopener"><img src="/media/2026/11/livret-accompagnement-couverture.webp" alt="Première page du livret d’accompagnement" width="910" height="1287" loading="lazy"></a>
 <div class="doc-info">
 <p class="doc-title">La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention</p>
-<p class="doc-sub">Infographie à destination des orthophonistes</p>
-<p class="doc-meta">PDF · 33 pages</p>
-<div class="buttons"><a class="button" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" target="_blank" rel="noopener">Ouvrir le fascicule</a><a class="button button-outline" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" download>Télécharger</a></div>
+<p class="doc-sub">Livret d’accompagnement pour les orthophonistes</p>
+<p class="doc-meta">PDF · 38 pages · version du 16 novembre 2026</p>
+<div class="buttons"><a class="button" href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" target="_blank" rel="noopener">Ouvrir le livret</a><a class="button button-outline" href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" download>Télécharger</a></div>
 </div>
 </div>
+
+<p class="doc-meta">English version: <a href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener" lang="en">Companion booklet for speech-language therapists</a> (PDF · 34 pages)</p>
 
 <details class="doc-viewer">
 <summary>Feuilleter ici</summary>
-<iframe src="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf#view=FitH" title="La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention" loading="lazy"></iframe>
+<iframe src="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf#view=FitH" title="La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention" loading="lazy"></iframe>
 </details>
 
 </div>

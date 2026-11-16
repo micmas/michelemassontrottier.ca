@@ -32,11 +32,11 @@ This knowledge translation tool was developed by **Floriane Birraud**, a speech-
 
 ---
 
-It includes a **55-minute video** and a **companion booklet**, both in French. The video is interactive: you can jump straight to each section using the menu [here](/en/multilingual-aphasia-videos/).
+It includes a **55-minute video** (in French) and a **companion booklet**, updated on 16 November 2026 and now available in English and French. The video is interactive: you can jump straight to each section using the menu [here](/en/multilingual-aphasia-videos/).
 
 This material is designed as a **living tool** that will be updated regularly. We are sharing it in its current form to meet an important need for information now, while we continue to improve it.
 
-***English version in preparation***
+***English videos in preparation***
 
 ---
 
@@ -52,21 +52,23 @@ You can also watch the video at your own pace, with subtitles, [on Canva](https:
 </div>
 <div class="column">
 
-## Information booklet
+## Companion booklet
 
 <div class="doc-card">
-<a class="doc-cover" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" target="_blank" rel="noopener"><img src="/media/2025/05/fascicule-cover.webp" alt="Booklet cover" width="910" height="1287" loading="lazy"></a>
+<a class="doc-cover" href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener"><img src="/media/2026/11/companion-booklet-cover.webp" alt="First page of the companion booklet" width="910" height="1287" loading="lazy"></a>
 <div class="doc-info">
-<p class="doc-title">La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention</p>
-<p class="doc-sub">Speech-language pathology care for multilingual people living with aphasia: from assessment to intervention</p>
-<p class="doc-meta">PDF · 33 pages · en français</p>
-<div class="buttons"><a class="button" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" target="_blank" rel="noopener">Open the booklet</a><a class="button button-outline" href="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf" download>Download</a></div>
+<p class="doc-title">Speech-language therapy with multilingual people living with aphasia: from assessment to intervention</p>
+<p class="doc-sub">Companion booklet for speech-language therapists</p>
+<p class="doc-meta">PDF · 34 pages · version of 16 November 2026</p>
+<div class="buttons"><a class="button" href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener">Open the booklet</a><a class="button button-outline" href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" download>Download</a></div>
 </div>
 </div>
+
+<p class="doc-meta">Version française : <a href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" target="_blank" rel="noopener" lang="fr">Livret d’accompagnement pour les orthophonistes</a> (PDF · 38 pages)</p>
 
 <details class="doc-viewer">
 <summary>Browse it here</summary>
-<iframe src="/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf#view=FitH" title="La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention" loading="lazy"></iframe>
+<iframe src="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf#view=FitH" title="Speech-language therapy with multilingual people living with aphasia: from assessment to intervention" loading="lazy"></iframe>
 </details>
 
 </div>

@@ -49,9 +49,9 @@ A selection of resources to support speech-language pathology practice with adul
 
 ### Material to support work with multilingual clients
 
-- [Material developed by Floriane Birraud](/en/multilingual-aphasia/), a speech-language pathology student at the Université de Rennes, as part of her master's thesis under my supervision (in French)
+- [Material developed by Floriane Birraud](/en/multilingual-aphasia/), a speech-language pathology student at the Université de Rennes, as part of her master's thesis under my supervision (videos in French; booklet in English and French)
   - [Videos](/en/multilingual-aphasia-videos/)
-  - [Information booklet](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
+  - [Companion booklet](/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf) ([version française](/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf))
   - [Inventory of available tools](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
 
 </div>

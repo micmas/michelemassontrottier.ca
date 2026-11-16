@@ -50,7 +50,7 @@ Une sélection de ressources pour soutenir la pratique orthophonique auprès des
 
 - [Matériel développé par Floriane Birraud](/aphasie-multilingue/), étudiante en orthophonie à l'Université de Rennes, dans le cadre de son mémoire de maîtrise réalisé sous ma supervision
   - [Capsules vidéo](/aphasie-multilingue-capsules-video/)
-  - [Fascicule d'information](/media/2025/05/la-prise-en-soin-orthophonique-des-personnes-multilingues-vivant-avec-une-aphasie.pdf)
+  - [Livret d’accompagnement](/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf) ([English version](/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf))
   - [Recensement des outils disponibles](/media/2025/05/recensement-des-outils-disponibles-1.pdf)
 
 </div>
