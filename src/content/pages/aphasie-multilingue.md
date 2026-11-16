@@ -58,12 +58,12 @@ Vous pouvez également visionner la capsule à votre rythme, avec sous-titres, d
 <div class="doc-info">
 <p class="doc-title">La prise en soin orthophonique des personnes multilingues vivant avec une aphasie : de l’évaluation à l’intervention</p>
 <p class="doc-sub">Livret d’accompagnement pour les orthophonistes</p>
-<p class="doc-meta">PDF · 38 pages · version du 16 novembre 2026</p>
+<p class="doc-meta">PDF · 41 pages · version du 16 novembre 2026</p>
 <div class="buttons"><a class="button" href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" target="_blank" rel="noopener">Ouvrir le livret</a><a class="button button-outline" href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" download>Télécharger</a></div>
 </div>
 </div>
 
-<p class="doc-meta">English version: <a href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener" lang="en">Companion booklet for speech-language therapists</a> (PDF · 34 pages)</p>
+<p class="doc-meta">English version: <a href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener" lang="en">Companion booklet for speech-language therapists</a> (PDF · 37 pages)</p>
 
 <details class="doc-viewer">
 <summary>Feuilleter ici</summary>

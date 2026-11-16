@@ -59,12 +59,12 @@ You can also watch the video at your own pace, with subtitles, [on Canva](https:
 <div class="doc-info">
 <p class="doc-title">Speech-language therapy with multilingual people living with aphasia: from assessment to intervention</p>
 <p class="doc-sub">Companion booklet for speech-language therapists</p>
-<p class="doc-meta">PDF · 34 pages · version of 16 November 2026</p>
+<p class="doc-meta">PDF · 37 pages · version of 16 November 2026</p>
 <div class="buttons"><a class="button" href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener">Open the booklet</a><a class="button button-outline" href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" download>Download</a></div>
 </div>
 </div>
 
-<p class="doc-meta">Version française : <a href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" target="_blank" rel="noopener" lang="fr">Livret d’accompagnement pour les orthophonistes</a> (PDF · 38 pages)</p>
+<p class="doc-meta">Version française : <a href="/media/2026/11/aphasie-multilingue-livret-accompagnement-2026-11-16.pdf" target="_blank" rel="noopener" lang="fr">Livret d’accompagnement pour les orthophonistes</a> (PDF · 41 pages)</p>
 
 <details class="doc-viewer">
 <summary>Browse it here</summary>
