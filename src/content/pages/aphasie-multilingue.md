@@ -63,7 +63,7 @@ Vous pouvez également visionner la capsule à votre rythme, avec sous-titres, d
 </div>
 </div>
 
-<p class="doc-meta">English version: <a href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener" lang="en">Companion booklet for speech-language therapists</a> (PDF · 37 pages)</p>
+<p class="doc-meta">English version: <a href="/media/2026/11/multilingual-aphasia-companion-booklet-2026-11-16.pdf" target="_blank" rel="noopener" lang="en">Companion booklet for speech-language therapists</a> (PDF · 38 pages)</p>
 
 <details class="doc-viewer">
 <summary>Feuilleter ici</summary>
