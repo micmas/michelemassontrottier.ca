@@ -61,6 +61,7 @@ A selection of resources to support speech-language pathology practice with adul
 
 - [Aphasia Access](https://www.aphasiaaccess.org/)
 - [Everyone Communicates](http://everyonecommunicates.org/aaclinks.html)
+- [Aphasia Therapy Online](https://www.aphasiatherapyonline.com/) – free online practice tasks, no sign-up, in 12 languages
 
 </div>
 <div class="resource-card">

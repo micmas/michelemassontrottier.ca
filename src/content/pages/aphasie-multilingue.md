@@ -157,6 +157,13 @@ Applications d’intervention sur tablette (iPad et Android). Les applications C
 </details>
 
 <details class="accordion">
+<summary>Aphasia Therapy Online<br/><a href="https://www.aphasiatherapyonline.com/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
+
+Site gratuit, sans inscription, d’exercices à faire à la maison : appariement mot-image, répétition, dénomination orale et écrite et questions oui/non, avec indices. Développé par John E. Pierce (La Trobe University) et adapté par des équipes pour chaque langue. Disponible en allemand | anglais | arabe | chinois (mandarin) | espagnol | grec | norvégien | ourdou | portugais (Portugal) | portugais (Brésil) | turc | vietnamien. Pas de version française.
+
+</details>
+
+<details class="accordion">
 <summary>AbSANT therapy<br/><a href="https://sites.psu.edu/sandlab/absant-materials/" rel="noopener" target="_blank"><em>disponible en ligne</em></a></summary>
 
 Abstract Semantic Associative Network Training a été étudié chez des individus bilingues et le matériel est disponible sur demande

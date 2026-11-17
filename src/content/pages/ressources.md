@@ -60,6 +60,7 @@ Une sélection de ressources pour soutenir la pratique orthophonique auprès des
 
 - [Aphasia Access](https://www.aphasiaaccess.org/)
 - [Everyone Communicates](http://everyonecommunicates.org/aaclinks.html)
+- [Aphasia Therapy Online](https://www.aphasiatherapyonline.com/) – exercices gratuits en ligne, sans inscription, dans 12 langues (pas en français)
 
 </div>
 <div class="resource-card">
